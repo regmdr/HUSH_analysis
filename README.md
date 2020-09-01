@@ -8,7 +8,7 @@ Repository for the code used in the analysis performed in:
 
 The main analysis described in this repo:
 
-###Figure 2.
+### Figure 2.
 Differential gene expression analysis in **DGEA** folder. 
 
 1. Alignment of reads was performed with TopHat2 for each sample _run\_tophat2.sh_. 
@@ -16,7 +16,7 @@ Differential gene expression analysis in **DGEA** folder.
 3. DEA with _deseq2\_dea.r_. Gene set enrichment analysis was done with _fgsea\_dea.r_
 
 
-###Figure 4. 
+### Figure 4. 
 Differential repeat analysis in **repeat_analysis** folder. 
 Counting by family using TEtranscripts with _run\_TEcount.sh_. 
 
