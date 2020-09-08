@@ -2,7 +2,7 @@
 
 Repository for the code used in the analysis performed in:
 
-	The HUSH complex is a gatekeeper of type I interferon induction through epigenetic control of LINE-1s
+	The HUSH complex is a gatekeeper of type I interferon through epigenetic regulation of LINE-1s
 
 
 
@@ -25,7 +25,21 @@ Counting by family using TEtranscripts with _run\_TEcount.sh_.
 * Counting of uniquely mapping reads on individual loci with _run\_htseq-count.rep-locus.sh_. 
 * Differential expression analysis performed with DESeq2 for locus with at least 20 reads among all samples.
 * Plots in 4d done with script _by\_fam\_log2FC.bound.py_. 
-* Analysis of distance between TSS of upregulated ISGs and upregulated locus in 4f done with script _distance\_from\_loci.randomization\_median.py_ 
+* Analysis of distance between TSS of upregulated ISGs and upregulated locus in 4f done with script _distance\_from\_loci.randomization\_median.py_
+
+
+##### Species specificity data.
+
+Species-specificity of repeat families was extracted from Dfam (using the "TaxId" field, see dfam.speciesID.txt).The species relationships were obtained using:
+
+	ete3 ncbiquery --search 1437010 314295 314293 9392 9347 32523 33554 9526 32524 314147 9989 207598 376913 9443 117571 9255 311790 9348 9605 314146 32525 9604 9606 91561 40674 9263 --tree > tree_human-repeats.TaxonID.txt
+
+
+Relative proportion of families specific to each taxonomic level were calculated with _human-repeats\_by\_cladeID.py_
+
+Depiction of such proportions into the tree were performed in python 3 using _ete3\_tree.v2.py_
+
+
 
 ##### Analysis to consensus sequences. 
 
@@ -41,12 +55,12 @@ The steps for such analysis are described in **bidirectional\_transcription\_ana
 
 
 ### Figure 5
-Randmizations in figure 5d carried out with script _randomization\_l1-all.R_
+Randomizations in figure 5d carried out with script _randomization\_l1-all.R_
 
 
 ### Figure 6
 
-For 6a, TCGA data retrival and plotting was performed with _xenaPython\_GTex-TCGA\_controls.separate.py_
+For 6a, TCGA data retrieval and plotting was performed with _xenaPython\_GTex-TCGA\_controls.separate.py_
 
 Plotting and statistical test in fig 6b were performed with _mpp8\_by\_immune\_subtype.py_
 

@@ -1,0 +1,4183 @@
+4.5SRNA	9989 TaxName:Rodentia
+5S	7742 TaxName:Vertebrata_Metazoa
+5S_DM	7215 TaxName:Drosophila
+7SK	9347 TaxName:Eutheria
+7SLRNA	9347 TaxName:Eutheria
+ACCORD2_I	7215 TaxName:Drosophila
+ACCORD2_LTR	7215 TaxName:Drosophila
+ACCORD_I	7215 TaxName:Drosophila
+ACCORD_LTR	7215 TaxName:Drosophila
+ACRO1	9443 TaxName:Primates
+ACROBAT1	7954 TaxName:Danio
+ACROBAT2	7955 TaxName:Danio rerio
+ALA_DM	7215 TaxName:Drosophila
+ALR	9443 TaxName:Primates
+ALRa	9443 TaxName:Primates
+ALRb	9443 TaxName:Primates
+ANGEL	7954 TaxName:Danio
+ARS406_DM	7215 TaxName:Drosophila
+ASAT_CY	7953 TaxName:Cyprinidae
+Academ-N1_DRe	7955 TaxName:Danio rerio
+AluJb	9443 TaxName:Primates
+AluJo	9443 TaxName:Primates
+AluJr	9443 TaxName:Primates
+AluJr4	9443 TaxName:Primates
+AluSc	9443 TaxName:Primates
+AluSc5	9443 TaxName:Primates
+AluSc8	9443 TaxName:Primates
+AluSg	9443 TaxName:Primates
+AluSg4	9443 TaxName:Primates
+AluSg7	9443 TaxName:Primates
+AluSp	9443 TaxName:Primates
+AluSq	9443 TaxName:Primates
+AluSq10	9443 TaxName:Primates
+AluSq2	9443 TaxName:Primates
+AluSq4	9443 TaxName:Primates
+AluSx	9443 TaxName:Primates
+AluSx1	9443 TaxName:Primates
+AluSx3	9443 TaxName:Primates
+AluSx4	9443 TaxName:Primates
+AluSz	9443 TaxName:Primates
+AluSz6	9443 TaxName:Primates
+AluY	9443 TaxName:Primates
+AluYa5	9604 TaxName:Hominidae
+AluYa8	9604 TaxName:Hominidae
+AluYb8	9604 TaxName:Hominidae
+AluYb9	9604 TaxName:Hominidae
+AluYc	9443 TaxName:Primates
+AluYc3	9443 TaxName:Primates
+AluYd8	9604 TaxName:Hominidae
+AluYe5	9443 TaxName:Primates
+AluYe6	9443 TaxName:Primates
+AluYf1	314295 TaxName:Hominoidea
+AluYg6	9604 TaxName:Hominidae
+AluYh3	9604 TaxName:Hominidae
+AluYh7	9606 TaxName:Homo_sapiens
+AluYh9	9604 TaxName:Hominidae
+AluYi6	9604 TaxName:Hominidae
+AluYi6_4d	9606 TaxName:Homo_sapiens
+AluYj4	9606 TaxName:Homo_sapiens
+AluYk11	9604 TaxName:Hominidae
+AluYk12	9604 TaxName:Hominidae
+AluYk2	314295 TaxName:Hominoidea
+AluYk3	314295 TaxName:Hominoidea
+AluYk4	9604 TaxName:Hominidae
+AluYm1	314295 TaxName:Hominoidea
+AmnHarb1	32524 TaxName:Amniota
+AmnL2-1	32524 TaxName:Amniota
+AmnSINE1	32524 TaxName:Amniota
+AmnSINE2	32524 TaxName:Amniota
+Arthur1	9347 TaxName:Eutheria
+Arthur1A	9347 TaxName:Eutheria
+Arthur1B	9347 TaxName:Eutheria
+Arthur1C	9347 TaxName:Eutheria
+Arthur2	40674 TaxName:Mammalia
+B1F	10066 TaxName:Muridae
+B1F1	10066 TaxName:Muridae
+B1F2	10066 TaxName:Muridae
+B1_Mm	10088 TaxName:Mus
+B1_Mur1	10066 TaxName:Muridae
+B1_Mur2	10066 TaxName:Muridae
+B1_Mur3	10066 TaxName:Muridae
+B1_Mur4	10066 TaxName:Muridae
+B1_Mus1	10088 TaxName:Mus
+B1_Mus2	10088 TaxName:Mus
+B2_Mm1a	10088 TaxName:Mus
+B2_Mm1t	10088 TaxName:Mus
+B2_Mm2	10088 TaxName:Mus
+B3	10066 TaxName:Muridae
+B3A	10066 TaxName:Muridae
+B4	9989 TaxName:Rodentia
+B4A	9989 TaxName:Rodentia
+BARI1	7215 TaxName:Drosophila
+BARI_DM	7215 TaxName:Drosophila
+BATUMI_I	7215 TaxName:Drosophila
+BATUMI_LTR	7215 TaxName:Drosophila
+BC1_Mm	10088 TaxName:Mus
+BC200	9443 TaxName:Primates
+BEL-16_DR-I	7955 TaxName:Danio rerio
+BEL-16_DR-LTR	7955 TaxName:Danio rerio
+BEL-26_DR-I	7955 TaxName:Danio rerio
+BEL-26_DR-LTR	7955 TaxName:Danio rerio
+BEL-37-I_DR	7955 TaxName:Danio rerio
+BEL-37-LTR_DR	7955 TaxName:Danio rerio
+BEL-38-I_DR	7955 TaxName:Danio rerio
+BEL-38-LTR_DR	7955 TaxName:Danio rerio
+BEL-39_DRe-I	7955 TaxName:Danio rerio
+BEL-39_DRe-LTR	7955 TaxName:Danio rerio
+BEL-40_DRe-I	7955 TaxName:Danio rerio
+BEL-40_DRe-LTR	7955 TaxName:Danio rerio
+BEL-41_DRe-I	7955 TaxName:Danio rerio
+BEL-41_DRe-LTR	7955 TaxName:Danio rerio
+BEL-42_DRe-I	7955 TaxName:Danio rerio
+BEL-42_DRe-LTR	7955 TaxName:Danio rerio
+BEL-43_DRe-I	7955 TaxName:Danio rerio
+BEL-43_DRe-LTR	7955 TaxName:Danio rerio
+BEL-44_DRe-I	7955 TaxName:Danio rerio
+BEL-44_DRe-LTR	7955 TaxName:Danio rerio
+BEL-45_DRe-I	7955 TaxName:Danio rerio
+BEL-45_DRe-LTR	7955 TaxName:Danio rerio
+BEL-46_DRe-I	7955 TaxName:Danio rerio
+BEL-46_DRe-LTR	7955 TaxName:Danio rerio
+BEL-47_DRe-I	7955 TaxName:Danio rerio
+BEL-47_DRe-LTR	7955 TaxName:Danio rerio
+BEL-48_DRe-I	7955 TaxName:Danio rerio
+BEL-48_DRe-LTR	7955 TaxName:Danio rerio
+BEL-49_DRe-I	7955 TaxName:Danio rerio
+BEL-49_DRe-LTR	7955 TaxName:Danio rerio
+BEL-50_DRe-I	7955 TaxName:Danio rerio
+BEL-50_DRe-LTR	7955 TaxName:Danio rerio
+BEL-51_DRe-I	7955 TaxName:Danio rerio
+BEL-51_DRe-LTR	7955 TaxName:Danio rerio
+BEL-52_DRe-I	7955 TaxName:Danio rerio
+BEL-52_DRe-LTR	7955 TaxName:Danio rerio
+BEL-53_DRe-I	7955 TaxName:Danio rerio
+BEL-53_DRe-LTR	7955 TaxName:Danio rerio
+BEL-54_DRe-I	7955 TaxName:Danio rerio
+BEL-54_DRe-LTR	7955 TaxName:Danio rerio
+BEL-55_DRe-I	7955 TaxName:Danio rerio
+BEL-55_DRe-LTR	7955 TaxName:Danio rerio
+BEL-56_DRe-I	7955 TaxName:Danio rerio
+BEL-56_DRe-LTR	7955 TaxName:Danio rerio
+BEL-57_DRe-I	7955 TaxName:Danio rerio
+BEL-57_DRe-LTR	7955 TaxName:Danio rerio
+BEL-58_DRe-I	7955 TaxName:Danio rerio
+BEL-58_DRe-LTR	7955 TaxName:Danio rerio
+BEL-59_DRe-I	7955 TaxName:Danio rerio
+BEL-59_DRe-LTR	7955 TaxName:Danio rerio
+BEL-60_DRe-I	7955 TaxName:Danio rerio
+BEL-60_DRe-LTR	7955 TaxName:Danio rerio
+BEL-61_DRe-I	7955 TaxName:Danio rerio
+BEL-61_DRe-LTR	7955 TaxName:Danio rerio
+BEL-62_DRe-I	7955 TaxName:Danio rerio
+BEL-62_DRe-LTR	7955 TaxName:Danio rerio
+BEL-63_DRe-I	7955 TaxName:Danio rerio
+BEL-63_DRe-LTR	7955 TaxName:Danio rerio
+BEL-64_DRe-I	7955 TaxName:Danio rerio
+BEL-65_DRe-I	7955 TaxName:Danio rerio
+BEL-65_DRe-LTR	7955 TaxName:Danio rerio
+BEL1-I_DR	7955 TaxName:Danio rerio
+BEL1-LTR_DR	7955 TaxName:Danio rerio
+BEL10-I_DR	7955 TaxName:Danio rerio
+BEL10-LTR_DR	7955 TaxName:Danio rerio
+BEL11-I_DR	7955 TaxName:Danio rerio
+BEL11-LTR_DR	7955 TaxName:Danio rerio
+BEL12-I_DR	7955 TaxName:Danio rerio
+BEL12-LTR_DR	7955 TaxName:Danio rerio
+BEL13-I_DR	7955 TaxName:Danio rerio
+BEL13-LTR_DR	7955 TaxName:Danio rerio
+BEL14-I_DR	7955 TaxName:Danio rerio
+BEL14-LTR_DR	7955 TaxName:Danio rerio
+BEL15-I_DR	7955 TaxName:Danio rerio
+BEL15-LTR_DR	7955 TaxName:Danio rerio
+BEL17-I_DR	7955 TaxName:Danio rerio
+BEL17-LTR_DR	7955 TaxName:Danio rerio
+BEL18-I_DR	7955 TaxName:Danio rerio
+BEL18-LTR_DR	7955 TaxName:Danio rerio
+BEL19-I_DR	7955 TaxName:Danio rerio
+BEL19-LTR_DR	7955 TaxName:Danio rerio
+BEL2-I_DR	7955 TaxName:Danio rerio
+BEL2-LTR_DR	7955 TaxName:Danio rerio
+BEL20-I_DR	7955 TaxName:Danio rerio
+BEL20-LTR_DR	7955 TaxName:Danio rerio
+BEL21-I_DR	7955 TaxName:Danio rerio
+BEL21-LTR_DR	7955 TaxName:Danio rerio
+BEL22-I_DR	7955 TaxName:Danio rerio
+BEL22-LTR_DR	7955 TaxName:Danio rerio
+BEL23-I_DR	7955 TaxName:Danio rerio
+BEL23-LTR_DR	7955 TaxName:Danio rerio
+BEL24-I_DR	7955 TaxName:Danio rerio
+BEL24-LTR_DR	7955 TaxName:Danio rerio
+BEL25-I_DR	7955 TaxName:Danio rerio
+BEL25-LTR_DR	7955 TaxName:Danio rerio
+BEL27-I_DR	7955 TaxName:Danio rerio
+BEL27-LTR_DR	7955 TaxName:Danio rerio
+BEL29-I_DR	7955 TaxName:Danio rerio
+BEL29-LTR_DR	7955 TaxName:Danio rerio
+BEL3-I_DR	7955 TaxName:Danio rerio
+BEL3-LTR_DR	7955 TaxName:Danio rerio
+BEL30-I_DR	7955 TaxName:Danio rerio
+BEL30-LTR_DR	7955 TaxName:Danio rerio
+BEL31-I_DR	7955 TaxName:Danio rerio
+BEL31-LTR_DR	7955 TaxName:Danio rerio
+BEL32-I_DR	7955 TaxName:Danio rerio
+BEL32-LTR_DR	7955 TaxName:Danio rerio
+BEL33-I_DR	7955 TaxName:Danio rerio
+BEL33-LTR_DR	7955 TaxName:Danio rerio
+BEL34-I_DR	7955 TaxName:Danio rerio
+BEL34-LTR_DR	7955 TaxName:Danio rerio
+BEL35-I_DR	7955 TaxName:Danio rerio
+BEL35-LTR_DR	7955 TaxName:Danio rerio
+BEL36-I_DR	7955 TaxName:Danio rerio
+BEL36-LTR_DR	7955 TaxName:Danio rerio
+BEL4-I_DR	7955 TaxName:Danio rerio
+BEL4-LTR_DR	7955 TaxName:Danio rerio
+BEL5-I_DR	7955 TaxName:Danio rerio
+BEL5-LTR_DR	7955 TaxName:Danio rerio
+BEL7-I_DR	7955 TaxName:Danio rerio
+BEL7-LTR_DR	7955 TaxName:Danio rerio
+BEL8-I_DR	7955 TaxName:Danio rerio
+BEL8-LTR_DR	7955 TaxName:Danio rerio
+BEL9-I_DR	7955 TaxName:Danio rerio
+BEL9-LTR_DR	7955 TaxName:Danio rerio
+BELPADRE_I	7955 TaxName:Danio rerio
+BELPADRE_LTR	7955 TaxName:Danio rerio
+BEL_I	7215 TaxName:Drosophila
+BEL_LTR	7215 TaxName:Drosophila
+BGLII	10088 TaxName:Mus
+BGLII_A	10066 TaxName:Muridae
+BGLII_B	10066 TaxName:Muridae
+BGLII_B2	39107 TaxName:Murinae
+BGLII_C	10090 TaxName:Mus
+BGLII_Mur	39107 TaxName:Murinae
+BGLII_Mus	10088 TaxName:Mus
+BHIKHARI-2-I_DR	7955 TaxName:Danio rerio
+BHIKHARI-2-LTR_DR	7955 TaxName:Danio rerio
+BHIKHARI-3-I_DR	7955 TaxName:Danio rerio
+BHIKHARI-3-LTR_DR	7955 TaxName:Danio rerio
+BHIKHARI-4-I_DR	7955 TaxName:Danio rerio
+BHIKHARI-4-LTR_DR	7955 TaxName:Danio rerio
+BHIKHARI-5-I_DR	7955 TaxName:Danio rerio
+BHIKHARI-5-LTR_DR	7955 TaxName:Danio rerio
+BHIKHARI_I	7954 TaxName:Danio
+BHIKHARI_LTR	7954 TaxName:Danio
+BLACKJACK	9347 TaxName:Eutheria
+BLASTOPIA_I	7215 TaxName:Drosophila
+BLASTOPIA_LTR	7215 TaxName:Drosophila
+BLOOD_I	7215 TaxName:Drosophila
+BLOOD_LTR	7215 TaxName:Drosophila
+BRSATI	7954 TaxName:Danio
+BS	7215 TaxName:Drosophila
+BS2	7215 TaxName:Drosophila
+BS3_DM	7215 TaxName:Drosophila
+BS4_DM	7215 TaxName:Drosophila
+BSR	9443 TaxName:Primates
+BSRa	9443 TaxName:Primates
+BSRb	9443 TaxName:Primates
+BSRd	9443 TaxName:Primates
+BSRf	9443 TaxName:Primates
+BURDOCK_I	7215 TaxName:Drosophila
+BURDOCK_LTR	7215 TaxName:Drosophila
+Baggins1	7215 TaxName:Drosophila
+Bica_I	7227 TaxName:Drosophila
+Bica_LTR	7227 TaxName:Drosophila
+BovB-1_DR	7955 TaxName:Danio rerio
+CATCH1I_DR	7954 TaxName:Danio
+CATCH1LTR_DR	7954 TaxName:Danio
+CATCH2I_DR	7954 TaxName:Danio
+CATCH2LTR_DR	7954 TaxName:Danio
+CATCH3I_DR	7954 TaxName:Danio
+CATCH3LTR_DR	7954 TaxName:Danio
+CELE1	6239 TaxName:Caenorhabditis elegans
+CELE11	6239 TaxName:Caenorhabditis elegans
+CELE12A	6239 TaxName:Caenorhabditis elegans
+CELE12B	6239 TaxName:Caenorhabditis elegans
+CELE14A	6239 TaxName:Caenorhabditis elegans
+CELE14B	6239 TaxName:Caenorhabditis elegans
+CELE2	6239 TaxName:Caenorhabditis elegans
+CELE4	6239 TaxName:Caenorhabditis elegans
+CELE42	6239 TaxName:Caenorhabditis elegans
+CELE45	6239 TaxName:Caenorhabditis elegans
+CELE46A	6239 TaxName:Caenorhabditis elegans
+CELE46B	6239 TaxName:Caenorhabditis elegans
+CELE6	6239 TaxName:Caenorhabditis elegans
+CELE7	6239 TaxName:Caenorhabditis elegans
+CELETC2	6239 TaxName:Caenorhabditis elegans
+CEMUDR1	6239 TaxName:Caenorhabditis elegans
+CEMUDR2	6239 TaxName:Caenorhabditis elegans
+CENSAT_MC	10088 TaxName:Mus
+CER	9443 TaxName:Primates
+CER1	6239 TaxName:Caenorhabditis elegans
+CER10-I_CE	6239 TaxName:Caenorhabditis elegans
+CER10-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER11-I_CE	6239 TaxName:Caenorhabditis elegans
+CER11-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER12-1-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER12-I_CE	6239 TaxName:Caenorhabditis elegans
+CER12-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER13-I_CE	6239 TaxName:Caenorhabditis elegans
+CER13-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER15-1-I_CE	6239 TaxName:Caenorhabditis elegans
+CER15-1-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER15-I_CE	6239 TaxName:Caenorhabditis elegans
+CER15-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER16-1-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER16-2-I_CE	6239 TaxName:Caenorhabditis elegans
+CER16-2-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER16-I_CE	6239 TaxName:Caenorhabditis elegans
+CER16-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER17-I_CE	6239 TaxName:Caenorhabditis elegans
+CER17-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER2-1-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER2-I_CE	6239 TaxName:Caenorhabditis elegans
+CER2-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER3-1-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER3-I_CE	6239 TaxName:Caenorhabditis elegans
+CER3-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER4-I_CE	6239 TaxName:Caenorhabditis elegans
+CER4-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER5-I_CE	6239 TaxName:Caenorhabditis elegans
+CER5-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER6-I_CE	6239 TaxName:Caenorhabditis elegans
+CER6-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER7-I_CE	6239 TaxName:Caenorhabditis elegans
+CER7-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER8-I_CE	6239 TaxName:Caenorhabditis elegans
+CER8-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CER9-I_CE	6239 TaxName:Caenorhabditis elegans
+CER9-LTR_CE	6239 TaxName:Caenorhabditis elegans
+CERP1	6239 TaxName:Caenorhabditis elegans
+CERP16	6239 TaxName:Caenorhabditis elegans
+CERP2	6239 TaxName:Caenorhabditis elegans
+CERP3	6239 TaxName:Caenorhabditis elegans
+CERP4	6239 TaxName:Caenorhabditis elegans
+CIRCE	7215 TaxName:Drosophila
+CR1-10_DR	7955 TaxName:Danio rerio
+CR1-11_Crp	32524 TaxName:Amniota
+CR1-12_AMi	32524 TaxName:Amniota
+CR1-12_DR	7955 TaxName:Danio rerio
+CR1-13_AMi	32524 TaxName:Amniota
+CR1-16_AMi	32524 TaxName:Amniota
+CR1-18_DR	7955 TaxName:Danio rerio
+CR1-1_Amn	32524 TaxName:Amniota
+CR1-22_DR	7955 TaxName:Danio rerio
+CR1-24_DR	7955 TaxName:Danio rerio
+CR1-25_DR	7955 TaxName:Danio rerio
+CR1-37_DR	7955 TaxName:Danio rerio
+CR1-3_Croc	32524 TaxName:Amniota
+CR1-42_DR	7955 TaxName:Danio rerio
+CR1-44_DR	7955 TaxName:Danio rerio
+CR1-46_DR	7955 TaxName:Danio rerio
+CR1-49_DR	7955 TaxName:Danio rerio
+CR1-51_DR	7955 TaxName:Danio rerio
+CR1-54_DR	7955 TaxName:Danio rerio
+CR1-55_DR	7955 TaxName:Danio rerio
+CR1-L3A_Croc	32524 TaxName:Amniota
+CR1-L3B_Croc	32524 TaxName:Amniota
+CR1_Mam	40674 TaxName:Mammalia
+CYRA11_Mm	10088 TaxName:Mus
+CeRep1A	6239 TaxName:Caenorhabditis elegans
+CeRep3	6239 TaxName:Caenorhabditis elegans
+CeRep4	6239 TaxName:Caenorhabditis elegans
+CeRep5	6239 TaxName:Caenorhabditis elegans
+CeRep52	6239 TaxName:Caenorhabditis elegans
+CeRep53	6239 TaxName:Caenorhabditis elegans
+CeRep54	6239 TaxName:Caenorhabditis elegans
+CeRep55	6239 TaxName:Caenorhabditis elegans
+CeRep56	6239 TaxName:Caenorhabditis elegans
+CeRep57	6239 TaxName:Caenorhabditis elegans
+CeRep58	6239 TaxName:Caenorhabditis elegans
+CeRep59	6239 TaxName:Caenorhabditis elegans
+Chap1_Mam	9347 TaxName:Eutheria
+Chap1a_Mam	9347 TaxName:Eutheria
+Chapaev-1_CE	6239 TaxName:Caenorhabditis elegans
+Chapaev-2_CE	6239 TaxName:Caenorhabditis elegans
+Chaplin1A_DR	7955 TaxName:Danio rerio
+Chaplin1B_DR	7955 TaxName:Danio rerio
+Chaplin1_DR	7955 TaxName:Danio rerio
+Charlie1	9263 TaxName:Metatheria
+Charlie1	9347 TaxName:Eutheria
+Charlie10	9347 TaxName:Eutheria
+Charlie10a	9347 TaxName:Eutheria
+Charlie10b	9347 TaxName:Eutheria
+Charlie11	9347 TaxName:Eutheria
+Charlie12	9347 TaxName:Eutheria
+Charlie12	9443 TaxName:Primates
+Charlie12_Rodent	9989 TaxName:Rodentia
+Charlie13a	40674 TaxName:Mammalia
+Charlie13b	40674 TaxName:Mammalia
+Charlie14a	9347 TaxName:Eutheria
+Charlie15a	9347 TaxName:Eutheria
+Charlie15b	9347 TaxName:Eutheria
+Charlie16	9347 TaxName:Eutheria
+Charlie16a	9347 TaxName:Eutheria
+Charlie17	9347 TaxName:Eutheria
+Charlie17a	9347 TaxName:Eutheria
+Charlie17b	9347 TaxName:Eutheria
+Charlie18a	9347 TaxName:Eutheria
+Charlie19a	9347 TaxName:Eutheria
+Charlie1a	9347 TaxName:Eutheria
+Charlie1b	9347 TaxName:Eutheria
+Charlie20a	9347 TaxName:Eutheria
+Charlie21a	9347 TaxName:Eutheria
+Charlie22a	9347 TaxName:Eutheria
+Charlie23a	32525 TaxName:Theria_Mammalia
+Charlie24	32525 TaxName:Theria_Mammalia
+Charlie25	9347 TaxName:Eutheria
+Charlie26a	9347 TaxName:Eutheria
+Charlie29a	9347 TaxName:Eutheria
+Charlie29b	9347 TaxName:Eutheria
+Charlie2a	9347 TaxName:Eutheria
+Charlie2b	9347 TaxName:Eutheria
+Charlie3	314293 TaxName:Simiiformes
+Charlie30a	40674 TaxName:Mammalia
+Charlie30b	9347 TaxName:Eutheria
+Charlie31a	9347 TaxName:Eutheria
+Charlie32a	32525 TaxName:Theria_Mammalia
+Charlie4	9263 TaxName:Metatheria
+Charlie4	9347 TaxName:Eutheria
+Charlie4a	9347 TaxName:Eutheria
+Charlie4z	9347 TaxName:Eutheria
+Charlie5	9347 TaxName:Eutheria
+Charlie6	9347 TaxName:Eutheria
+Charlie7	9263 TaxName:Metatheria
+Charlie7	9347 TaxName:Eutheria
+Charlie7a	9347 TaxName:Eutheria
+Charlie8	9347 TaxName:Eutheria
+Charlie9	9347 TaxName:Eutheria
+Cheshire	9347 TaxName:Eutheria
+Chimpo_I	7227 TaxName:Drosophila
+Chimpo_LTR	7227 TaxName:Drosophila
+Chompy-6_Croc	32524 TaxName:Amniota
+Chouto_I	7227 TaxName:Drosophila
+Chouto_LTR	7227 TaxName:Drosophila
+Copia-10B_DR-LTR	7955 TaxName:Danio rerio
+Copia-10_DR-LTR	7955 TaxName:Danio rerio
+Copia-11B_DR-LTR	7955 TaxName:Danio rerio
+Copia-11C_DR-LTR	7955 TaxName:Danio rerio
+Copia-11D_DR-LTR	7955 TaxName:Danio rerio
+Copia-11E_DR-LTR	7955 TaxName:Danio rerio
+Copia-11F_DR-LTR	7955 TaxName:Danio rerio
+Copia-11G_DR-LTR	7955 TaxName:Danio rerio
+Copia-11H_DR-LTR	7955 TaxName:Danio rerio
+Copia-11I_DR-LTR	7955 TaxName:Danio rerio
+Copia-11_DR-LTR	7955 TaxName:Danio rerio
+Copia-12_DR-LTR	7955 TaxName:Danio rerio
+Copia-13B_DR-I	7955 TaxName:Danio rerio
+Copia-13B_DR-LTR	7955 TaxName:Danio rerio
+Copia-13C_DR-I	7955 TaxName:Danio rerio
+Copia-13_DR-I	7955 TaxName:Danio rerio
+Copia-13_DR-LTR	7955 TaxName:Danio rerio
+Copia-14_DR-I	7955 TaxName:Danio rerio
+Copia-14_DR-LTR	7955 TaxName:Danio rerio
+Copia-15B_DR-LTR	7955 TaxName:Danio rerio
+Copia-15_DR-LTR	7955 TaxName:Danio rerio
+Copia-16_DR-I	7955 TaxName:Danio rerio
+Copia-16_DR-LTR	7955 TaxName:Danio rerio
+Copia-17_DR-LTR	7955 TaxName:Danio rerio
+Copia-6-I_DR	7955 TaxName:Danio rerio
+Copia-7-I_DR	7955 TaxName:Danio rerio
+Copia-7-LTR_DR	7955 TaxName:Danio rerio
+Copia-8-I_DR	7955 TaxName:Danio rerio
+Copia-8-LTR_DR	7955 TaxName:Danio rerio
+Copia-9-LTR_DR	7955 TaxName:Danio rerio
+Copia1-I_DM	7227 TaxName:Drosophila
+Copia1-I_DR	7955 TaxName:Danio rerio
+Copia1-LTR_DM	7227 TaxName:Drosophila
+Copia1-LTR_DR	7955 TaxName:Danio rerio
+Copia2-I_DR	7955 TaxName:Danio rerio
+Copia2-LTR_DR	7955 TaxName:Danio rerio
+Copia2_I	7215 TaxName:Drosophila
+Copia2_LTR_DM	7215 TaxName:Drosophila
+Copia3-I_DR	7955 TaxName:Danio rerio
+Copia3-LTR_DR	7955 TaxName:Danio rerio
+Copia4-I_DR	7955 TaxName:Danio rerio
+Copia4-LTR_DR	7955 TaxName:Danio rerio
+Copia5-I_DR	7955 TaxName:Danio rerio
+Copia5-LTR_DR	7955 TaxName:Danio rerio
+Copia6-LTR_DR	7955 TaxName:Danio rerio
+Copia_I	7215 TaxName:Drosophila
+Copia_LTR	7215 TaxName:Drosophila
+Crack-1_DR	7955 TaxName:Danio rerio
+Crack-2_DR	7955 TaxName:Danio rerio
+Crack-3_DR	7955 TaxName:Danio rerio
+Crack-4_DR	7955 TaxName:Danio rerio
+Crypton-N1_DR	7955 TaxName:Danio rerio
+CryptonA-1_DR	7955 TaxName:Danio rerio
+CryptonH-1_DR	7955 TaxName:Danio rerio
+CryptonV-1_DR	7955 TaxName:Danio rerio
+D20S16	9443 TaxName:Primates
+DANA	7954 TaxName:Danio
+DIRS-1-LTR_DR	7954 TaxName:Danio
+DIRS-10_DR	7955 TaxName:Danio rerio
+DIRS-12_DR	7955 TaxName:Danio rerio
+DIRS-13_DR	7955 TaxName:Danio rerio
+DIRS-14_DR	7955 TaxName:Danio rerio
+DIRS-15B_DR	7955 TaxName:Danio rerio
+DIRS-15_DR	7955 TaxName:Danio rerio
+DIRS-16_DR	7955 TaxName:Danio rerio
+DIRS-17_DR	7955 TaxName:Danio rerio
+DIRS-18_DR	7955 TaxName:Danio rerio
+DIRS-1B-LTR_DR	7955 TaxName:Danio rerio
+DIRS-1C-LTR_DR	7955 TaxName:Danio rerio
+DIRS-1D-I_DR	7955 TaxName:Danio rerio
+DIRS-1D-LTR_DR	7955 TaxName:Danio rerio
+DIRS-1E-LTR_DR	7955 TaxName:Danio rerio
+DIRS-1F-LTR_DR	7955 TaxName:Danio rerio
+DIRS-1G-LTR_DR	7955 TaxName:Danio rerio
+DIRS-1_DR	7955 TaxName:Danio rerio
+DIRS-2_DR	7955 TaxName:Danio rerio
+DIRS-3_DR	7955 TaxName:Danio rerio
+DIRS-4N1-LTR_DR	7955 TaxName:Danio rerio
+DIRS-4N1_DR	7955 TaxName:Danio rerio
+DIRS-4N2-LTR_DR	7955 TaxName:Danio rerio
+DIRS-4N2_DR	7955 TaxName:Danio rerio
+DIRS-4N3_DR	7955 TaxName:Danio rerio
+DIRS-4N4-LTR_DR	7955 TaxName:Danio rerio
+DIRS-4N5-LTR_DR	7955 TaxName:Danio rerio
+DIRS-4_DR	7955 TaxName:Danio rerio
+DIRS-5_DR	7955 TaxName:Danio rerio
+DIRS-6B_DR	7955 TaxName:Danio rerio
+DIRS-6_DR	7955 TaxName:Danio rerio
+DIRS-7_DR	7955 TaxName:Danio rerio
+DIRS-8B_DR	7955 TaxName:Danio rerio
+DIRS-8_DR	7955 TaxName:Danio rerio
+DIRS-9B_DR	7955 TaxName:Danio rerio
+DIRS-9C_DR	7955 TaxName:Danio rerio
+DIRS-9_DR	7955 TaxName:Danio rerio
+DIRS-N1_DR	7955 TaxName:Danio rerio
+DIRS-N2_DR	7955 TaxName:Danio rerio
+DIRS-N3_DR	7955 TaxName:Danio rerio
+DIRS-N4_DR	7955 TaxName:Danio rerio
+DIRS1_DR	7954 TaxName:Danio
+DIRS1a_DR	7954 TaxName:Danio
+DIRS1b_DR	7955 TaxName:Danio rerio
+DIVER2_I	7215 TaxName:Drosophila
+DIVER2_LTR	7215 TaxName:Drosophila
+DIVER_I	7215 TaxName:Drosophila
+DIVER_LTR	7215 TaxName:Drosophila
+DM1731_I	7215 TaxName:Drosophila
+DM1731_LTR	7215 TaxName:Drosophila
+DM176_I	7215 TaxName:Drosophila
+DM176_LTR	7215 TaxName:Drosophila
+DM297_I	7215 TaxName:Drosophila
+DM297_LTR	7215 TaxName:Drosophila
+DM412	7215 TaxName:Drosophila
+DM412B_LTR	7215 TaxName:Drosophila
+DMCR1A	7215 TaxName:Drosophila
+DMLTR5	7215 TaxName:Drosophila
+DMRP1	7215 TaxName:Drosophila
+DMRPR	7215 TaxName:Drosophila
+DMRT1A	7215 TaxName:Drosophila
+DMRT1B	7215 TaxName:Drosophila
+DMRT1C	7215 TaxName:Drosophila
+DMSAT6	7215 TaxName:Drosophila
+DMTOM1_LTR	7215 TaxName:Drosophila
+DNA-1-10_DR	7955 TaxName:Danio rerio
+DNA-1-11_DR	7955 TaxName:Danio rerio
+DNA-1-1_DR	7955 TaxName:Danio rerio
+DNA-1-2_DR	7955 TaxName:Danio rerio
+DNA-1-3B_DR	7955 TaxName:Danio rerio
+DNA-1-3_DR	7955 TaxName:Danio rerio
+DNA-1-4_DR	7955 TaxName:Danio rerio
+DNA-1-5_DR	7955 TaxName:Danio rerio
+DNA-1-6_DR	7955 TaxName:Danio rerio
+DNA-1-7_DR	7955 TaxName:Danio rerio
+DNA-1-8_DR	7955 TaxName:Danio rerio
+DNA-1-9_DR	7955 TaxName:Danio rerio
+DNA-10-1_DR	7955 TaxName:Danio rerio
+DNA-2-10_DR	7955 TaxName:Danio rerio
+DNA-2-11_DR	7955 TaxName:Danio rerio
+DNA-2-12_DR	7955 TaxName:Danio rerio
+DNA-2-13_DR	7955 TaxName:Danio rerio
+DNA-2-14_DR	7955 TaxName:Danio rerio
+DNA-2-15_DR	7955 TaxName:Danio rerio
+DNA-2-16_DR	7955 TaxName:Danio rerio
+DNA-2-17_DR	7955 TaxName:Danio rerio
+DNA-2-18_DR	7955 TaxName:Danio rerio
+DNA-2-19_DR	7955 TaxName:Danio rerio
+DNA-2-1_DR	7955 TaxName:Danio rerio
+DNA-2-20_DR	7955 TaxName:Danio rerio
+DNA-2-21_DR	7955 TaxName:Danio rerio
+DNA-2-22_DR	7955 TaxName:Danio rerio
+DNA-2-23_DR	7955 TaxName:Danio rerio
+DNA-2-24B_DR	7955 TaxName:Danio rerio
+DNA-2-24_DR	7955 TaxName:Danio rerio
+DNA-2-25_DR	7955 TaxName:Danio rerio
+DNA-2-26_DR	7955 TaxName:Danio rerio
+DNA-2-27_DR	7955 TaxName:Danio rerio
+DNA-2-28_DR	7955 TaxName:Danio rerio
+DNA-2-29_DR	7955 TaxName:Danio rerio
+DNA-2-2_DR	7955 TaxName:Danio rerio
+DNA-2-30B_DR	7955 TaxName:Danio rerio
+DNA-2-30_DR	7955 TaxName:Danio rerio
+DNA-2-31_DR	7955 TaxName:Danio rerio
+DNA-2-33B_DR	7955 TaxName:Danio rerio
+DNA-2-33_DR	7955 TaxName:Danio rerio
+DNA-2-34_DR	7955 TaxName:Danio rerio
+DNA-2-3_DR	7955 TaxName:Danio rerio
+DNA-2-4_DR	7955 TaxName:Danio rerio
+DNA-2-6_DR	7955 TaxName:Danio rerio
+DNA-2-7_DR	7955 TaxName:Danio rerio
+DNA-2-8_DR	7955 TaxName:Danio rerio
+DNA-2-9_DR	7955 TaxName:Danio rerio
+DNA-3-1B_DR	7955 TaxName:Danio rerio
+DNA-3-1_CE	6239 TaxName:Caenorhabditis elegans
+DNA-3-1_DR	7955 TaxName:Danio rerio
+DNA-3-2B_DR	7955 TaxName:Danio rerio
+DNA-3-2_DR	7955 TaxName:Danio rerio
+DNA-3-3_DR	7955 TaxName:Danio rerio
+DNA-3-4_DR	7955 TaxName:Danio rerio
+DNA-3-5_DR	7955 TaxName:Danio rerio
+DNA-3-6B_DR	7955 TaxName:Danio rerio
+DNA-3-6_DR	7955 TaxName:Danio rerio
+DNA-4-1_DR	7955 TaxName:Danio rerio
+DNA-4-2_DR	7955 TaxName:Danio rerio
+DNA-4-3_DR	7955 TaxName:Danio rerio
+DNA-4-4_DR	7955 TaxName:Danio rerio
+DNA-4-5_DR	7955 TaxName:Danio rerio
+DNA-5-1B_DR	7955 TaxName:Danio rerio
+DNA-5-1_DR	7955 TaxName:Danio rerio
+DNA-5-2B_DR	7955 TaxName:Danio rerio
+DNA-5-2_DR	7955 TaxName:Danio rerio
+DNA-5-3_DR	7955 TaxName:Danio rerio
+DNA-5-4_DR	7955 TaxName:Danio rerio
+DNA-5-5_DR	7955 TaxName:Danio rerio
+DNA-5-6_DR	7955 TaxName:Danio rerio
+DNA-5-7_DR	7955 TaxName:Danio rerio
+DNA-5-8B_DR	7955 TaxName:Danio rerio
+DNA-5-8C_DR	7955 TaxName:Danio rerio
+DNA-5-8D_DR	7955 TaxName:Danio rerio
+DNA-5-8E_DR	7955 TaxName:Danio rerio
+DNA-5-8_DR	7955 TaxName:Danio rerio
+DNA-5-9_DR	7955 TaxName:Danio rerio
+DNA-6-N1_DR	7955 TaxName:Danio rerio
+DNA-6-N2_DR	7955 TaxName:Danio rerio
+DNA-6-N3_DR	7955 TaxName:Danio rerio
+DNA-6-N4_DR	7955 TaxName:Danio rerio
+DNA-6-N5_DR	7955 TaxName:Danio rerio
+DNA-6-N6_DR	7955 TaxName:Danio rerio
+DNA-6-N7_DR	7955 TaxName:Danio rerio
+DNA-6-N8_DR	7955 TaxName:Danio rerio
+DNA-6-N9_DR	7955 TaxName:Danio rerio
+DNA-8-10_DR	7955 TaxName:Danio rerio
+DNA-8-11B_DR	7955 TaxName:Danio rerio
+DNA-8-11_DR	7955 TaxName:Danio rerio
+DNA-8-12_DR	7955 TaxName:Danio rerio
+DNA-8-13_DR	7955 TaxName:Danio rerio
+DNA-8-14_DR	7955 TaxName:Danio rerio
+DNA-8-15_DR	7955 TaxName:Danio rerio
+DNA-8-16_DR	7955 TaxName:Danio rerio
+DNA-8-17_DR	7955 TaxName:Danio rerio
+DNA-8-18_DR	7955 TaxName:Danio rerio
+DNA-8-19_DR	7955 TaxName:Danio rerio
+DNA-8-1_DR	7954 TaxName:Danio
+DNA-8-20_DR	7955 TaxName:Danio rerio
+DNA-8-21_DR	7955 TaxName:Danio rerio
+DNA-8-22_DR	7955 TaxName:Danio rerio
+DNA-8-23_DR	7955 TaxName:Danio rerio
+DNA-8-24_DR	7955 TaxName:Danio rerio
+DNA-8-25_DR	7955 TaxName:Danio rerio
+DNA-8-26_DR	7955 TaxName:Danio rerio
+DNA-8-27_DR	7955 TaxName:Danio rerio
+DNA-8-28_DR	7955 TaxName:Danio rerio
+DNA-8-29_DR	7955 TaxName:Danio rerio
+DNA-8-2_DR	7954 TaxName:Danio
+DNA-8-30_DR	7955 TaxName:Danio rerio
+DNA-8-31_DR	7955 TaxName:Danio rerio
+DNA-8-32_DR	7955 TaxName:Danio rerio
+DNA-8-33_DR	7955 TaxName:Danio rerio
+DNA-8-34_DR	7955 TaxName:Danio rerio
+DNA-8-35_DR	7955 TaxName:Danio rerio
+DNA-8-36B_DR	7955 TaxName:Danio rerio
+DNA-8-36_DR	7955 TaxName:Danio rerio
+DNA-8-3_DR	7955 TaxName:Danio rerio
+DNA-8-4_DR	7955 TaxName:Danio rerio
+DNA-8-5_DR	7955 TaxName:Danio rerio
+DNA-8-6_DR	7955 TaxName:Danio rerio
+DNA-8-7_DR	7955 TaxName:Danio rerio
+DNA-8-8_DR	7955 TaxName:Danio rerio
+DNA-8-9_DR	7955 TaxName:Danio rerio
+DNA-9-1_DR	7955 TaxName:Danio rerio
+DNA-AT-1_DR	7955 TaxName:Danio rerio
+DNA-AT-2_DR	7955 TaxName:Danio rerio
+DNA-AT-3_DR	7955 TaxName:Danio rerio
+DNA-AT-4_DR	7955 TaxName:Danio rerio
+DNA-CCGG-1_DR	7955 TaxName:Danio rerio
+DNA-N15_DR	7955 TaxName:Danio rerio
+DNA-N4_DR	7955 TaxName:Danio rerio
+DNA-TA-1_DR	7955 TaxName:Danio rerio
+DNA-TA-2_DR	7955 TaxName:Danio rerio
+DNA-TA-3_DR	7955 TaxName:Danio rerio
+DNA-TA-4_DR	7955 TaxName:Danio rerio
+DNA-TA-5_DR	7955 TaxName:Danio rerio
+DNA-TA-6_DR	7955 TaxName:Danio rerio
+DNA-TA-7_DR	7955 TaxName:Danio rerio
+DNA-TA-8_DR	7955 TaxName:Danio rerio
+DNA-TTAA-1_DR	7955 TaxName:Danio rerio
+DNA-TTAA-2_DR	7955 TaxName:Danio rerio
+DNA-TTAA0-1_DR	7955 TaxName:Danio rerio
+DNA-TTAA0-2_DR	7955 TaxName:Danio rerio
+DNA-TTAA0-3_DR	7955 TaxName:Danio rerio
+DNA-TTAA0-4_DR	7955 TaxName:Danio rerio
+DNA-TTAA0-5_DR	7955 TaxName:Danio rerio
+DNA-TTAA0-6_DR	7955 TaxName:Danio rerio
+DNA-TTAA0-7_DR	7955 TaxName:Danio rerio
+DNA-X-10_DR	7955 TaxName:Danio rerio
+DNA-X-11_DR	7955 TaxName:Danio rerio
+DNA-X-12_DR	7955 TaxName:Danio rerio
+DNA-X-13_DR	7955 TaxName:Danio rerio
+DNA-X-14_DR	7955 TaxName:Danio rerio
+DNA-X-15_DR	7955 TaxName:Danio rerio
+DNA-X-16_DR	7955 TaxName:Danio rerio
+DNA-X-17_DR	7955 TaxName:Danio rerio
+DNA-X-2B_DR	7955 TaxName:Danio rerio
+DNA-X-2_DR	7955 TaxName:Danio rerio
+DNA-X-3_DR	7955 TaxName:Danio rerio
+DNA-X-4B_DR	7955 TaxName:Danio rerio
+DNA-X-4_DR	7955 TaxName:Danio rerio
+DNA-X-5_DR	7955 TaxName:Danio rerio
+DNA-X-6_DR	7955 TaxName:Danio rerio
+DNA-X-7_DR	7955 TaxName:Danio rerio
+DNA-X-8_DR	7955 TaxName:Danio rerio
+DNA-X-9_DR	7955 TaxName:Danio rerio
+DNA11TA1_DR	7954 TaxName:Danio
+DNA13TA1_DR	7954 TaxName:Danio
+DNA13TA1a_DR	7954 TaxName:Danio
+DNA14-5-1_DR	7954 TaxName:Danio
+DNA15TA1_DR	7954 TaxName:Danio
+DNA16TA1_DR	7954 TaxName:Danio
+DNA1_Mam	9347 TaxName:Eutheria
+DNA2-10_DR	7955 TaxName:Danio rerio
+DNA2-11_DR	7955 TaxName:Danio rerio
+DNA2-12_DR	7955 TaxName:Danio rerio
+DNA2-13_DR	7955 TaxName:Danio rerio
+DNA2-14_DR	7955 TaxName:Danio rerio
+DNA2-15_DR	7955 TaxName:Danio rerio
+DNA2-17_DR	7955 TaxName:Danio rerio
+DNA2-1_DR	7955 TaxName:Danio rerio
+DNA2-2B_DR	7955 TaxName:Danio rerio
+DNA2-2_DR	7955 TaxName:Danio rerio
+DNA2-32B_DR	7955 TaxName:Danio rerio
+DNA2-3_DR	7955 TaxName:Danio rerio
+DNA2-4_DR	7955 TaxName:Danio rerio
+DNA2-5_DR	7955 TaxName:Danio rerio
+DNA2-6_DR	7955 TaxName:Danio rerio
+DNA2-7_DR	7955 TaxName:Danio rerio
+DNA2-8_DR	7955 TaxName:Danio rerio
+DNA2-9_DR	7955 TaxName:Danio rerio
+DNA21TA1_DR	7954 TaxName:Danio
+DNA25TWA1_DR	7954 TaxName:Danio
+DNA25TWA2_DR	7954 TaxName:Danio
+DNA3-1_DR	7955 TaxName:Danio rerio
+DNA4-1B_DR	7955 TaxName:Danio rerio
+DNA5-6B_DR	7955 TaxName:Danio rerio
+DNA6-10_DR	7955 TaxName:Danio rerio
+DNA6-1B_DR	7955 TaxName:Danio rerio
+DNA6-1_DR	7955 TaxName:Danio rerio
+DNA6-2_DR	7955 TaxName:Danio rerio
+DNA6-3_DR	7955 TaxName:Danio rerio
+DNA6-4_DR	7955 TaxName:Danio rerio
+DNA6-5_DR	7955 TaxName:Danio rerio
+DNA6-7_DR	7955 TaxName:Danio rerio
+DNA6-8_DR	7955 TaxName:Danio rerio
+DNA6-9B_DR	7955 TaxName:Danio rerio
+DNA6-9_DR	7955 TaxName:Danio rerio
+DNA7-N1_DR	7955 TaxName:Danio rerio
+DNA7-N2_DR	7955 TaxName:Danio rerio
+DNA8-10B_DR	7955 TaxName:Danio rerio
+DNA8-10_DR	7955 TaxName:Danio rerio
+DNA8-12_DR	7955 TaxName:Danio rerio
+DNA8-13_DR	7955 TaxName:Danio rerio
+DNA8-14_DR	7955 TaxName:Danio rerio
+DNA8-15_DR	7955 TaxName:Danio rerio
+DNA8-17_DR	7955 TaxName:Danio rerio
+DNA8-18_DR	7955 TaxName:Danio rerio
+DNA8-19_DR	7955 TaxName:Danio rerio
+DNA8-1_DR	7955 TaxName:Danio rerio
+DNA8-20_DR	7955 TaxName:Danio rerio
+DNA8-21_DR	7955 TaxName:Danio rerio
+DNA8-22_DR	7955 TaxName:Danio rerio
+DNA8-23_DR	7955 TaxName:Danio rerio
+DNA8-24_DR	7955 TaxName:Danio rerio
+DNA8-25_DR	7955 TaxName:Danio rerio
+DNA8-26_DR	7955 TaxName:Danio rerio
+DNA8-2_DR	7954 TaxName:Danio
+DNA8-3B_DR	7955 TaxName:Danio rerio
+DNA8-3C_DR	7955 TaxName:Danio rerio
+DNA8-3_DR	7954 TaxName:Danio
+DNA8-4A_DR	7955 TaxName:Danio rerio
+DNA8-4B_DR	7955 TaxName:Danio rerio
+DNA8-4C_DR	7955 TaxName:Danio rerio
+DNA8-4_DR	7954 TaxName:Danio
+DNA8-5_DR	7954 TaxName:Danio
+DNA8-6_DR	7954 TaxName:Danio
+DNA8-7_DR	7954 TaxName:Danio
+DNA8-8B_DR	7955 TaxName:Danio rerio
+DNA8-8_DR	7954 TaxName:Danio
+DNA8-9_DR	7954 TaxName:Danio
+DNA9-2_DR	7955 TaxName:Danio rerio
+DNA9-3_DR	7955 TaxName:Danio rerio
+DNA9-4_DR	7955 TaxName:Danio rerio
+DNA9-5_DR	7955 TaxName:Danio rerio
+DNA9-6_DR	7955 TaxName:Danio rerio
+DNA9NNN1B_DR	7955 TaxName:Danio rerio
+DNA9NNN1_DR	7954 TaxName:Danio
+DNA9TA1_DR	7954 TaxName:Danio
+DNAREP1_DM	7215 TaxName:Drosophila
+DNAX-10B_DR	7955 TaxName:Danio rerio
+DNAX-10_DR	7955 TaxName:Danio rerio
+DNAX-15_DR	7955 TaxName:Danio rerio
+DNAX-16_DR	7955 TaxName:Danio rerio
+DNAX-17B_DR	7955 TaxName:Danio rerio
+DNAX-17_DR	7955 TaxName:Danio rerio
+DNAX-18_DR	7955 TaxName:Danio rerio
+DNAX-19_DR	7955 TaxName:Danio rerio
+DNAX-1B_DR	7955 TaxName:Danio rerio
+DNAX-1C_DR	7955 TaxName:Danio rerio
+DNAX-1_DR	7954 TaxName:Danio
+DNAX-20_DR	7955 TaxName:Danio rerio
+DNAX-21_DR	7955 TaxName:Danio rerio
+DNAX-22_DR	7955 TaxName:Danio rerio
+DNAX-23_DR	7955 TaxName:Danio rerio
+DNAX-24B_DR	7955 TaxName:Danio rerio
+DNAX-24_DR	7955 TaxName:Danio rerio
+DNAX-25_DR	7955 TaxName:Danio rerio
+DNAX-26_DR	7955 TaxName:Danio rerio
+DNAX-27_DR	7955 TaxName:Danio rerio
+DOC	7215 TaxName:Drosophila
+DOC2_DM	7215 TaxName:Drosophila
+DOC3_DM	7215 TaxName:Drosophila
+DOC4_DM	7215 TaxName:Drosophila
+DOC5_DM	7215 TaxName:Drosophila
+DOC6_DM	7215 TaxName:Drosophila
+DRSATII	7954 TaxName:Danio
+Dada-U1A_DR	7955 TaxName:Danio rerio
+Dada-U1B_DR	7955 TaxName:Danio rerio
+Dada-U6N1_DR	7955 TaxName:Danio rerio
+Dada-U6_DR	7955 TaxName:Danio rerio
+Dada-tA_DR	7955 TaxName:Danio rerio
+Dada-tL_DR	7955 TaxName:Danio rerio
+Daphne-27_DRe	7955 TaxName:Danio rerio
+ENSPM-2N_DR	7955 TaxName:Danio rerio
+ERV1-1-I_DR	7955 TaxName:Danio rerio
+ERV1-1-LTR_DR	7955 TaxName:Danio rerio
+ERV1-10_DR-I	7955 TaxName:Danio rerio
+ERV1-10_DR-LTR	7955 TaxName:Danio rerio
+ERV1-1B_DR-I	7955 TaxName:Danio rerio
+ERV1-1B_DR-LTR	7955 TaxName:Danio rerio
+ERV1-1C_DR-LTR	7955 TaxName:Danio rerio
+ERV1-2-I_DR	7955 TaxName:Danio rerio
+ERV1-2-LTR_DR	7955 TaxName:Danio rerio
+ERV1-2B-LTR_DR	7955 TaxName:Danio rerio
+ERV1-3-I_DR	7955 TaxName:Danio rerio
+ERV1-3-LTR_DR	7955 TaxName:Danio rerio
+ERV1-4_DR-I	7955 TaxName:Danio rerio
+ERV1-4_DR-LTR	7955 TaxName:Danio rerio
+ERV1-5_DR-I	7955 TaxName:Danio rerio
+ERV1-5_DR-LTR	7955 TaxName:Danio rerio
+ERV1-6_DR-I	7955 TaxName:Danio rerio
+ERV1-7_DR-I	7955 TaxName:Danio rerio
+ERV1-7_DR-LTR	7955 TaxName:Danio rerio
+ERV1-8_DR-LTR	7955 TaxName:Danio rerio
+ERV1-9_DR-LTR	7955 TaxName:Danio rerio
+ERV1-I_DR	7955 TaxName:Danio rerio
+ERV1-N1-I_DR	7955 TaxName:Danio rerio
+ERV1-N1-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N2-I_DR	7955 TaxName:Danio rerio
+ERV1-N2-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N3-I_DR	7955 TaxName:Danio rerio
+ERV1-N3-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N3B-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N3C-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N3D-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N4-I_DR	7955 TaxName:Danio rerio
+ERV1-N4-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N5-I_DR	7955 TaxName:Danio rerio
+ERV1-N5-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N6-I_DR	7955 TaxName:Danio rerio
+ERV1-N6-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N7-I_DR	7955 TaxName:Danio rerio
+ERV1-N7-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N8-I_DR	7955 TaxName:Danio rerio
+ERV1-N8-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N9-I_DR	7955 TaxName:Danio rerio
+ERV1-N9-LTR_DR	7955 TaxName:Danio rerio
+ERV1-N9B-LTR_DR	7955 TaxName:Danio rerio
+ERV1_DR-I	7954 TaxName:Danio
+ERV1_DR-LTR	7954 TaxName:Danio
+ERV24B_Prim	9443 TaxName:Primates
+ERV24_Prim	9443 TaxName:Primates
+ERV2B-LTR_DR	7955 TaxName:Danio rerio
+ERV2_DR-I	7954 TaxName:Danio
+ERV2_DR-LTR	7954 TaxName:Danio
+ERV3-16A3_I	9347 TaxName:Eutheria
+ERV3-16A3_LTR	9347 TaxName:Eutheria
+ERV3_DR-I	7955 TaxName:Danio rerio
+ERV3_DR_LTR	7955 TaxName:Danio rerio
+ERV4_DR-I	7955 TaxName:Danio rerio
+ERV4_DR-LTR	7955 TaxName:Danio rerio
+ERV5_DR_LTR	7955 TaxName:Danio rerio
+ERVB2_1-I_MM	10090 TaxName:Mus
+ERVB2_1A-I_MM	10090 TaxName:Mus
+ERVB3_1-I_MM	10090 TaxName:Mus
+ERVB3_1-LTR_MM	10090 TaxName:Mus
+ERVB4_1-I_MM	10090 TaxName:Mus
+ERVB4_1-LTR_MM	10090 TaxName:Mus
+ERVB4_1B-I_MM	10090 TaxName:Mus
+ERVB4_1B-LTR_MM	10090 TaxName:Mus
+ERVB4_1C-LTR_Mm	10088 TaxName:Mus
+ERVB4_2-I_MM	10090 TaxName:Mus
+ERVB4_2-LTR_MM	10090 TaxName:Mus
+ERVB4_3-I_MM	10090 TaxName:Mus
+ERVB4_3-LTR_MM	10090 TaxName:Mus
+ERVB5_1-I_MM	10088 TaxName:Mus
+ERVB5_1-LTR_MM	10088 TaxName:Mus
+ERVB5_2-LTR_MM	10090 TaxName:Mus
+ERVB7_1-LTR_MM	10090 TaxName:Mus
+ERVB7_2-LTR_MM	10090 TaxName:Mus
+ERVB7_2B-LTR_MM	10090 TaxName:Mus
+ERVB7_3-LTR_MM	10090 TaxName:Mus
+ERVB7_4-LTR_MM	10090 TaxName:Mus
+ERVL	9347 TaxName:Eutheria
+ERVL-B4	9347 TaxName:Eutheria
+ERVL-E	9347 TaxName:Eutheria
+ERVL47	9443 TaxName:Primates
+ERVN1-I_DR	7955 TaxName:Danio rerio
+ERVN1-LTR_DR	7955 TaxName:Danio rerio
+ETnERV	10090 TaxName:Mus
+ETnERV2	10088 TaxName:Mus
+ETnERV3	10088 TaxName:Mus
+EUTREP14	9347 TaxName:Eutheria
+EUTREP15	9347 TaxName:Eutheria
+EUTREP16	9347 TaxName:Eutheria
+EUTREP2	9347 TaxName:Eutheria
+EUTREP4	9347 TaxName:Eutheria
+EUTREP6	9347 TaxName:Eutheria
+EUTREP7	9347 TaxName:Eutheria
+EUTREP8	9347 TaxName:Eutheria
+EXPANDER1_DR	7954 TaxName:Danio
+EnSpm-10N1_DR	7955 TaxName:Danio rerio
+EnSpm-10_DR	7955 TaxName:Danio rerio
+EnSpm-11_DR	7955 TaxName:Danio rerio
+EnSpm-12_DR	7955 TaxName:Danio rerio
+EnSpm-13_DR	7955 TaxName:Danio rerio
+EnSpm-14N1_DR	7955 TaxName:Danio rerio
+EnSpm-14_DR	7955 TaxName:Danio rerio
+EnSpm-15_DR	7955 TaxName:Danio rerio
+EnSpm-16_DR	7955 TaxName:Danio rerio
+EnSpm-17_DR	7955 TaxName:Danio rerio
+EnSpm-18_DR	7955 TaxName:Danio rerio
+EnSpm-19_DR	7955 TaxName:Danio rerio
+EnSpm-2_DR	7955 TaxName:Danio rerio
+EnSpm-3N1_DR	7955 TaxName:Danio rerio
+EnSpm-3_DR	7955 TaxName:Danio rerio
+EnSpm-4N1_DR	7955 TaxName:Danio rerio
+EnSpm-4N2_DR	7955 TaxName:Danio rerio
+EnSpm-5_DR	7955 TaxName:Danio rerio
+EnSpm-6N1_DR	7955 TaxName:Danio rerio
+EnSpm-7_DR	7955 TaxName:Danio rerio
+EnSpm-9_DR	7955 TaxName:Danio rerio
+EnSpm-N10_DR	7955 TaxName:Danio rerio
+EnSpm-N11_DR	7955 TaxName:Danio rerio
+EnSpm-N12_DR	7955 TaxName:Danio rerio
+EnSpm-N13_DR	7955 TaxName:Danio rerio
+EnSpm-N14B_DR	7955 TaxName:Danio rerio
+EnSpm-N14_DR	7955 TaxName:Danio rerio
+EnSpm-N15_DR	7955 TaxName:Danio rerio
+EnSpm-N16_DR	7955 TaxName:Danio rerio
+EnSpm-N17_DR	7955 TaxName:Danio rerio
+EnSpm-N18_DR	7955 TaxName:Danio rerio
+EnSpm-N19_DR	7955 TaxName:Danio rerio
+EnSpm-N1_DR	7955 TaxName:Danio rerio
+EnSpm-N20_DR	7955 TaxName:Danio rerio
+EnSpm-N2_DR	7955 TaxName:Danio rerio
+EnSpm-N3B_DR	7955 TaxName:Danio rerio
+EnSpm-N3C_DR	7955 TaxName:Danio rerio
+EnSpm-N3_DR	7955 TaxName:Danio rerio
+EnSpm-N4B_DR	7955 TaxName:Danio rerio
+EnSpm-N4_DR	7955 TaxName:Danio rerio
+EnSpm-N5_DR	7955 TaxName:Danio rerio
+EnSpm-N6_DR	7955 TaxName:Danio rerio
+EnSpm-N7B_DR	7955 TaxName:Danio rerio
+EnSpm-N7_DR	7955 TaxName:Danio rerio
+EnSpm-N8_DR	7955 TaxName:Danio rerio
+EnSpm1_DR	7954 TaxName:Danio
+EnSpm1_DR	7955 TaxName:Danio rerio
+EnSpmN1_DR	7954 TaxName:Danio
+EnSpmN1_DR	7955 TaxName:Danio rerio
+Eulor1	32524 TaxName:Amniota
+Eulor10	32524 TaxName:Amniota
+Eulor11	32524 TaxName:Amniota
+Eulor12	32524 TaxName:Amniota
+Eulor2A	32524 TaxName:Amniota
+Eulor2B	32524 TaxName:Amniota
+Eulor2C	32524 TaxName:Amniota
+Eulor3	32524 TaxName:Amniota
+Eulor4	32523 TaxName:Tetrapoda
+Eulor5A	32523 TaxName:Tetrapoda
+Eulor5B	32523 TaxName:Tetrapoda
+Eulor6A	32523 TaxName:Tetrapoda
+Eulor6B	32523 TaxName:Tetrapoda
+Eulor6C	32523 TaxName:Tetrapoda
+Eulor6D	32523 TaxName:Tetrapoda
+Eulor6E	32523 TaxName:Tetrapoda
+Eulor7	32524 TaxName:Amniota
+Eulor8	32524 TaxName:Amniota
+Eulor9A	32524 TaxName:Amniota
+Eulor9B	32524 TaxName:Amniota
+Eulor9C	32524 TaxName:Amniota
+EutTc1-N1	9347 TaxName:Eutheria
+EutTc1-N2	9347 TaxName:Eutheria
+EuthAT-2	9347 TaxName:Eutheria
+EuthAT-N1	9347 TaxName:Eutheria
+EuthAT-N1a	9347 TaxName:Eutheria
+Eutr10	9347 TaxName:Eutheria
+Eutr11	9347 TaxName:Eutheria
+Eutr15	9347 TaxName:Eutheria
+Eutr16	9347 TaxName:Eutheria
+Eutr18	9347 TaxName:Eutheria
+Eutr2	9347 TaxName:Eutheria
+Eutr2B	9347 TaxName:Eutheria
+Eutr5	9347 TaxName:Eutheria
+FAM	314146 TaxName:Euarchontoglires
+FB4_DM	7215 TaxName:Drosophila
+FLAM_A	9443 TaxName:Primates
+FLAM_C	9443 TaxName:Primates
+FRAM	9443 TaxName:Primates
+FROGGER_I	7227 TaxName:Drosophila melanogaster
+FROGGER_LTR	7227 TaxName:Drosophila melanogaster
+FTZ_DM	7215 TaxName:Drosophila
+FUSHI_DM	7215 TaxName:Drosophila
+FW2_DM	7215 TaxName:Drosophila
+FW3_DM	7215 TaxName:Drosophila
+FordPrefect	9347 TaxName:Eutheria
+FordPrefect_a	9347 TaxName:Eutheria
+G2_DM	7215 TaxName:Drosophila
+G3_DM	7215 TaxName:Drosophila
+G4_DM	7215 TaxName:Drosophila
+G5A_DM	7215 TaxName:Drosophila
+G5_DM	7215 TaxName:Drosophila
+G6_DM	7215 TaxName:Drosophila
+G7_DM	7215 TaxName:Drosophila
+GSAT	9443 TaxName:Primates
+GSATII	9443 TaxName:Primates
+GSATX	9443 TaxName:Primates
+GSAT_MM	10088 TaxName:Mus
+GTWIN_I	7215 TaxName:Drosophila
+GTWIN_LTR	7215 TaxName:Drosophila
+G_DM	7215 TaxName:Drosophila
+Ginger1-1N1_DR	7955 TaxName:Danio rerio
+Ginger1-1_DR	7955 TaxName:Danio rerio
+Ginger1-N1_DR	7955 TaxName:Danio rerio
+Gypsy-110_DR-I	7955 TaxName:Danio rerio
+Gypsy-110_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-111_DR-I	7955 TaxName:Danio rerio
+Gypsy-111_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-115-I_DR	7955 TaxName:Danio rerio
+Gypsy-115-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-116-I_DR	7955 TaxName:Danio rerio
+Gypsy-116-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-117-I_DR	7955 TaxName:Danio rerio
+Gypsy-117-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-126_DR-I	7955 TaxName:Danio rerio
+Gypsy-126_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-129_DR-I	7955 TaxName:Danio rerio
+Gypsy-129_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-130_DR-I	7955 TaxName:Danio rerio
+Gypsy-130_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-131_DR-I	7955 TaxName:Danio rerio
+Gypsy-131_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-14-I_DR	7955 TaxName:Danio rerio
+Gypsy-14-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-15-I_DR	7955 TaxName:Danio rerio
+Gypsy-15-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-150-LTRb_DR	7955 TaxName:Danio rerio
+Gypsy-16-I_DR	7955 TaxName:Danio rerio
+Gypsy-16-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-162_DR-I	7955 TaxName:Danio rerio
+Gypsy-162_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-165-I_DR	7955 TaxName:Danio rerio
+Gypsy-165-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-166-I_DR	7955 TaxName:Danio rerio
+Gypsy-166-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-166B_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-167-I_DR	7955 TaxName:Danio rerio
+Gypsy-167-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-168-I_DR	7955 TaxName:Danio rerio
+Gypsy-168-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-169-I_DR	7955 TaxName:Danio rerio
+Gypsy-169-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-17-I_DR	7955 TaxName:Danio rerio
+Gypsy-17-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-170-I_DR	7955 TaxName:Danio rerio
+Gypsy-170-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-171-I_DR	7955 TaxName:Danio rerio
+Gypsy-171-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-171_DR-I	7955 TaxName:Danio rerio
+Gypsy-172_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-173_DR	7955 TaxName:Danio rerio
+Gypsy-173_DR-I	7955 TaxName:Danio rerio
+Gypsy-173_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-174_DR-I	7955 TaxName:Danio rerio
+Gypsy-174_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-175_DR-I	7955 TaxName:Danio rerio
+Gypsy-175_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-176_DR-I	7955 TaxName:Danio rerio
+Gypsy-176_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-177_DR-I	7955 TaxName:Danio rerio
+Gypsy-177_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-178_DR-I	7955 TaxName:Danio rerio
+Gypsy-178_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-179_DR-I	7955 TaxName:Danio rerio
+Gypsy-18-I_DR	7955 TaxName:Danio rerio
+Gypsy-18-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-180_DR-I	7955 TaxName:Danio rerio
+Gypsy-180_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-181_DR-I	7955 TaxName:Danio rerio
+Gypsy-181_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-182_DR-I	7955 TaxName:Danio rerio
+Gypsy-182_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-183_DR-I	7955 TaxName:Danio rerio
+Gypsy-183_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-184_DR-I	7955 TaxName:Danio rerio
+Gypsy-184_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-185_DR-I	7955 TaxName:Danio rerio
+Gypsy-185_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-186_DR-I	7955 TaxName:Danio rerio
+Gypsy-186_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-187_DR-I	7955 TaxName:Danio rerio
+Gypsy-187_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-188_DR-I	7955 TaxName:Danio rerio
+Gypsy-188_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-189_DR-I	7955 TaxName:Danio rerio
+Gypsy-189_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-19-I_DR	7955 TaxName:Danio rerio
+Gypsy-19-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-190_DR-I	7955 TaxName:Danio rerio
+Gypsy-190_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-191_DR-I	7955 TaxName:Danio rerio
+Gypsy-191_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-192_DR-I	7955 TaxName:Danio rerio
+Gypsy-192_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-193_DR-I	7955 TaxName:Danio rerio
+Gypsy-193_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-194B_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-194_DR-I	7955 TaxName:Danio rerio
+Gypsy-194_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-195_DR-I	7955 TaxName:Danio rerio
+Gypsy-195_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-196_DR-I	7955 TaxName:Danio rerio
+Gypsy-196_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-197_DR-I	7955 TaxName:Danio rerio
+Gypsy-197_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-198_DR-I	7955 TaxName:Danio rerio
+Gypsy-198_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-199_DR-I	7955 TaxName:Danio rerio
+Gypsy-199_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-20-I_DR	7955 TaxName:Danio rerio
+Gypsy-20-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-200_DR-I	7955 TaxName:Danio rerio
+Gypsy-200_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-201_DR-I	7955 TaxName:Danio rerio
+Gypsy-201_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-202_DR-I	7955 TaxName:Danio rerio
+Gypsy-203_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-204_DR-I	7955 TaxName:Danio rerio
+Gypsy-204_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-205_DR-I	7955 TaxName:Danio rerio
+Gypsy-206_DR-I	7955 TaxName:Danio rerio
+Gypsy-206_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-207_DR-I	7955 TaxName:Danio rerio
+Gypsy-207_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-208_DR-I	7955 TaxName:Danio rerio
+Gypsy-208_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-209_DR-I	7955 TaxName:Danio rerio
+Gypsy-209_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-21-I_DR	7955 TaxName:Danio rerio
+Gypsy-21-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-210_DR-I	7955 TaxName:Danio rerio
+Gypsy-210_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-211_DR-I	7955 TaxName:Danio rerio
+Gypsy-211_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-212_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-213_DR-I	7955 TaxName:Danio rerio
+Gypsy-213_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-214_DR-I	7955 TaxName:Danio rerio
+Gypsy-215_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-216_DR-I	7955 TaxName:Danio rerio
+Gypsy-216_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-217_DR-I	7955 TaxName:Danio rerio
+Gypsy-217_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-218_DR-I	7955 TaxName:Danio rerio
+Gypsy-218_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-219_DR-I	7955 TaxName:Danio rerio
+Gypsy-219_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-22-I_DR	7955 TaxName:Danio rerio
+Gypsy-22-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-220_DR-I	7955 TaxName:Danio rerio
+Gypsy-220_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-221_DR-I	7955 TaxName:Danio rerio
+Gypsy-221_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-222_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-223_DR-I	7955 TaxName:Danio rerio
+Gypsy-223_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-224_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-225_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-226_DR-I	7955 TaxName:Danio rerio
+Gypsy-226_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-227_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-228_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-229_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-23-I_DR	7955 TaxName:Danio rerio
+Gypsy-23-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-230_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-231_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-232_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-233_DR-I	7955 TaxName:Danio rerio
+Gypsy-233_DR-LTR	7955 TaxName:Danio rerio
+Gypsy-24-I_DR	7955 TaxName:Danio rerio
+Gypsy-24-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-25-I_DR	7955 TaxName:Danio rerio
+Gypsy-25-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-26-I_DR	7955 TaxName:Danio rerio
+Gypsy-26-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-27-I_DR	7955 TaxName:Danio rerio
+Gypsy-27-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-28-I_DR	7955 TaxName:Danio rerio
+Gypsy-28-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-28B-I_DR	7955 TaxName:Danio rerio
+Gypsy-28B-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-29-I_DR	7955 TaxName:Danio rerio
+Gypsy-29-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-30-I_DR	7955 TaxName:Danio rerio
+Gypsy-30-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-31-I_DR	7955 TaxName:Danio rerio
+Gypsy-31-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-32-I_DR	7955 TaxName:Danio rerio
+Gypsy-32-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-33-I_DR	7955 TaxName:Danio rerio
+Gypsy-33-LTR_DR	7955 TaxName:Danio rerio
+Gypsy-34-I_DR	7955 TaxName:Danio rerio
+Gypsy-34-LTR_Dr	7955 TaxName:Danio rerio
+Gypsy1-I_DM	7227 TaxName:Drosophila
+Gypsy1-LTR_DM	7227 TaxName:Drosophila
+Gypsy10-I_DR	7955 TaxName:Danio rerio
+Gypsy10-LTR_DR	7955 TaxName:Danio rerio
+Gypsy100-I_DR	7955 TaxName:Danio rerio
+Gypsy100-LTR_DR	7955 TaxName:Danio rerio
+Gypsy101-I_DR	7955 TaxName:Danio rerio
+Gypsy101-LTR_DR	7955 TaxName:Danio rerio
+Gypsy101-LTRb_DR	7955 TaxName:Danio rerio
+Gypsy101B-LTR_DR	7955 TaxName:Danio rerio
+Gypsy102-I_DR	7955 TaxName:Danio rerio
+Gypsy102-LTR_DR	7955 TaxName:Danio rerio
+Gypsy103-I_Dr	7955 TaxName:Danio rerio
+Gypsy103-LTR_Dr	7955 TaxName:Danio rerio
+Gypsy104-I_Dr	7955 TaxName:Danio rerio
+Gypsy104-LTR_DR	7955 TaxName:Danio rerio
+Gypsy105-I_Dr	7955 TaxName:Danio rerio
+Gypsy105-LTR_Dr	7955 TaxName:Danio rerio
+Gypsy106-I_DR	7955 TaxName:Danio rerio
+Gypsy106-LTR_DR	7955 TaxName:Danio rerio
+Gypsy107-I_Dr	7955 TaxName:Danio rerio
+Gypsy107-LTR_Dr	7955 TaxName:Danio rerio
+Gypsy108-I_Dr	7955 TaxName:Danio rerio
+Gypsy108-LTR_Dr	7955 TaxName:Danio rerio
+Gypsy10_I	7215 TaxName:Drosophila
+Gypsy10_LTR	7215 TaxName:Drosophila
+Gypsy11-I_DR	7955 TaxName:Danio rerio
+Gypsy11-LTR_DR	7955 TaxName:Danio rerio
+Gypsy116-I_DR	7955 TaxName:Danio rerio
+Gypsy116-LTR_DR	7955 TaxName:Danio rerio
+Gypsy117-I_DR	7955 TaxName:Danio rerio
+Gypsy117-LTR_DR	7955 TaxName:Danio rerio
+Gypsy118-I_DR	7955 TaxName:Danio rerio
+Gypsy118-LTR_DR	7955 TaxName:Danio rerio
+Gypsy119-I_DR	7955 TaxName:Danio rerio
+Gypsy119-LTR_DR	7955 TaxName:Danio rerio
+Gypsy11_I	7215 TaxName:Drosophila
+Gypsy11_LTR	7215 TaxName:Drosophila
+Gypsy12-I_DR	7955 TaxName:Danio rerio
+Gypsy12-LTR_DR	7955 TaxName:Danio rerio
+Gypsy120-I_DR	7955 TaxName:Danio rerio
+Gypsy120-LTR_DR	7955 TaxName:Danio rerio
+Gypsy121-I_DR	7955 TaxName:Danio rerio
+Gypsy121-LTR_DR	7955 TaxName:Danio rerio
+Gypsy122-I_DR	7955 TaxName:Danio rerio
+Gypsy122-LTR_DR	7955 TaxName:Danio rerio
+Gypsy123-LTR_DR	7955 TaxName:Danio rerio
+Gypsy123-LTRb_DR	7955 TaxName:Danio rerio
+Gypsy124-I_DR	7955 TaxName:Danio rerio
+Gypsy124-LTR_DR	7955 TaxName:Danio rerio
+Gypsy127-I_DR	7955 TaxName:Danio rerio
+Gypsy127-LTR_DR	7955 TaxName:Danio rerio
+Gypsy128-I_DR	7955 TaxName:Danio rerio
+Gypsy128-LTR_DR	7955 TaxName:Danio rerio
+Gypsy12A_LTR	7215 TaxName:Drosophila
+Gypsy12_I	7215 TaxName:Drosophila
+Gypsy12_LTR	7215 TaxName:Drosophila
+Gypsy13-I_DR	7955 TaxName:Danio rerio
+Gypsy13-LTR_DR	7955 TaxName:Danio rerio
+Gypsy132-I_DR	7955 TaxName:Danio rerio
+Gypsy132-LTR_DR	7955 TaxName:Danio rerio
+Gypsy133-I_DR	7955 TaxName:Danio rerio
+Gypsy133-LTR_DR	7955 TaxName:Danio rerio
+Gypsy134-I_DR	7955 TaxName:Danio rerio
+Gypsy134-LTR_DR	7955 TaxName:Danio rerio
+Gypsy135-I_DR	7955 TaxName:Danio rerio
+Gypsy135-LTR_DR	7955 TaxName:Danio rerio
+Gypsy136-I_DR	7955 TaxName:Danio rerio
+Gypsy136-LTR_DR	7955 TaxName:Danio rerio
+Gypsy137-I_DR	7955 TaxName:Danio rerio
+Gypsy137-LTR_DR	7955 TaxName:Danio rerio
+Gypsy138-I_DR	7955 TaxName:Danio rerio
+Gypsy138-LTR_DR	7955 TaxName:Danio rerio
+Gypsy139-I_DR	7955 TaxName:Danio rerio
+Gypsy139-LTR_DR	7955 TaxName:Danio rerio
+Gypsy140-I_DR	7955 TaxName:Danio rerio
+Gypsy140-LTR_DR	7955 TaxName:Danio rerio
+Gypsy141-I_DR	7955 TaxName:Danio rerio
+Gypsy141-LTR_DR	7955 TaxName:Danio rerio
+Gypsy142-I_DR	7955 TaxName:Danio rerio
+Gypsy142-LTR_DR	7955 TaxName:Danio rerio
+Gypsy143-I_DR	7955 TaxName:Danio rerio
+Gypsy143-LTR_DR	7955 TaxName:Danio rerio
+Gypsy144-I_DR	7955 TaxName:Danio rerio
+Gypsy144-LTR_DR	7955 TaxName:Danio rerio
+Gypsy145-I_DR	7955 TaxName:Danio rerio
+Gypsy145-LTR_DR	7955 TaxName:Danio rerio
+Gypsy146-I_DR	7955 TaxName:Danio rerio
+Gypsy146-LTR_DR	7955 TaxName:Danio rerio
+Gypsy147-I_DR	7955 TaxName:Danio rerio
+Gypsy147-LTR_DR	7955 TaxName:Danio rerio
+Gypsy148-I_DR	7955 TaxName:Danio rerio
+Gypsy148-LTR_DR	7955 TaxName:Danio rerio
+Gypsy148-LTRb_DR	7955 TaxName:Danio rerio
+Gypsy149-I_DR	7955 TaxName:Danio rerio
+Gypsy149-LTR_DR	7955 TaxName:Danio rerio
+Gypsy150-I_DR	7955 TaxName:Danio rerio
+Gypsy150-LTR_DR	7955 TaxName:Danio rerio
+Gypsy151-I_DR	7955 TaxName:Danio rerio
+Gypsy151-LTR_DR	7955 TaxName:Danio rerio
+Gypsy152-I_DR	7955 TaxName:Danio rerio
+Gypsy152-LTR_DR	7955 TaxName:Danio rerio
+Gypsy152B-I_DR	7955 TaxName:Danio rerio
+Gypsy152B-LTR_DR	7955 TaxName:Danio rerio
+Gypsy153-I_DR	7955 TaxName:Danio rerio
+Gypsy153-LTR_DR	7955 TaxName:Danio rerio
+Gypsy154-I_DR	7955 TaxName:Danio rerio
+Gypsy154-LTR_DR	7955 TaxName:Danio rerio
+Gypsy155-I_DR	7955 TaxName:Danio rerio
+Gypsy155-LTR_DR	7955 TaxName:Danio rerio
+Gypsy156-I_DR	7955 TaxName:Danio rerio
+Gypsy156-LTR_DR	7955 TaxName:Danio rerio
+Gypsy157-I_DR	7955 TaxName:Danio rerio
+Gypsy157-LTR_DR	7955 TaxName:Danio rerio
+Gypsy158-I_DR	7955 TaxName:Danio rerio
+Gypsy158-LTR_DR	7955 TaxName:Danio rerio
+Gypsy159-I_DR	7955 TaxName:Danio rerio
+Gypsy159-LTR_DR	7955 TaxName:Danio rerio
+Gypsy160-I_DR	7955 TaxName:Danio rerio
+Gypsy160-LTR_DR	7955 TaxName:Danio rerio
+Gypsy161-I_DR	7955 TaxName:Danio rerio
+Gypsy161-LTR_DR	7955 TaxName:Danio rerio
+Gypsy163-I_DR	7955 TaxName:Danio rerio
+Gypsy163-LTR_DR	7955 TaxName:Danio rerio
+Gypsy164-I_DR	7955 TaxName:Danio rerio
+Gypsy164-LTR_DR	7955 TaxName:Danio rerio
+Gypsy164B-I_DR	7955 TaxName:Danio rerio
+Gypsy172-I_Dr	7955 TaxName:Danio rerio
+Gypsy172-LTR_Dr	7955 TaxName:Danio rerio
+Gypsy2-I_DM	7227 TaxName:Drosophila
+Gypsy2-LTR_DM	7227 TaxName:Drosophila
+Gypsy2_I	7215 TaxName:Drosophila
+Gypsy2_LTR	7215 TaxName:Drosophila
+Gypsy3-I_DR	7954 TaxName:Danio
+Gypsy3-LTR_DR	7954 TaxName:Danio
+Gypsy35-I_DR	7955 TaxName:Danio rerio
+Gypsy35-LTR_DR	7955 TaxName:Danio rerio
+Gypsy36-I_DR	7955 TaxName:Danio rerio
+Gypsy36-LTR_DR	7955 TaxName:Danio rerio
+Gypsy37-I_DR	7955 TaxName:Danio rerio
+Gypsy37-LTR_DR	7955 TaxName:Danio rerio
+Gypsy38-I_DR	7955 TaxName:Danio rerio
+Gypsy38-LTR_DR	7955 TaxName:Danio rerio
+Gypsy39-I_DR	7955 TaxName:Danio rerio
+Gypsy39-LTR_DR	7955 TaxName:Danio rerio
+Gypsy39B-LTR_DR	7955 TaxName:Danio rerio
+Gypsy3_I	7215 TaxName:Drosophila
+Gypsy3_LTR	7215 TaxName:Drosophila
+Gypsy4-I_DR	7955 TaxName:Danio rerio
+Gypsy4-LTR_DR	7955 TaxName:Danio rerio
+Gypsy40-I_DR	7955 TaxName:Danio rerio
+Gypsy40-LTR_DR	7955 TaxName:Danio rerio
+Gypsy41-I_DR	7955 TaxName:Danio rerio
+Gypsy41-LTR_DR	7955 TaxName:Danio rerio
+Gypsy42-I_DR	7955 TaxName:Danio rerio
+Gypsy42-LTR_DR	7955 TaxName:Danio rerio
+Gypsy42B-LTR_DR	7955 TaxName:Danio rerio
+Gypsy43-I_DR	7955 TaxName:Danio rerio
+Gypsy43-LTR_DR	7955 TaxName:Danio rerio
+Gypsy44-I_DR	7955 TaxName:Danio rerio
+Gypsy44-LTR_DR	7955 TaxName:Danio rerio
+Gypsy45-I_DR	7955 TaxName:Danio rerio
+Gypsy45-LTR_DR	7955 TaxName:Danio rerio
+Gypsy46-I_DR	7955 TaxName:Danio rerio
+Gypsy46-LTR_DR	7955 TaxName:Danio rerio
+Gypsy47-I_DR	7955 TaxName:Danio rerio
+Gypsy47-LTR_DR	7955 TaxName:Danio rerio
+Gypsy48-I_DR	7955 TaxName:Danio rerio
+Gypsy48_LTR_DR	7955 TaxName:Danio rerio
+Gypsy49-I_DR	7955 TaxName:Danio rerio
+Gypsy49-LTR_DR	7955 TaxName:Danio rerio
+Gypsy4_I	7215 TaxName:Drosophila
+Gypsy4_LTR	7215 TaxName:Drosophila
+Gypsy5-I_DR	7954 TaxName:Danio
+Gypsy5-LTR_DR	7954 TaxName:Danio
+Gypsy50-I_DR	7955 TaxName:Danio rerio
+Gypsy50-LTR_DR	7955 TaxName:Danio rerio
+Gypsy51-I_DR	7955 TaxName:Danio rerio
+Gypsy51-LTR_DR	7955 TaxName:Danio rerio
+Gypsy52-I_DR	7955 TaxName:Danio rerio
+Gypsy52-LTR_DR	7955 TaxName:Danio rerio
+Gypsy53-I_DR	7955 TaxName:Danio rerio
+Gypsy53-LTR_DR	7955 TaxName:Danio rerio
+Gypsy54-I_DR	7955 TaxName:Danio rerio
+Gypsy54-LTR_DR	7955 TaxName:Danio rerio
+Gypsy55-I_DR	7955 TaxName:Danio rerio
+Gypsy55-LTR_DR	7955 TaxName:Danio rerio
+Gypsy56-I_DR	7955 TaxName:Danio rerio
+Gypsy56-LTR_DR	7955 TaxName:Danio rerio
+Gypsy57-I_DR	7955 TaxName:Danio rerio
+Gypsy57-LTR_DR	7955 TaxName:Danio rerio
+Gypsy58-I_DR	7955 TaxName:Danio rerio
+Gypsy58-LTR_DR	7955 TaxName:Danio rerio
+Gypsy59-I_DR	7955 TaxName:Danio rerio
+Gypsy59-LTR_DR	7955 TaxName:Danio rerio
+Gypsy5_I	7215 TaxName:Drosophila
+Gypsy5_LTR	7215 TaxName:Drosophila
+Gypsy6-I_DR	7954 TaxName:Danio
+Gypsy6-LTR_DR	7954 TaxName:Danio
+Gypsy60-I_DR	7955 TaxName:Danio rerio
+Gypsy60-LTR_DR	7955 TaxName:Danio rerio
+Gypsy61-I_DR	7955 TaxName:Danio rerio
+Gypsy61-LTR_DR	7955 TaxName:Danio rerio
+Gypsy62-I_DR	7955 TaxName:Danio rerio
+Gypsy62-LTR_DR	7955 TaxName:Danio rerio
+Gypsy63-I_DR	7955 TaxName:Danio rerio
+Gypsy63-LTR_DR	7955 TaxName:Danio rerio
+Gypsy64-I_DR	7955 TaxName:Danio rerio
+Gypsy64-LTR_DR	7955 TaxName:Danio rerio
+Gypsy65-I_DR	7955 TaxName:Danio rerio
+Gypsy65-LTR_DR	7955 TaxName:Danio rerio
+Gypsy66-I_DR	7955 TaxName:Danio rerio
+Gypsy66-LTR_DR	7955 TaxName:Danio rerio
+Gypsy67-I_DR	7955 TaxName:Danio rerio
+Gypsy67-LTR_DR	7955 TaxName:Danio rerio
+Gypsy68-I_DR	7955 TaxName:Danio rerio
+Gypsy68-LTR_DR	7955 TaxName:Danio rerio
+Gypsy69-I_DR	7955 TaxName:Danio rerio
+Gypsy69-LTR_DR	7955 TaxName:Danio rerio
+Gypsy6A_LTR	7215 TaxName:Drosophila
+Gypsy6_I	7215 TaxName:Drosophila
+Gypsy6_LTR	7215 TaxName:Drosophila
+Gypsy7-I_DR	7955 TaxName:Danio rerio
+Gypsy7-LTR_DR	7955 TaxName:Danio rerio
+Gypsy70-I_DR	7955 TaxName:Danio rerio
+Gypsy70-LTR_DR	7955 TaxName:Danio rerio
+Gypsy71-I_DR	7955 TaxName:Danio rerio
+Gypsy71-LTR_DR	7955 TaxName:Danio rerio
+Gypsy72-I_DR	7955 TaxName:Danio rerio
+Gypsy72-LTR_DR	7955 TaxName:Danio rerio
+Gypsy73-I_DR	7955 TaxName:Danio rerio
+Gypsy73-LTR_DR	7955 TaxName:Danio rerio
+Gypsy74-I_DR	7955 TaxName:Danio rerio
+Gypsy74-LTR_DR	7955 TaxName:Danio rerio
+Gypsy75-I_DR	7955 TaxName:Danio rerio
+Gypsy75-LTR_DR	7955 TaxName:Danio rerio
+Gypsy76-I_DR	7955 TaxName:Danio rerio
+Gypsy76-LTR_DR	7955 TaxName:Danio rerio
+Gypsy77-I_DR	7955 TaxName:Danio rerio
+Gypsy77-LTR_DR	7955 TaxName:Danio rerio
+Gypsy78-I_DR	7955 TaxName:Danio rerio
+Gypsy78-LTR_DR	7955 TaxName:Danio rerio
+Gypsy79-I_DR	7955 TaxName:Danio rerio
+Gypsy79-LTR_DR	7955 TaxName:Danio rerio
+Gypsy7_I	7215 TaxName:Drosophila
+Gypsy7_LTR	7215 TaxName:Drosophila
+Gypsy8-I_DR	7955 TaxName:Danio rerio
+Gypsy8-LTR_DR	7955 TaxName:Danio rerio
+Gypsy80-I_DR	7955 TaxName:Danio rerio
+Gypsy80-LTR_DR	7955 TaxName:Danio rerio
+Gypsy81-I_Dr	7955 TaxName:Danio rerio
+Gypsy81-LTR_Dr	7955 TaxName:Danio rerio
+Gypsy82-I_Dr	7955 TaxName:Danio rerio
+Gypsy82-LTR_Dr	7955 TaxName:Danio rerio
+Gypsy83-I_DR	7955 TaxName:Danio rerio
+Gypsy83-LTR_DR	7955 TaxName:Danio rerio
+Gypsy84-I_DR	7955 TaxName:Danio rerio
+Gypsy84-LTR_DR	7955 TaxName:Danio rerio
+Gypsy85-I_DR	7955 TaxName:Danio rerio
+Gypsy85-LTR_DR	7955 TaxName:Danio rerio
+Gypsy86-I_DR	7955 TaxName:Danio rerio
+Gypsy86-LTR_DR	7955 TaxName:Danio rerio
+Gypsy87-I_DR	7955 TaxName:Danio rerio
+Gypsy87-LTR_DR	7955 TaxName:Danio rerio
+Gypsy88-I_DR	7955 TaxName:Danio rerio
+Gypsy88-LTR_DR	7955 TaxName:Danio rerio
+Gypsy89-I_DR	7955 TaxName:Danio rerio
+Gypsy89-LTR_DR	7955 TaxName:Danio rerio
+Gypsy8_I	7215 TaxName:Drosophila
+Gypsy8_LTR	7215 TaxName:Drosophila
+Gypsy9-I_DR	7955 TaxName:Danio rerio
+Gypsy9-LTR_DR	7955 TaxName:Danio rerio
+Gypsy90-I_DR	7955 TaxName:Danio rerio
+Gypsy90-LTR_DR	7955 TaxName:Danio rerio
+Gypsy91-I_DR	7955 TaxName:Danio rerio
+Gypsy91-LTR_DR	7955 TaxName:Danio rerio
+Gypsy92-I_DR	7955 TaxName:Danio rerio
+Gypsy92-LTR_DR	7955 TaxName:Danio rerio
+Gypsy93-I_DR	7955 TaxName:Danio rerio
+Gypsy93-LTR_DR	7955 TaxName:Danio rerio
+Gypsy94-I_DR	7955 TaxName:Danio rerio
+Gypsy94-LTR_DR	7955 TaxName:Danio rerio
+Gypsy95-I_DR	7955 TaxName:Danio rerio
+Gypsy95-LTR_DR	7955 TaxName:Danio rerio
+Gypsy96-I_DR	7955 TaxName:Danio rerio
+Gypsy96-LTR_DR	7955 TaxName:Danio rerio
+Gypsy97-I_DR	7955 TaxName:Danio rerio
+Gypsy97-LTR-B_DR	7955 TaxName:Danio rerio
+Gypsy97-LTR_DR	7955 TaxName:Danio rerio
+Gypsy98-I_Dr	7955 TaxName:Danio rerio
+Gypsy98-LTR_Dr	7955 TaxName:Danio rerio
+Gypsy99-I_DR	7955 TaxName:Danio rerio
+Gypsy99-LTR_DR	7955 TaxName:Danio rerio
+Gypsy9_I	7215 TaxName:Drosophila
+Gypsy9_LTR	7215 TaxName:Drosophila
+GypsyDR1	7954 TaxName:Danio
+GypsyDR1_LTR	7954 TaxName:Danio
+GypsyDR2	7954 TaxName:Danio
+GypsyDR2_LTR	7954 TaxName:Danio
+Gypsy_I	7215 TaxName:Drosophila
+Gypsy_LTR	7215 TaxName:Drosophila
+HAL1	9347 TaxName:Eutheria
+HAL1M8	9347 TaxName:Eutheria
+HAL1ME	9347 TaxName:Eutheria
+HAL1b	9347 TaxName:Eutheria
+HARBINGERN2B_DR	7955 TaxName:Danio rerio
+HARBINGERN2C_DR	7955 TaxName:Danio rerio
+HARBINGERN3B_DR	7955 TaxName:Danio rerio
+HAT1-N1B_DR	7955 TaxName:Danio rerio
+HAT1N_DR	7954 TaxName:Danio
+HAT1_CE	6239 TaxName:Caenorhabditis elegans
+HAT1_DR	7954 TaxName:Danio
+HAT2_CE	6239 TaxName:Caenorhabditis elegans
+HAT3_CE	6239 TaxName:Caenorhabditis elegans
+HAT4_CE	6239 TaxName:Caenorhabditis elegans
+HATN10_DR	7954 TaxName:Danio
+HATN11B_DR	7955 TaxName:Danio rerio
+HATN11_DR	7954 TaxName:Danio
+HATN12B_DR	7955 TaxName:Danio rerio
+HATN12_DR	7954 TaxName:Danio
+HATN13B_DR	7955 TaxName:Danio rerio
+HATN13_DR	7954 TaxName:Danio
+HATN14_DR	7954 TaxName:Danio
+HATN15_DR	7954 TaxName:Danio
+HATN16_DR	7954 TaxName:Danio
+HATN16_DR	7955 TaxName:Danio rerio
+HATN17_DR	7954 TaxName:Danio
+HATN1_CE	6239 TaxName:Caenorhabditis elegans
+HATN1_DR	7954 TaxName:Danio
+HATN2_DR	7954 TaxName:Danio
+HATN3B_DR	7955 TaxName:Danio rerio
+HATN3_DR	7954 TaxName:Danio
+HATN4_DR	7954 TaxName:Danio
+HATN5A_DR	7954 TaxName:Danio
+HATN5_DR	7954 TaxName:Danio
+HATN6_DR	7954 TaxName:Danio
+HATN7_DR	7954 TaxName:Danio
+HATN8_DR	7954 TaxName:Danio
+HE1_DR1	7954 TaxName:Danio
+HE2_DR	7955 TaxName:Danio rerio
+HELENA_RT	7215 TaxName:Drosophila
+HERO-2_DR	7955 TaxName:Danio rerio
+HERO-3_DR	7955 TaxName:Danio rerio
+HERODr	7955 TaxName:Danio rerio
+HERV-Fc1	207598 TaxName:Homininae
+HERV-Fc1_LTR1	9604 TaxName:Hominidae
+HERV-Fc1_LTR2	9604 TaxName:Hominidae
+HERV-Fc1_LTR3	9604 TaxName:Hominidae
+HERV-Fc2	9604 TaxName:Hominidae
+HERV-Fc2_LTR	9604 TaxName:Hominidae
+HERV15	9526 TaxName:Catarrhini
+HERV16	9347 TaxName:Eutheria
+HERV17	9526 TaxName:Catarrhini
+HERV1_I	314293 TaxName:Simiiformes
+HERV1_LTRa	314293 TaxName:Simiiformes
+HERV1_LTRb	314293 TaxName:Simiiformes
+HERV1_LTRc	314293 TaxName:Simiiformes
+HERV1_LTRd	314293 TaxName:Simiiformes
+HERV1_LTRe	314293 TaxName:Simiiformes
+HERV3	9526 TaxName:Catarrhini
+HERV30	9526 TaxName:Catarrhini
+HERV35I	314293 TaxName:Simiiformes
+HERV4_I	314293 TaxName:Simiiformes
+HERV9	9526 TaxName:Catarrhini
+HERV9N	314295 TaxName:Hominoidea
+HERV9NC	314295 TaxName:Hominoidea
+HERVE	314295 TaxName:Hominoidea
+HERVE_a	9526 TaxName:Catarrhini
+HERVFH19	314293 TaxName:Simiiformes
+HERVFH21	9526 TaxName:Catarrhini
+HERVH	9526 TaxName:Catarrhini
+HERVH48	9526 TaxName:Catarrhini
+HERVI	9526 TaxName:Catarrhini
+HERVIP10B3	9526 TaxName:Catarrhini
+HERVIP10F	9526 TaxName:Catarrhini
+HERVIP10FH	9526 TaxName:Catarrhini
+HERVK	9526 TaxName:Catarrhini
+HERVK11	9526 TaxName:Catarrhini
+HERVK11D	314295 TaxName:Hominoidea
+HERVK13	314295 TaxName:Hominoidea
+HERVK14	9526 TaxName:Catarrhini
+HERVK14C	9526 TaxName:Catarrhini
+HERVK22	314293 TaxName:Simiiformes
+HERVK3	9526 TaxName:Catarrhini
+HERVK9	9526 TaxName:Catarrhini
+HERVKC4	9526 TaxName:Catarrhini
+HERVL	9443 TaxName:Primates
+HERVL18	314293 TaxName:Simiiformes
+HERVL32	314293 TaxName:Simiiformes
+HERVL40	9347 TaxName:Eutheria
+HERVL66	314293 TaxName:Simiiformes
+HERVL74	9347 TaxName:Eutheria
+HERVP71A	314293 TaxName:Simiiformes
+HERVS71	9526 TaxName:Catarrhini
+HETA	7215 TaxName:Drosophila
+HETRP_DM	7215 TaxName:Drosophila
+HMSBEAGLE_I	7215 TaxName:Drosophila
+HOBO	7226 TaxName:Drosophila
+HOBO	7227 TaxName:Drosophila
+HOBO	7238 TaxName:Drosophila
+HOBO	7240 TaxName:Drosophila
+HSAT4	9443 TaxName:Primates
+HSAT5	9443 TaxName:Primates
+HSAT6	9443 TaxName:Primates
+HSATI	9443 TaxName:Primates
+HSATII	9443 TaxName:Primates
+HSMAR1	314293 TaxName:Simiiformes
+HSMAR2	9443 TaxName:Primates
+HUERS-P1	314293 TaxName:Simiiformes
+HUERS-P2	314293 TaxName:Simiiformes
+HUERS-P3	314293 TaxName:Simiiformes
+HUERS-P3b	314293 TaxName:Simiiformes
+HY1	7742 TaxName:Vertebrata_Metazoa
+HY3	7742 TaxName:Vertebrata_Metazoa
+HY4	7742 TaxName:Vertebrata_Metazoa
+HY5	7742 TaxName:Vertebrata_Metazoa
+Harbinger-1N1_DR	7955 TaxName:Danio rerio
+Harbinger-1_DR	7955 TaxName:Danio rerio
+Harbinger-2N1_DR	7955 TaxName:Danio rerio
+Harbinger-2_DR	7955 TaxName:Danio rerio
+Harbinger-3N2_DR	7955 TaxName:Danio rerio
+Harbinger-3_DR	7955 TaxName:Danio rerio
+Harbinger-4_DR	7955 TaxName:Danio rerio
+Harbinger-5_DR	7955 TaxName:Danio rerio
+Harbinger-6_DR	7955 TaxName:Danio rerio
+Harbinger-7_DR	7955 TaxName:Danio rerio
+Harbinger-8N2_DR	7955 TaxName:Danio rerio
+Harbinger-8_DR	7955 TaxName:Danio rerio
+Harbinger-N10_DR	7954 TaxName:Danio
+Harbinger-N11_DR	7955 TaxName:Danio rerio
+Harbinger-N12_DR	7955 TaxName:Danio rerio
+Harbinger-N13B_DR	7955 TaxName:Danio rerio
+Harbinger-N13_DR	7955 TaxName:Danio rerio
+Harbinger-N14_DR	7955 TaxName:Danio rerio
+Harbinger-N15_DR	7955 TaxName:Danio rerio
+Harbinger-N16_DR	7955 TaxName:Danio rerio
+Harbinger-N9_DR	7954 TaxName:Danio
+Harbinger1_DR	7954 TaxName:Danio
+Harbinger2N_DR	7954 TaxName:Danio
+Harbinger2_DR	7954 TaxName:Danio
+Harbinger3N_DR	7954 TaxName:Danio
+Harbinger3_DR	7954 TaxName:Danio
+HarbingerN1_DR	7954 TaxName:Danio
+HarbingerN2_DR	7954 TaxName:Danio
+HarbingerN3_DR	7954 TaxName:Danio
+HarbingerN4_DR	7954 TaxName:Danio
+HarbingerN5_DR	7954 TaxName:Danio
+HarbingerN6B_DR	7955 TaxName:Danio rerio
+HarbingerN6_DR	7954 TaxName:Danio
+HarbingerN7_DR	7954 TaxName:Danio
+HarbingerN8_DR	7954 TaxName:Danio
+Harlequin	9443 TaxName:Primates
+Helitron-1N1_DR	7955 TaxName:Danio rerio
+Helitron-1N2_DR	7955 TaxName:Danio rerio
+Helitron-1N3_DR	7955 TaxName:Danio rerio
+Helitron-1N4_DR	7955 TaxName:Danio rerio
+Helitron-3_DR	7955 TaxName:Danio rerio
+Helitron-4_DR	7955 TaxName:Danio rerio
+Helitron-5_DR	7955 TaxName:Danio rerio
+Helitron-N1_DR	7955 TaxName:Danio rerio
+Helitron-N2_DR	7955 TaxName:Danio rerio
+Helitron-N3_DR	7955 TaxName:Danio rerio
+Helitron-N4_DR	7955 TaxName:Danio rerio
+Helitron1Na_Mam	9347 TaxName:Eutheria
+Helitron1Nb_Mam	9347 TaxName:Eutheria
+Helitron1_CE	6239 TaxName:Caenorhabditis elegans
+Helitron1_DM	7215 TaxName:Drosophila
+Helitron2Na_Mam	32525 TaxName:Theria_Mammalia
+Helitron2_CE	6239 TaxName:Caenorhabditis elegans
+Helitron3Na_Mam	9347 TaxName:Eutheria
+HelitronY1A_CE	6239 TaxName:Caenorhabditis elegans
+HelitronY1_CE	6239 TaxName:Caenorhabditis elegans
+HelitronY2_CE	6239 TaxName:Caenorhabditis elegans
+HelitronY3_CE	6239 TaxName:Caenorhabditis elegans
+HelitronY4_CE	6239 TaxName:Caenorhabditis elegans
+I-1_DR	7954 TaxName:Danio
+I-2_DR	7955 TaxName:Danio rerio
+I-3_DR	7955 TaxName:Danio rerio
+I-4_DR	7955 TaxName:Danio rerio
+I-5_DR	7955 TaxName:Danio rerio
+IAP-d	10088 TaxName:Mus
+IAP1-MM_I	10090 TaxName:Mus
+IAP1-MM_LTR	10090 TaxName:Mus
+IAPA_MM	10090 TaxName:Mus
+IAPEY2_LTR	10088 TaxName:Mus
+IAPEY3-int	10088 TaxName:Mus
+IAPEY3C_LTR	10090 TaxName:Mus
+IAPEY3_LTR	10088 TaxName:Mus
+IAPEY4_I	10090 TaxName:Mus
+IAPEY4_LTR	10090 TaxName:Mus
+IAPEY5_I	10090 TaxName:Mus
+IAPEY5_LTR	10090 TaxName:Mus
+IAPEY_LTR	10088 TaxName:Mus
+IAPEy-int	10088 TaxName:Mus
+IAPEz-int	10088 TaxName:Mus
+IAPLTR1_Mm	10088 TaxName:Mus
+IAPLTR1a_Mm	10088 TaxName:Mus
+IAPLTR2_Mm	10088 TaxName:Mus
+IAPLTR2a	10088 TaxName:Mus
+IAPLTR2a2_Mm	10088 TaxName:Mus
+IAPLTR2b	10088 TaxName:Mus
+IAPLTR3	10088 TaxName:Mus
+IAPLTR3-int	10088 TaxName:Mus
+IAPLTR4	10088 TaxName:Mus
+IAPLTR4_I	10088 TaxName:Mus
+ID2	10066 TaxName:Muridae
+ID4	10066 TaxName:Muridae
+ID4_v	10066 TaxName:Muridae
+IDEFIX_I	7215 TaxName:Drosophila
+IDEFIX_LTR	7215 TaxName:Drosophila
+ID_B1	10066 TaxName:Muridae
+IMPB_01	10090 TaxName:Mus
+IR1_CE	6239 TaxName:Caenorhabditis elegans
+IR3_CE	6239 TaxName:Caenorhabditis elegans
+IR4	6239 TaxName:Caenorhabditis elegans
+IS3EU-1N1_DR	7955 TaxName:Danio rerio
+IS3EU-1_DR	7955 TaxName:Danio rerio
+IS3EU-3_DR	7955 TaxName:Danio rerio
+IS3EU-4N_DR	7955 TaxName:Danio rerio
+IS3EU-4_DR	7955 TaxName:Danio rerio
+IS3EU-5_DR	7955 TaxName:Danio rerio
+IS3EU-6_DR	7955 TaxName:Danio rerio
+IS4EU-1_DR	7955 TaxName:Danio rerio
+IS4EU-2_DR	7955 TaxName:Danio rerio
+ISL2EU-1_DR	7955 TaxName:Danio rerio
+IVK_DM	7215 TaxName:Drosophila
+I_DM	7215 TaxName:Drosophila
+Invader1_I	7215 TaxName:Drosophila
+Invader1_LTR	7215 TaxName:Drosophila
+Invader2_I	7215 TaxName:Drosophila
+Invader2_LTR	7215 TaxName:Drosophila
+Invader3_I	7215 TaxName:Drosophila
+Invader3_LTR	7215 TaxName:Drosophila
+Invader4_I	7215 TaxName:Drosophila
+Invader4_LTR	7215 TaxName:Drosophila
+Invader5_I	7215 TaxName:Drosophila
+Invader5_LTR	7215 TaxName:Drosophila
+Invader6_I	7215 TaxName:Drosophila
+Invader6_LTR	7215 TaxName:Drosophila
+Jockey2	7215 TaxName:Drosophila
+Kanga1	9347 TaxName:Eutheria
+Kanga11a	9347 TaxName:Eutheria
+Kanga1a	9347 TaxName:Eutheria
+Kanga1b	9347 TaxName:Eutheria
+Kanga1c	9347 TaxName:Eutheria
+Kanga1d	9347 TaxName:Eutheria
+Kanga2_a	9347 TaxName:Eutheria
+KenoDr1	7955 TaxName:Danio rerio
+KibiDr1	7955 TaxName:Danio rerio
+KibiDr2	7955 TaxName:Danio rerio
+Kolobok-1N1_DR	7955 TaxName:Danio rerio
+Kolobok-1N2_DR	7955 TaxName:Danio rerio
+Kolobok-1N3_DR	7955 TaxName:Danio rerio
+Kolobok-1_DR	7955 TaxName:Danio rerio
+Kolobok-2_DR	7955 TaxName:Danio rerio
+Kolobok-3_DR	7955 TaxName:Danio rerio
+Kolobok-4_DR	7955 TaxName:Danio rerio
+Kolobok-N10B_DR	7955 TaxName:Danio rerio
+Kolobok-N10_DR	7955 TaxName:Danio rerio
+Kolobok-N11_DR	7955 TaxName:Danio rerio
+Kolobok-N12_DR	7955 TaxName:Danio rerio
+Kolobok-N13_DR	7955 TaxName:Danio rerio
+Kolobok-N1_DR	7955 TaxName:Danio rerio
+Kolobok-N2A_DR	7955 TaxName:Danio rerio
+Kolobok-N2B_DR	7955 TaxName:Danio rerio
+Kolobok-N2_DR	7955 TaxName:Danio rerio
+Kolobok-N3_DR	7955 TaxName:Danio rerio
+Kolobok-N4_DR	7955 TaxName:Danio rerio
+Kolobok-N5_DR	7955 TaxName:Danio rerio
+Kolobok-N6_DR	7955 TaxName:Danio rerio
+Kolobok-N7B_DR	7955 TaxName:Danio rerio
+Kolobok-N7_DR	7955 TaxName:Danio rerio
+Kolobok-N8_DRe	7955 TaxName:Danio rerio
+Kolobok-N9_DR	7955 TaxName:Danio rerio
+KolobokN78B_DR	7955 TaxName:Danio rerio
+L1-100_DR	7955 TaxName:Danio rerio
+L1-101_DR	7955 TaxName:Danio rerio
+L1-102_DR	7955 TaxName:Danio rerio
+L1-103_DR	7955 TaxName:Danio rerio
+L1-104_DR	7955 TaxName:Danio rerio
+L1-105_DR	7955 TaxName:Danio rerio
+L1-106_DR	7955 TaxName:Danio rerio
+L1-107_DR	7955 TaxName:Danio rerio
+L1-108_DR	7955 TaxName:Danio rerio
+L1-109_DR	7955 TaxName:Danio rerio
+L1-10_DR	7954 TaxName:Danio
+L1-110_DR	7955 TaxName:Danio rerio
+L1-111_DR	7955 TaxName:Danio rerio
+L1-112_DR	7955 TaxName:Danio rerio
+L1-11_DR	7955 TaxName:Danio rerio
+L1-12_DR	7955 TaxName:Danio rerio
+L1-13_DR	7955 TaxName:Danio rerio
+L1-14_DR	7955 TaxName:Danio rerio
+L1-15_DR	7955 TaxName:Danio rerio
+L1-16_DR	7955 TaxName:Danio rerio
+L1-17_DR	7955 TaxName:Danio rerio
+L1-18_DR	7955 TaxName:Danio rerio
+L1-19_DR	7955 TaxName:Danio rerio
+L1-1_DR	7954 TaxName:Danio
+L1-20_DR	7955 TaxName:Danio rerio
+L1-21_DR	7955 TaxName:Danio rerio
+L1-22_DR	7955 TaxName:Danio rerio
+L1-23_DR	7955 TaxName:Danio rerio
+L1-24_DR	7955 TaxName:Danio rerio
+L1-25_DR	7955 TaxName:Danio rerio
+L1-26_DR	7955 TaxName:Danio rerio
+L1-27_DR	7955 TaxName:Danio rerio
+L1-28_DR	7955 TaxName:Danio rerio
+L1-29_DR	7955 TaxName:Danio rerio
+L1-2_DR	7954 TaxName:Danio
+L1-30_DR	7955 TaxName:Danio rerio
+L1-31_DR	7955 TaxName:Danio rerio
+L1-32_DR	7955 TaxName:Danio rerio
+L1-33_DR	7955 TaxName:Danio rerio
+L1-34_DR	7955 TaxName:Danio rerio
+L1-35_DR	7955 TaxName:Danio rerio
+L1-36_DR	7955 TaxName:Danio rerio
+L1-37_DR	7955 TaxName:Danio rerio
+L1-38_DR	7955 TaxName:Danio rerio
+L1-39_DR	7955 TaxName:Danio rerio
+L1-3_DR	7954 TaxName:Danio
+L1-40_DR	7955 TaxName:Danio rerio
+L1-42_DR	7955 TaxName:Danio rerio
+L1-43_DR	7955 TaxName:Danio rerio
+L1-44_DR	7955 TaxName:Danio rerio
+L1-45_DR	7955 TaxName:Danio rerio
+L1-46_DR	7955 TaxName:Danio rerio
+L1-47_DR	7955 TaxName:Danio rerio
+L1-48_DR	7955 TaxName:Danio rerio
+L1-49_DR	7955 TaxName:Danio rerio
+L1-4B_DR	7955 TaxName:Danio rerio
+L1-4_DR	7954 TaxName:Danio
+L1-50_DR	7955 TaxName:Danio rerio
+L1-51_DR	7955 TaxName:Danio rerio
+L1-52_DR	7955 TaxName:Danio rerio
+L1-53_DR	7955 TaxName:Danio rerio
+L1-54_DR	7955 TaxName:Danio rerio
+L1-55_DR	7955 TaxName:Danio rerio
+L1-56_DR	7955 TaxName:Danio rerio
+L1-57_DR	7955 TaxName:Danio rerio
+L1-58_DR	7955 TaxName:Danio rerio
+L1-59_DR	7955 TaxName:Danio rerio
+L1-5_DR	7954 TaxName:Danio
+L1-60_DR	7955 TaxName:Danio rerio
+L1-61_DR	7955 TaxName:Danio rerio
+L1-62_DR	7955 TaxName:Danio rerio
+L1-63_DR	7955 TaxName:Danio rerio
+L1-64_DR	7955 TaxName:Danio rerio
+L1-65_DR	7955 TaxName:Danio rerio
+L1-66_DR	7955 TaxName:Danio rerio
+L1-67_DR	7955 TaxName:Danio rerio
+L1-68_DR	7955 TaxName:Danio rerio
+L1-69_DR	7955 TaxName:Danio rerio
+L1-6_DR	7954 TaxName:Danio
+L1-70_DR	7955 TaxName:Danio rerio
+L1-71_DR	7955 TaxName:Danio rerio
+L1-72_DR	7955 TaxName:Danio rerio
+L1-73_DR	7955 TaxName:Danio rerio
+L1-74_DR	7955 TaxName:Danio rerio
+L1-75_DR	7955 TaxName:Danio rerio
+L1-78_DR	7955 TaxName:Danio rerio
+L1-79_DR	7955 TaxName:Danio rerio
+L1-7_DR	7954 TaxName:Danio
+L1-81_DR	7955 TaxName:Danio rerio
+L1-82_DR	7955 TaxName:Danio rerio
+L1-83_DR	7955 TaxName:Danio rerio
+L1-84_DR	7955 TaxName:Danio rerio
+L1-85_DR	7955 TaxName:Danio rerio
+L1-86_DR	7955 TaxName:Danio rerio
+L1-87_DR	7955 TaxName:Danio rerio
+L1-88_DR	7955 TaxName:Danio rerio
+L1-89_DR	7955 TaxName:Danio rerio
+L1-8_DR	7954 TaxName:Danio
+L1-90_DR	7955 TaxName:Danio rerio
+L1-91_DR	7955 TaxName:Danio rerio
+L1-92_DR	7955 TaxName:Danio rerio
+L1-94_DR	7955 TaxName:Danio rerio
+L1-95_DR	7955 TaxName:Danio rerio
+L1-96_DR	7955 TaxName:Danio rerio
+L1-97_DR	7955 TaxName:Danio rerio
+L1-98_DR	7955 TaxName:Danio rerio
+L1-99B_DR	7955 TaxName:Danio rerio
+L1-99_DR	7955 TaxName:Danio rerio
+L1-9_DR	7954 TaxName:Danio
+L1-Tx1-1_DR	7954 TaxName:Danio
+L1HS_3end	207598 TaxName:Homininae
+L1HS_5end	9605 TaxName:Homo
+L1Lx_III_3end	10088 TaxName:Mus
+L1Lx_III_5end	10088 TaxName:Mus
+L1Lx_III_orf2	10088 TaxName:Mus
+L1Lx_II_3end	10088 TaxName:Mus
+L1Lx_II_5end	10088 TaxName:Mus
+L1Lx_II_orf2	10088 TaxName:Mus
+L1Lx_IV_3end	10088 TaxName:Mus
+L1Lx_IV_5end	10088 TaxName:Mus
+L1Lx_IV_orf2	10088 TaxName:Mus
+L1Lx_I_3end	10088 TaxName:Mus
+L1Lx_I_5end	10088 TaxName:Mus
+L1Lx_I_orf2	10088 TaxName:Mus
+L1M1_5end	9443 TaxName:Primates
+L1M1_orf2	9443 TaxName:Primates
+L1M2_5end	9347 TaxName:Eutheria
+L1M2_orf2	9347 TaxName:Eutheria
+L1M2a1_5end	314146 TaxName:Euarchontoglires
+L1M2a_5end	314146 TaxName:Euarchontoglires
+L1M2b_5end	314146 TaxName:Euarchontoglires
+L1M2c_5end	314146 TaxName:Euarchontoglires
+L1M3_orf2	9347 TaxName:Eutheria
+L1M3a_5end	9347 TaxName:Eutheria
+L1M3b_5end	9347 TaxName:Eutheria
+L1M3c_5end	9347 TaxName:Eutheria
+L1M3d_5end	9347 TaxName:Eutheria
+L1M3de_5end	9347 TaxName:Eutheria
+L1M3e_5end	9347 TaxName:Eutheria
+L1M3f_5end	314146 TaxName:Euarchontoglires
+L1M4_5end	9347 TaxName:Eutheria
+L1M4_orf2	9347 TaxName:Eutheria
+L1M4a1_5end	9347 TaxName:Eutheria
+L1M4a2_5end	9347 TaxName:Eutheria
+L1M4b_5end	9347 TaxName:Eutheria
+L1M4c_5end	9347 TaxName:Eutheria
+L1M5_orf2	9263 TaxName:Metatheria
+L1M5_orf2	9347 TaxName:Eutheria
+L1M6B_5end	9347 TaxName:Eutheria
+L1M6_5end	9347 TaxName:Eutheria
+L1M7_5end	9347 TaxName:Eutheria
+L1M8_5end	9347 TaxName:Eutheria
+L1MA10_3end	9347 TaxName:Eutheria
+L1MA1_3end	9443 TaxName:Primates
+L1MA2_3end	9443 TaxName:Primates
+L1MA3_3end	9443 TaxName:Primates
+L1MA4A_3end	314146 TaxName:Euarchontoglires
+L1MA4_3end	314146 TaxName:Euarchontoglires
+L1MA5A_3end	314146 TaxName:Euarchontoglires
+L1MA5_3end	314146 TaxName:Euarchontoglires
+L1MA6_3end	314146 TaxName:Euarchontoglires
+L1MA7_3end	314146 TaxName:Euarchontoglires
+L1MA8_3end	314146 TaxName:Euarchontoglires
+L1MA9_3end	9347 TaxName:Eutheria
+L1MB1_3end	9347 TaxName:Eutheria
+L1MB2_3end	9347 TaxName:Eutheria
+L1MB3_3end	9347 TaxName:Eutheria
+L1MB4_3end	9347 TaxName:Eutheria
+L1MB4_5end	9347 TaxName:Eutheria
+L1MB5_3end	9347 TaxName:Eutheria
+L1MB7_3end	9347 TaxName:Eutheria
+L1MB8_3end	9347 TaxName:Eutheria
+L1MC1_3end	9347 TaxName:Eutheria
+L1MC2_3end	9347 TaxName:Eutheria
+L1MC3_3end	9347 TaxName:Eutheria
+L1MC4_3end	9347 TaxName:Eutheria
+L1MC4_5end	9347 TaxName:Eutheria
+L1MC4a_3end	9347 TaxName:Eutheria
+L1MC5_3end	9347 TaxName:Eutheria
+L1MC5a_3end	9347 TaxName:Eutheria
+L1MC_orf2	9347 TaxName:Eutheria
+L1MCa_5end	9347 TaxName:Eutheria
+L1MCb_5end	9347 TaxName:Eutheria
+L1MCc_5end	9347 TaxName:Eutheria
+L1MD1_3end	9347 TaxName:Eutheria
+L1MD2_3end	9347 TaxName:Eutheria
+L1MD2_5end	9347 TaxName:Eutheria
+L1MD3_3end	9347 TaxName:Eutheria
+L1MD_orf2	9347 TaxName:Eutheria
+L1MDa_5end	9347 TaxName:Eutheria
+L1MDb_5end	9347 TaxName:Eutheria
+L1ME1_3end	9347 TaxName:Eutheria
+L1ME2_3end	9347 TaxName:Eutheria
+L1ME2z_3end	9347 TaxName:Eutheria
+L1ME3A_3end	9347 TaxName:Eutheria
+L1ME3B_3end	9347 TaxName:Eutheria
+L1ME3C_3end	9347 TaxName:Eutheria
+L1ME3Cz_3end	9347 TaxName:Eutheria
+L1ME3D_3end	9347 TaxName:Eutheria
+L1ME3E_3end	9347 TaxName:Eutheria
+L1ME3F_3end	9347 TaxName:Eutheria
+L1ME3G_3end	9347 TaxName:Eutheria
+L1ME3_3end	9347 TaxName:Eutheria
+L1ME4a_3end	9347 TaxName:Eutheria
+L1ME4b_3end	9347 TaxName:Eutheria
+L1ME4c_3end	9347 TaxName:Eutheria
+L1ME5_3end	9347 TaxName:Eutheria
+L1MEa_5end	9347 TaxName:Eutheria
+L1MEb_5end	9347 TaxName:Eutheria
+L1MEc_5end	9347 TaxName:Eutheria
+L1MEd_5end	9347 TaxName:Eutheria
+L1MEf_5end	9347 TaxName:Eutheria
+L1MEg1_5end	9347 TaxName:Eutheria
+L1MEg2_5end	9347 TaxName:Eutheria
+L1MEg_5end	9347 TaxName:Eutheria
+L1MEh_5end	9347 TaxName:Eutheria
+L1MEi_5end	9347 TaxName:Eutheria
+L1MEj_5end	32525 TaxName:Theria_Mammalia
+L1MdA_III_3end	10088 TaxName:Mus
+L1MdA_III_5end	10088 TaxName:Mus
+L1MdA_III_orf2	10088 TaxName:Mus
+L1MdA_II_3end	10088 TaxName:Mus
+L1MdA_II_5end	10088 TaxName:Mus
+L1MdA_II_orf2	10088 TaxName:Mus
+L1MdA_IV_3end	10088 TaxName:Mus
+L1MdA_IV_5end	10088 TaxName:Mus
+L1MdA_IV_orf2	10088 TaxName:Mus
+L1MdA_I_3end	10088 TaxName:Mus
+L1MdA_I_5end	10088 TaxName:Mus
+L1MdA_I_orf2	10088 TaxName:Mus
+L1MdA_VII_3end	10088 TaxName:Mus
+L1MdA_VII_5end	10088 TaxName:Mus
+L1MdA_VII_orf2	10088 TaxName:Mus
+L1MdA_VI_3end	10088 TaxName:Mus
+L1MdA_VI_5end	10088 TaxName:Mus
+L1MdA_VI_orf2	10088 TaxName:Mus
+L1MdA_V_3end	10088 TaxName:Mus
+L1MdA_V_5end	10088 TaxName:Mus
+L1MdA_V_orf2	10088 TaxName:Mus
+L1MdF_III_3end	10088 TaxName:Mus
+L1MdF_III_5end	10088 TaxName:Mus
+L1MdF_III_orf2	10088 TaxName:Mus
+L1MdF_II_3end	10088 TaxName:Mus
+L1MdF_II_5end	10088 TaxName:Mus
+L1MdF_II_orf2	10088 TaxName:Mus
+L1MdF_IV_3end	10088 TaxName:Mus
+L1MdF_IV_5end	10088 TaxName:Mus
+L1MdF_IV_orf2	10088 TaxName:Mus
+L1MdF_I_3end	10088 TaxName:Mus
+L1MdF_I_5end	10088 TaxName:Mus
+L1MdF_I_orf2	10088 TaxName:Mus
+L1MdF_V_3end	10088 TaxName:Mus
+L1MdF_V_5end	10088 TaxName:Mus
+L1MdF_V_orf2	10088 TaxName:Mus
+L1MdFanc_II_3end	10088 TaxName:Mus
+L1MdFanc_II_5end	10088 TaxName:Mus
+L1MdFanc_II_orf2	10088 TaxName:Mus
+L1MdFanc_I_3end	10088 TaxName:Mus
+L1MdFanc_I_5end	10088 TaxName:Mus
+L1MdFanc_I_orf2	10088 TaxName:Mus
+L1MdGf_II_3end	10088 TaxName:Mus
+L1MdGf_II_5end	10088 TaxName:Mus
+L1MdGf_II_orf2	10088 TaxName:Mus
+L1MdGf_I_3end	10088 TaxName:Mus
+L1MdGf_I_5end	10088 TaxName:Mus
+L1MdGf_I_orf2	10088 TaxName:Mus
+L1MdMus_II_3end	10088 TaxName:Mus
+L1MdMus_II_5end	10088 TaxName:Mus
+L1MdMus_II_orf2	10088 TaxName:Mus
+L1MdMus_I_3end	10088 TaxName:Mus
+L1MdMus_I_5end	10088 TaxName:Mus
+L1MdMus_I_orf2	10088 TaxName:Mus
+L1MdN_I_3end	10088 TaxName:Mus
+L1MdN_I_5end	10088 TaxName:Mus
+L1MdN_I_orf2	10088 TaxName:Mus
+L1MdTf_III_3end	10088 TaxName:Mus
+L1MdTf_III_5end	10088 TaxName:Mus
+L1MdTf_III_orf2	10088 TaxName:Mus
+L1MdTf_II_3end	10088 TaxName:Mus
+L1MdTf_II_5end	10088 TaxName:Mus
+L1MdTf_II_orf2	10088 TaxName:Mus
+L1MdTf_I_3end	10088 TaxName:Mus
+L1MdTf_I_5end	10088 TaxName:Mus
+L1MdTf_I_orf2	10088 TaxName:Mus
+L1MdV_III_3end	10088 TaxName:Mus
+L1MdV_III_5end	10088 TaxName:Mus
+L1MdV_III_orf2	10088 TaxName:Mus
+L1MdV_II_3end	10088 TaxName:Mus
+L1MdV_II_5end	10088 TaxName:Mus
+L1MdV_II_orf2	10088 TaxName:Mus
+L1MdV_I_3end	10088 TaxName:Mus
+L1MdV_I_5end	10088 TaxName:Mus
+L1MdV_I_orf2	10088 TaxName:Mus
+L1P1_5end	314295 TaxName:Hominoidea
+L1P1_orf2	9443 TaxName:Primates
+L1P2_5end	9526 TaxName:Catarrhini
+L1P3_5end	9443 TaxName:Primates
+L1P3_orf2	9443 TaxName:Primates
+L1P3b_5end	9443 TaxName:Primates
+L1P4_orf2	9443 TaxName:Primates
+L1P4a_5end	9443 TaxName:Primates
+L1P4b_5end	9443 TaxName:Primates
+L1P4c_5end	9443 TaxName:Primates
+L1P4d_5end	9443 TaxName:Primates
+L1P4e_5end	9443 TaxName:Primates
+L1PA10_3end	9443 TaxName:Primates
+L1PA10_5end	9443 TaxName:Primates
+L1PA11_3end	9443 TaxName:Primates
+L1PA12_3end	9443 TaxName:Primates
+L1PA12_5end	9443 TaxName:Primates
+L1PA13_3end	9443 TaxName:Primates
+L1PA13_5end	9443 TaxName:Primates
+L1PA14_3end	9443 TaxName:Primates
+L1PA14_5end	9443 TaxName:Primates
+L1PA15-16_5end	9443 TaxName:Primates
+L1PA15_3end	9443 TaxName:Primates
+L1PA16_3end	9443 TaxName:Primates
+L1PA17_3end	9443 TaxName:Primates
+L1PA17_5end	9443 TaxName:Primates
+L1PA2_3end	9604 TaxName:Hominidae
+L1PA3_3end	314295 TaxName:Hominoidea
+L1PA4_3end	314295 TaxName:Hominoidea
+L1PA5_3end	314295 TaxName:Hominoidea
+L1PA6_3end	9526 TaxName:Catarrhini
+L1PA7_3end	9443 TaxName:Primates
+L1PA8A_3end	9443 TaxName:Primates
+L1PA8_3end	9443 TaxName:Primates
+L1PB1_3end	9443 TaxName:Primates
+L1PB2_3end	9443 TaxName:Primates
+L1PB3_3end	9443 TaxName:Primates
+L1PB4_3end	9347 TaxName:Eutheria
+L1PB_orf2	9443 TaxName:Primates
+L1PBa1_5end	9443 TaxName:Primates
+L1PBa_5end	9443 TaxName:Primates
+L1PBb_5end	9443 TaxName:Primates
+L1PREC2_3end	314293 TaxName:Simiiformes
+L1PREC2_5end	314293 TaxName:Simiiformes
+L1PREC2_orf2	314293 TaxName:Simiiformes
+L1VL1_5end	10088 TaxName:Mus
+L1_Mur1_5end	10066 TaxName:Muridae
+L1_Mur1_orf2	10066 TaxName:Muridae
+L1_Mur2_3end	10066 TaxName:Muridae
+L1_Mur2_5end	10066 TaxName:Muridae
+L1_Mur2_orf2	10066 TaxName:Muridae
+L1_Mur3_5end	10066 TaxName:Muridae
+L1_Mur3_orf2	10066 TaxName:Muridae
+L1_Mus3_5end	10088 TaxName:Mus
+L1_Rod_5end	10066 TaxName:Muridae
+L1_Rod_orf2	10066 TaxName:Muridae
+L2	32525 TaxName:Theria_Mammalia
+L2	9255 TaxName:Monotremata
+L2	9347 TaxName:Eutheria
+L2-11_DRe	7955 TaxName:Danio rerio
+L2-13B_DRe	7955 TaxName:Danio rerio
+L2-13_DRe	7955 TaxName:Danio rerio
+L2-14_DRe	7955 TaxName:Danio rerio
+L2-16_DRe	7955 TaxName:Danio rerio
+L2-17_DRe	7955 TaxName:Danio rerio
+L2-1B_DR	7955 TaxName:Danio rerio
+L2-1_AMi	32524 TaxName:Amniota
+L2-1_Crp	32524 TaxName:Amniota
+L2-1_DR	7954 TaxName:Danio
+L2-2_DRe	7954 TaxName:Danio
+L2-2_Mam	40674 TaxName:Mammalia
+L2-32_DRe	7955 TaxName:Danio rerio
+L2-33_DRe	7955 TaxName:Danio rerio
+L2-34_DR	7955 TaxName:Danio rerio
+L2-35_DRe	7955 TaxName:Danio rerio
+L2-36B_DRe	7955 TaxName:Danio rerio
+L2-36_DRe	7955 TaxName:Danio rerio
+L2-3_DRe	7954 TaxName:Danio
+L2-41_DRe	7955 TaxName:Danio rerio
+L2-42_DRe	7955 TaxName:Danio rerio
+L2-43_DR	7955 TaxName:Danio rerio
+L2-44_DR	7955 TaxName:Danio rerio
+L2-45_DR	7955 TaxName:Danio rerio
+L2-46_DR	7955 TaxName:Danio rerio
+L2-47_DR	7955 TaxName:Danio rerio
+L2-48_DR	7955 TaxName:Danio rerio
+L2-49_DR	7955 TaxName:Danio rerio
+L2-4_DRe	7954 TaxName:Danio
+L2-50_DR	7955 TaxName:Danio rerio
+L2-51_DR	7955 TaxName:Danio rerio
+L2-52_DR	7955 TaxName:Danio rerio
+L2-53_DR	7955 TaxName:Danio rerio
+L2-54_DR	7955 TaxName:Danio rerio
+L2-55_DR	7955 TaxName:Danio rerio
+L2-56_DR	7955 TaxName:Danio rerio
+L2-5_DRe	7955 TaxName:Danio rerio
+L2-6_DRe	7955 TaxName:Danio rerio
+L2-7_DRe	7955 TaxName:Danio rerio
+L2-8_DR	7955 TaxName:Danio rerio
+L2-9_DRe	7955 TaxName:Danio rerio
+L2a_3end	32525 TaxName:Theria_Mammalia
+L2b_3end	32525 TaxName:Theria_Mammalia
+L2c_3end	32525 TaxName:Theria_Mammalia
+L2c_3end	9255 TaxName:Monotremata
+L2d2_3end	9347 TaxName:Eutheria
+L2d_3end	9347 TaxName:Eutheria
+L3	32525 TaxName:Theria_Mammalia
+L3b_3end	40674 TaxName:Mammalia
+L4_A_Mam	9347 TaxName:Eutheria
+L4_B_Mam	9347 TaxName:Eutheria
+L4_C_Mam	9347 TaxName:Eutheria
+L5	32525 TaxName:Theria_Mammalia
+LFSINE_Vert	32523 TaxName:Tetrapoda
+LINE2A_CE	6239 TaxName:Caenorhabditis elegans
+LINE2B_CE	6239 TaxName:Caenorhabditis elegans
+LINE2C1_CE	6239 TaxName:Caenorhabditis elegans
+LINE2C_CE	6239 TaxName:Caenorhabditis elegans
+LINE2D_CE	6239 TaxName:Caenorhabditis elegans
+LINE2E_CE	6239 TaxName:Caenorhabditis elegans
+LINE2F_CE	6239 TaxName:Caenorhabditis elegans
+LINE2G_CE	6239 TaxName:Caenorhabditis elegans
+LINE2H_CE	6239 TaxName:Caenorhabditis elegans
+LINEJ1_DM	7215 TaxName:Drosophila
+LINEX-1_DR	7955 TaxName:Danio rerio
+LINEX-2_DR	7955 TaxName:Danio rerio
+LONGPAL1	6239 TaxName:Caenorhabditis elegans
+LONGPAL2	6239 TaxName:Caenorhabditis elegans
+LONGPAL3	6239 TaxName:Caenorhabditis elegans
+LOOPER1_DM	7215 TaxName:Drosophila
+LOOPERN1_DR	7954 TaxName:Danio
+LOOPERN2_DR	7954 TaxName:Danio
+LOOPERN3B_DR	7955 TaxName:Danio rerio
+LOOPERN3_DR	7954 TaxName:Danio
+LOOPERN4B_DR	7955 TaxName:Danio rerio
+LOOPERN4_DR	7954 TaxName:Danio
+LOOPERN5_DR	7954 TaxName:Danio
+LOOPERN6B_DR	7955 TaxName:Danio rerio
+LOOPERN6_DR	7954 TaxName:Danio
+LOOPERN7_DR	7955 TaxName:Danio rerio
+LOR1-int	9443 TaxName:Primates
+LOR1a	9443 TaxName:Primates
+LOR1b	9443 TaxName:Primates
+LR9A	6239 TaxName:Caenorhabditis elegans
+LRS-2_DR	7955 TaxName:Danio rerio
+LRS_DR	7955 TaxName:Danio rerio
+LSAU	9443 TaxName:Primates
+LSU-rRNA_Cel	33208 TaxName:Metazoa
+LSU-rRNA_Dme	33317 TaxName:Protostomia
+LSU-rRNA_Hsa	33208 TaxName:Metazoa
+LTR-10_DR	7955 TaxName:Danio rerio
+LTR-11_DR-I	7955 TaxName:Danio rerio
+LTR-11_DR-LTR	7955 TaxName:Danio rerio
+LTR-13_DR	7955 TaxName:Danio rerio
+LTR-14_DR	7955 TaxName:Danio rerio
+LTR-15_DR	7955 TaxName:Danio
+LTR-6B_DR	7955 TaxName:Danio rerio
+LTR-6_DR	7955 TaxName:Danio rerio
+LTR-8_DR	7955 TaxName:Danio rerio
+LTR-9_DR	7955 TaxName:Danio rerio
+LTR06	9443 TaxName:Primates
+LTR1	314293 TaxName:Simiiformes
+LTR101_Mam	9347 TaxName:Eutheria
+LTR102_Mam	9347 TaxName:Eutheria
+LTR103_Mam	9347 TaxName:Eutheria
+LTR103b_Mam	9347 TaxName:Eutheria
+LTR104_Mam	9347 TaxName:Eutheria
+LTR105_Mam	9347 TaxName:Eutheria
+LTR106_Mam	9347 TaxName:Eutheria
+LTR107_Mam	9347 TaxName:Eutheria
+LTR108a_Mam	9347 TaxName:Eutheria
+LTR108b_Mam	9347 TaxName:Eutheria
+LTR108c_Mam	9347 TaxName:Eutheria
+LTR108d_Mam	9347 TaxName:Eutheria
+LTR108e_Mam	9347 TaxName:Eutheria
+LTR109A2	9347 TaxName:Eutheria
+LTR10A	9526 TaxName:Catarrhini
+LTR10B	9526 TaxName:Catarrhini
+LTR10B1	9526 TaxName:Catarrhini
+LTR10B2	9526 TaxName:Catarrhini
+LTR10C	9526 TaxName:Catarrhini
+LTR10D	9526 TaxName:Catarrhini
+LTR10E	9526 TaxName:Catarrhini
+LTR10F	9526 TaxName:Catarrhini
+LTR10G	9526 TaxName:Catarrhini
+LTR10_RN	39107 TaxName:Murinae
+LTR12	9526 TaxName:Catarrhini
+LTR12B	9526 TaxName:Catarrhini
+LTR12C	314295 TaxName:Hominoidea
+LTR12D	314295 TaxName:Hominoidea
+LTR12E	314295 TaxName:Hominoidea
+LTR12F	9526 TaxName:Catarrhini
+LTR12_DR	7955 TaxName:Danio rerio
+LTR12_v	9526 TaxName:Catarrhini
+LTR13	314295 TaxName:Hominoidea
+LTR13A	9526 TaxName:Catarrhini
+LTR13_v	9526 TaxName:Catarrhini
+LTR14	9526 TaxName:Catarrhini
+LTR14A	9526 TaxName:Catarrhini
+LTR14B	9526 TaxName:Catarrhini
+LTR14C	9526 TaxName:Catarrhini
+LTR15	9526 TaxName:Catarrhini
+LTR16	9347 TaxName:Eutheria
+LTR16A	9347 TaxName:Eutheria
+LTR16A1	9347 TaxName:Eutheria
+LTR16A2	9347 TaxName:Eutheria
+LTR16B	9347 TaxName:Eutheria
+LTR16B1	9347 TaxName:Eutheria
+LTR16B2	9347 TaxName:Eutheria
+LTR16C	9347 TaxName:Eutheria
+LTR16D	9347 TaxName:Eutheria
+LTR16D1	9347 TaxName:Eutheria
+LTR16D2	9347 TaxName:Eutheria
+LTR16E1	9347 TaxName:Eutheria
+LTR16E2	9347 TaxName:Eutheria
+LTR17	9526 TaxName:Catarrhini
+LTR18A	314293 TaxName:Simiiformes
+LTR18B	314293 TaxName:Simiiformes
+LTR18C	314293 TaxName:Simiiformes
+LTR19-int	314293 TaxName:Simiiformes
+LTR19A	314293 TaxName:Simiiformes
+LTR19B	314293 TaxName:Simiiformes
+LTR19C	314293 TaxName:Simiiformes
+LTR1A1	314293 TaxName:Simiiformes
+LTR1A2	314293 TaxName:Simiiformes
+LTR1B	314293 TaxName:Simiiformes
+LTR1B0	314293 TaxName:Simiiformes
+LTR1B1	314293 TaxName:Simiiformes
+LTR1B_DR	7955 TaxName:Danio rerio
+LTR1C	314293 TaxName:Simiiformes
+LTR1C1	314293 TaxName:Simiiformes
+LTR1C3	314293 TaxName:Simiiformes
+LTR1D	314293 TaxName:Simiiformes
+LTR1D1	314293 TaxName:Simiiformes
+LTR1E	314293 TaxName:Simiiformes
+LTR1F	314293 TaxName:Simiiformes
+LTR1F1	314293 TaxName:Simiiformes
+LTR1F2	314293 TaxName:Simiiformes
+LTR1_CE	6239 TaxName:Caenorhabditis elegans
+LTR1_DR	7954 TaxName:Danio
+LTR2	9526 TaxName:Catarrhini
+LTR21A	9526 TaxName:Catarrhini
+LTR21B	9526 TaxName:Catarrhini
+LTR21C	9526 TaxName:Catarrhini
+LTR22	9526 TaxName:Catarrhini
+LTR22A	314293 TaxName:Simiiformes
+LTR22B	9526 TaxName:Catarrhini
+LTR22B1	9526 TaxName:Catarrhini
+LTR22B2	9526 TaxName:Catarrhini
+LTR22C	9526 TaxName:Catarrhini
+LTR22C0	9526 TaxName:Catarrhini
+LTR22C2	9526 TaxName:Catarrhini
+LTR22E	9526 TaxName:Catarrhini
+LTR23	9443 TaxName:Primates
+LTR23-int	9443 TaxName:Primates
+LTR24	9443 TaxName:Primates
+LTR24B	9443 TaxName:Primates
+LTR24C	9443 TaxName:Primates
+LTR25	314293 TaxName:Simiiformes
+LTR25-int	314293 TaxName:Simiiformes
+LTR26	9443 TaxName:Primates
+LTR26B	9443 TaxName:Primates
+LTR26C	9606 TaxName:Homo_sapiens
+LTR26D	9606 TaxName:Homo_sapiens
+LTR26E	9443 TaxName:Primates
+LTR27	314293 TaxName:Simiiformes
+LTR2752	314293 TaxName:Simiiformes
+LTR27B	314293 TaxName:Simiiformes
+LTR27C	314293 TaxName:Simiiformes
+LTR27D	314293 TaxName:Simiiformes
+LTR27E	314293 TaxName:Simiiformes
+LTR28	314293 TaxName:Simiiformes
+LTR28B	314293 TaxName:Simiiformes
+LTR28C	314293 TaxName:Simiiformes
+LTR29	314293 TaxName:Simiiformes
+LTR2B	314295 TaxName:Hominoidea
+LTR2B_DR	7955 TaxName:Danio rerio
+LTR2C	314295 TaxName:Hominoidea
+LTR2_CE	6239 TaxName:Caenorhabditis elegans
+LTR3	9526 TaxName:Catarrhini
+LTR30	9526 TaxName:Catarrhini
+LTR31	9443 TaxName:Primates
+LTR32	314293 TaxName:Simiiformes
+LTR33	9347 TaxName:Eutheria
+LTR33A	9347 TaxName:Eutheria
+LTR33A_v	9347 TaxName:Eutheria
+LTR33B	9347 TaxName:Eutheria
+LTR33C	9347 TaxName:Eutheria
+LTR34	9443 TaxName:Primates
+LTR35	314293 TaxName:Simiiformes
+LTR35A	314293 TaxName:Simiiformes
+LTR35B	314293 TaxName:Simiiformes
+LTR36	9443 TaxName:Primates
+LTR37-int	9347 TaxName:Eutheria
+LTR37A	9347 TaxName:Eutheria
+LTR37B	9347 TaxName:Eutheria
+LTR38	9443 TaxName:Primates
+LTR38-int	9443 TaxName:Primates
+LTR38A1	9443 TaxName:Primates
+LTR38B	9443 TaxName:Primates
+LTR38C	9443 TaxName:Primates
+LTR39	314293 TaxName:Simiiformes
+LTR39-int	314293 TaxName:Simiiformes
+LTR3A	9526 TaxName:Catarrhini
+LTR3B	9526 TaxName:Catarrhini
+LTR3B_v	9526 TaxName:Catarrhini
+LTR4	9526 TaxName:Catarrhini
+LTR40A1	9347 TaxName:Eutheria
+LTR40a	9347 TaxName:Eutheria
+LTR40b	9347 TaxName:Eutheria
+LTR40c	9347 TaxName:Eutheria
+LTR41	9347 TaxName:Eutheria
+LTR41B	9347 TaxName:Eutheria
+LTR41C	9347 TaxName:Eutheria
+LTR42	9443 TaxName:Primates
+LTR43	9443 TaxName:Primates
+LTR43-int	9443 TaxName:Primates
+LTR43B	9443 TaxName:Primates
+LTR44	9443 TaxName:Primates
+LTR45	9347 TaxName:Eutheria
+LTR45B	9443 TaxName:Primates
+LTR45C	9347 TaxName:Eutheria
+LTR46	9443 TaxName:Primates
+LTR46-int	9443 TaxName:Primates
+LTR47A	9443 TaxName:Primates
+LTR47A2	9443 TaxName:Primates
+LTR47B	9443 TaxName:Primates
+LTR47B2	9443 TaxName:Primates
+LTR47B3	9443 TaxName:Primates
+LTR47B4	9443 TaxName:Primates
+LTR48	9443 TaxName:Primates
+LTR48B	9443 TaxName:Primates
+LTR49	9443 TaxName:Primates
+LTR49-int	9443 TaxName:Primates
+LTR4_DR	7955 TaxName:Danio rerio
+LTR5	314295 TaxName:Hominoidea
+LTR50	9347 TaxName:Eutheria
+LTR51	9443 TaxName:Primates
+LTR52	9347 TaxName:Eutheria
+LTR52-int	9347 TaxName:Eutheria
+LTR53	9347 TaxName:Eutheria
+LTR53-int	9347 TaxName:Eutheria
+LTR53B	9347 TaxName:Eutheria
+LTR54	9443 TaxName:Primates
+LTR54B	9443 TaxName:Primates
+LTR55	9347 TaxName:Eutheria
+LTR56	9443 TaxName:Primates
+LTR57	9443 TaxName:Primates
+LTR57-int	9443 TaxName:Primates
+LTR58	9347 TaxName:Eutheria
+LTR59	314293 TaxName:Simiiformes
+LTR5A	314295 TaxName:Hominoidea
+LTR5B	9526 TaxName:Catarrhini
+LTR5B_DR	7955 TaxName:Danio rerio
+LTR5_DR	7955 TaxName:Danio rerio
+LTR5_Hs	9606 TaxName:Homo_sapiens
+LTR60	9443 TaxName:Primates
+LTR60B	9443 TaxName:Primates
+LTR61	9443 TaxName:Primates
+LTR62	9443 TaxName:Primates
+LTR64	9443 TaxName:Primates
+LTR65	9347 TaxName:Eutheria
+LTR66	314293 TaxName:Simiiformes
+LTR67B	9347 TaxName:Eutheria
+LTR68	9347 TaxName:Eutheria
+LTR69	9347 TaxName:Eutheria
+LTR6A	9526 TaxName:Catarrhini
+LTR6B	314295 TaxName:Hominoidea
+LTR7	314295 TaxName:Hominoidea
+LTR70	9443 TaxName:Primates
+LTR71A	314293 TaxName:Simiiformes
+LTR71B	314293 TaxName:Simiiformes
+LTR72	9443 TaxName:Primates
+LTR72B	9443 TaxName:Primates
+LTR72_RN	39107 TaxName:Murinae
+LTR73	9347 TaxName:Eutheria
+LTR75	9347 TaxName:Eutheria
+LTR75B	9347 TaxName:Eutheria
+LTR75_1	9347 TaxName:Eutheria
+LTR76	9443 TaxName:Primates
+LTR77	9347 TaxName:Eutheria
+LTR78	9347 TaxName:Eutheria
+LTR78B	9347 TaxName:Eutheria
+LTR79	9347 TaxName:Eutheria
+LTR7B	9526 TaxName:Catarrhini
+LTR7C	9526 TaxName:Catarrhini
+LTR7Y	207598 TaxName:Homininae
+LTR8	314293 TaxName:Simiiformes
+LTR80A	9347 TaxName:Eutheria
+LTR80B	9347 TaxName:Eutheria
+LTR81	9347 TaxName:Eutheria
+LTR81A	9347 TaxName:Eutheria
+LTR81AB	9347 TaxName:Eutheria
+LTR81B	9347 TaxName:Eutheria
+LTR81C	9347 TaxName:Eutheria
+LTR82A	9347 TaxName:Eutheria
+LTR82B	9347 TaxName:Eutheria
+LTR83	9347 TaxName:Eutheria
+LTR84a	9347 TaxName:Eutheria
+LTR84b	9347 TaxName:Eutheria
+LTR85a	9347 TaxName:Eutheria
+LTR85b	9347 TaxName:Eutheria
+LTR85c	9347 TaxName:Eutheria
+LTR86A1	9347 TaxName:Eutheria
+LTR86A2	9347 TaxName:Eutheria
+LTR86B1	9347 TaxName:Eutheria
+LTR86B2	9347 TaxName:Eutheria
+LTR86C	9347 TaxName:Eutheria
+LTR87	9347 TaxName:Eutheria
+LTR88a	9347 TaxName:Eutheria
+LTR88b	9347 TaxName:Eutheria
+LTR88c	9347 TaxName:Eutheria
+LTR89	9347 TaxName:Eutheria
+LTR89B	9347 TaxName:Eutheria
+LTR8A	314293 TaxName:Simiiformes
+LTR8B	314293 TaxName:Simiiformes
+LTR9	314293 TaxName:Simiiformes
+LTR90A	32525 TaxName:Theria_Mammalia
+LTR90B	32525 TaxName:Theria_Mammalia
+LTR91	9347 TaxName:Eutheria
+LTR91A	9347 TaxName:Eutheria
+LTR9A1	314293 TaxName:Simiiformes
+LTR9B	314293 TaxName:Simiiformes
+LTR9C	314293 TaxName:Simiiformes
+LTR9D	314293 TaxName:Simiiformes
+LTRCER1	6239 TaxName:Caenorhabditis elegans
+LTRIS2	10088 TaxName:Mus
+LTRIS3	10088 TaxName:Mus
+LTRIS4	10088 TaxName:Mus
+LTRIS4A	10090 TaxName:Mus
+LTRIS4B	10090 TaxName:Mus
+LTRIS5	10088 TaxName:Mus
+LTRIS6	10090 TaxName:Mus
+LTRIS_Mm	10088 TaxName:Mus
+LTRIS_Mus	10088 TaxName:Mus
+LX3	33553 TaxName:Sciurognathi
+LmeSINE1c	33208 TaxName:Metazoa
+Looper	9347 TaxName:Eutheria
+Looper-N7_DR	7954 TaxName:Danio
+Looper-N8_DR	7954 TaxName:Danio
+Lx10_3end	9989 TaxName:Rodentia
+Lx2A1_3end	10066 TaxName:Muridae
+Lx2A_3end	10066 TaxName:Muridae
+Lx2B2_3end	10066 TaxName:Muridae
+Lx2B_3end	10066 TaxName:Muridae
+Lx2_3end	10066 TaxName:Muridae
+Lx3A_3end	10066 TaxName:Muridae
+Lx3B_3end	10066 TaxName:Muridae
+Lx3C_3end	10066 TaxName:Muridae
+Lx3_Mus_3end	10088 TaxName:Mus
+Lx4A_3end	10066 TaxName:Muridae
+Lx4B_3end	10066 TaxName:Muridae
+Lx5_3end	10066 TaxName:Muridae
+Lx5b_3end	10066 TaxName:Muridae
+Lx5c_3end	10066 TaxName:Muridae
+Lx6_3end	9989 TaxName:Rodentia
+Lx7_3end	9989 TaxName:Rodentia
+Lx8_3end	9989 TaxName:Rodentia
+Lx8b_3end	9989 TaxName:Rodentia
+Lx9_3end	9989 TaxName:Rodentia
+Lx_3end	10066 TaxName:Muridae
+M4DM	7215 TaxName:Drosophila
+MADE1	314293 TaxName:Simiiformes
+MADE2	9347 TaxName:Eutheria
+MARE10	40674 TaxName:Mammalia
+MARE11	40674 TaxName:Mammalia
+MARE4	32525 TaxName:Theria_Mammalia
+MARE6	40674 TaxName:Mammalia
+MARE8	40674 TaxName:Mammalia
+MARE9	40674 TaxName:Mammalia
+MARINCE1	6239 TaxName:Caenorhabditis elegans
+MARNA	9347 TaxName:Eutheria
+MAR_CE	6239 TaxName:Caenorhabditis elegans
+MAX_I	7215 TaxName:Drosophila
+MAX_LTR	7215 TaxName:Drosophila
+MDG1_I	7215 TaxName:Drosophila
+MDG1_LTR	7215 TaxName:Drosophila
+MDG3_I	7215 TaxName:Drosophila
+MDG3_LTR	7215 TaxName:Drosophila
+MER101	9443 TaxName:Primates
+MER101-int	9443 TaxName:Primates
+MER101B	314146 TaxName:Euarchontoglires
+MER102a	9347 TaxName:Eutheria
+MER102b	9347 TaxName:Eutheria
+MER102c	9347 TaxName:Eutheria
+MER103C	9347 TaxName:Eutheria
+MER104	9347 TaxName:Eutheria
+MER105	9347 TaxName:Eutheria
+MER106A	9347 TaxName:Eutheria
+MER106B	9347 TaxName:Eutheria
+MER107	314293 TaxName:Simiiformes
+MER110	9347 TaxName:Eutheria
+MER110-int	9347 TaxName:Eutheria
+MER110A	9347 TaxName:Eutheria
+MER112	9347 TaxName:Eutheria
+MER113	9347 TaxName:Eutheria
+MER113A	9347 TaxName:Eutheria
+MER115	9347 TaxName:Eutheria
+MER117	9347 TaxName:Eutheria
+MER119	9347 TaxName:Eutheria
+MER11A	9526 TaxName:Catarrhini
+MER11B	314295 TaxName:Hominoidea
+MER11C	314295 TaxName:Hominoidea
+MER11D	314295 TaxName:Hominoidea
+MER121	40674 TaxName:Mammalia
+MER121B	32524 TaxName:Amniota
+MER123	32523 TaxName:Tetrapoda
+MER124	32525 TaxName:Theria_Mammalia
+MER125	32524 TaxName:Amniota
+MER126	32524 TaxName:Amniota
+MER127	32524 TaxName:Amniota
+MER129	32524 TaxName:Amniota
+MER130	32524 TaxName:Amniota
+MER131	32524 TaxName:Amniota
+MER132	32524 TaxName:Amniota
+MER133A	32524 TaxName:Amniota
+MER133B	32524 TaxName:Amniota
+MER134	32524 TaxName:Amniota
+MER135	40674 TaxName:Mammalia
+MER136	32524 TaxName:Amniota
+MER1A	314293 TaxName:Simiiformes
+MER1B	314293 TaxName:Simiiformes
+MER2	314147 TaxName:Glires
+MER2	9443 TaxName:Primates
+MER20	9347 TaxName:Eutheria
+MER20B	9347 TaxName:Eutheria
+MER21-int	9347 TaxName:Eutheria
+MER21A	9443 TaxName:Primates
+MER21B	9347 TaxName:Eutheria
+MER21C	9347 TaxName:Eutheria
+MER2B	9443 TaxName:Primates
+MER3	9347 TaxName:Eutheria
+MER30	314293 TaxName:Simiiformes
+MER30B	314293 TaxName:Simiiformes
+MER31-int	9347 TaxName:Eutheria
+MER31A	9347 TaxName:Eutheria
+MER31B	9347 TaxName:Eutheria
+MER33	9347 TaxName:Eutheria
+MER34	314146 TaxName:Euarchontoglires
+MER34-int	9347 TaxName:Eutheria
+MER34A	9347 TaxName:Eutheria
+MER34A1	9347 TaxName:Eutheria
+MER34B	314146 TaxName:Euarchontoglires
+MER34B-int	9347 TaxName:Eutheria
+MER34C	314146 TaxName:Euarchontoglires
+MER34C2	9443 TaxName:Primates
+MER34C_v	314146 TaxName:Euarchontoglires
+MER34D	9443 TaxName:Primates
+MER39	9443 TaxName:Primates
+MER39B	9443 TaxName:Primates
+MER4-int	9443 TaxName:Primates
+MER41-int	9443 TaxName:Primates
+MER41A	9443 TaxName:Primates
+MER41B	9443 TaxName:Primates
+MER41C	9443 TaxName:Primates
+MER41D	9443 TaxName:Primates
+MER41E	9443 TaxName:Primates
+MER41G	9443 TaxName:Primates
+MER44A	9443 TaxName:Primates
+MER44B	9443 TaxName:Primates
+MER44C	9443 TaxName:Primates
+MER44D	9443 TaxName:Primates
+MER45A	9347 TaxName:Eutheria
+MER45B	9347 TaxName:Eutheria
+MER45C	9347 TaxName:Eutheria
+MER45R	9347 TaxName:Eutheria
+MER46C	9347 TaxName:Eutheria
+MER47A	9392 TaxName:Scandentia
+MER47A	9443 TaxName:Primates
+MER47B	9443 TaxName:Primates
+MER47C	9443 TaxName:Primates
+MER48	9526 TaxName:Catarrhini
+MER49	376913 TaxName:Haplorrhini
+MER4A	9443 TaxName:Primates
+MER4A1	9443 TaxName:Primates
+MER4A1_v	9443 TaxName:Primates
+MER4B	9443 TaxName:Primates
+MER4B-int	9347 TaxName:Eutheria
+MER4C	9443 TaxName:Primates
+MER4CL34	314293 TaxName:Simiiformes
+MER4D	9443 TaxName:Primates
+MER4D0	9443 TaxName:Primates
+MER4D1	9443 TaxName:Primates
+MER4E	9443 TaxName:Primates
+MER4E1	9443 TaxName:Primates
+MER50	314293 TaxName:Simiiformes
+MER50-int	314293 TaxName:Simiiformes
+MER50B	314293 TaxName:Simiiformes
+MER50C	314293 TaxName:Simiiformes
+MER51-int	314293 TaxName:Simiiformes
+MER51A	314293 TaxName:Simiiformes
+MER51B	314293 TaxName:Simiiformes
+MER51C	314293 TaxName:Simiiformes
+MER51D	314293 TaxName:Simiiformes
+MER51E	314293 TaxName:Simiiformes
+MER52-int	9347 TaxName:Eutheria
+MER52A	9443 TaxName:Primates
+MER52C	9443 TaxName:Primates
+MER52D	9443 TaxName:Primates
+MER53	9347 TaxName:Eutheria
+MER54A	314146 TaxName:Euarchontoglires
+MER54B	314146 TaxName:Euarchontoglires
+MER57-int	314146 TaxName:Euarchontoglires
+MER57A-int	376913 TaxName:Haplorrhini
+MER57A1	314293 TaxName:Simiiformes
+MER57B1	314293 TaxName:Simiiformes
+MER57B2	376913 TaxName:Haplorrhini
+MER57C1	9443 TaxName:Primates
+MER57C2	314146 TaxName:Euarchontoglires
+MER57D	314146 TaxName:Euarchontoglires
+MER57E1	314146 TaxName:Euarchontoglires
+MER57E2	314146 TaxName:Euarchontoglires
+MER57E3	9443 TaxName:Primates
+MER57F	9443 TaxName:Primates
+MER58A	9347 TaxName:Eutheria
+MER58B	9347 TaxName:Eutheria
+MER58C	9347 TaxName:Eutheria
+MER58D	9347 TaxName:Eutheria
+MER5A	9347 TaxName:Eutheria
+MER5A1	9347 TaxName:Eutheria
+MER5B	9347 TaxName:Eutheria
+MER5C	9347 TaxName:Eutheria
+MER5C1	9347 TaxName:Eutheria
+MER6	9443 TaxName:Primates
+MER61-int	314293 TaxName:Simiiformes
+MER61A	314293 TaxName:Simiiformes
+MER61B	314293 TaxName:Simiiformes
+MER61C	314293 TaxName:Simiiformes
+MER61D	314293 TaxName:Simiiformes
+MER61E	314293 TaxName:Simiiformes
+MER61F	314293 TaxName:Simiiformes
+MER63A	9347 TaxName:Eutheria
+MER63B	9347 TaxName:Eutheria
+MER63C	9347 TaxName:Eutheria
+MER63D	9347 TaxName:Eutheria
+MER65-int	314146 TaxName:Euarchontoglires
+MER65A	9443 TaxName:Primates
+MER65B	9443 TaxName:Primates
+MER65C	9443 TaxName:Primates
+MER65D	314146 TaxName:Euarchontoglires
+MER66-int	314293 TaxName:Simiiformes
+MER66A	314293 TaxName:Simiiformes
+MER66B	314293 TaxName:Simiiformes
+MER66C	314293 TaxName:Simiiformes
+MER66D	314293 TaxName:Simiiformes
+MER67A	9347 TaxName:Eutheria
+MER67B	9347 TaxName:Eutheria
+MER67C	9347 TaxName:Eutheria
+MER67D	9347 TaxName:Eutheria
+MER68	9347 TaxName:Eutheria
+MER68-int	9347 TaxName:Eutheria
+MER68B	9347 TaxName:Eutheria
+MER68C	9347 TaxName:Eutheria
+MER6A	9443 TaxName:Primates
+MER6B	9443 TaxName:Primates
+MER6C	9443 TaxName:Primates
+MER70-int	9347 TaxName:Eutheria
+MER70A	314146 TaxName:Euarchontoglires
+MER70B	314146 TaxName:Euarchontoglires
+MER70C	9347 TaxName:Eutheria
+MER72	314293 TaxName:Simiiformes
+MER72B	314293 TaxName:Simiiformes
+MER73	314146 TaxName:Euarchontoglires
+MER74A	9347 TaxName:Eutheria
+MER74B	9347 TaxName:Eutheria
+MER74C	9347 TaxName:Eutheria
+MER75	314293 TaxName:Simiiformes
+MER75A	314293 TaxName:Simiiformes
+MER75B	314293 TaxName:Simiiformes
+MER76	9347 TaxName:Eutheria
+MER76-int	9347 TaxName:Eutheria
+MER77	9347 TaxName:Eutheria
+MER77B	9347 TaxName:Eutheria
+MER8	9443 TaxName:Primates
+MER81	9347 TaxName:Eutheria
+MER83	9443 TaxName:Primates
+MER83A-int	9347 TaxName:Eutheria
+MER83B	9443 TaxName:Primates
+MER83B-int	9347 TaxName:Eutheria
+MER83C	9443 TaxName:Primates
+MER84	9443 TaxName:Primates
+MER84-int	9443 TaxName:Primates
+MER85	314293 TaxName:Simiiformes
+MER87	314293 TaxName:Simiiformes
+MER87B	9443 TaxName:Primates
+MER88	9347 TaxName:Eutheria
+MER89	9347 TaxName:Eutheria
+MER89-int	9347 TaxName:Eutheria
+MER90	9347 TaxName:Eutheria
+MER90a	9347 TaxName:Eutheria
+MER91A	9347 TaxName:Eutheria
+MER91B	9347 TaxName:Eutheria
+MER91C	9347 TaxName:Eutheria
+MER92-int	9347 TaxName:Eutheria
+MER92A	9347 TaxName:Eutheria
+MER92B	9347 TaxName:Eutheria
+MER92C	9347 TaxName:Eutheria
+MER92D	9347 TaxName:Eutheria
+MER94	9347 TaxName:Eutheria
+MER94B	9347 TaxName:Eutheria
+MER95	9347 TaxName:Eutheria
+MER96	9347 TaxName:Eutheria
+MER96B	9347 TaxName:Eutheria
+MER97a	9347 TaxName:Eutheria
+MER97b	9347 TaxName:Eutheria
+MER97c	9347 TaxName:Eutheria
+MER97d	9347 TaxName:Eutheria
+MER99	9347 TaxName:Eutheria
+MER9B	9526 TaxName:Catarrhini
+MER9a1	314295 TaxName:Hominoidea
+MER9a2	314295 TaxName:Hominoidea
+MER9a3	9526 TaxName:Catarrhini
+MERV1_I	10090 TaxName:Mus
+MERV1_LTR	10090 TaxName:Mus
+MERVK26	10066 TaxName:Muridae
+MERVL	10088 TaxName:Mus
+MERVL_2A	9989 TaxName:Rodentia
+MERX	9347 TaxName:Eutheria
+MICROPIA_I	7215 TaxName:Drosophila
+MICROPIA_LTR	7215 TaxName:Drosophila
+MINISAT1_CE	6239 TaxName:Caenorhabditis elegans
+MINOS	7215 TaxName:Drosophila
+MIR	40674 TaxName:Mammalia
+MIR1_Amn	32524 TaxName:Amniota
+MIR3	40674 TaxName:Mammalia
+MIRAGE1	6239 TaxName:Caenorhabditis elegans
+MIRb	40674 TaxName:Mammalia
+MIRc	40674 TaxName:Mammalia
+MLT-int	9347 TaxName:Eutheria
+MLT1-int	9347 TaxName:Eutheria
+MLT1A	9347 TaxName:Eutheria
+MLT1A0	9347 TaxName:Eutheria
+MLT1A1	314146 TaxName:Euarchontoglires
+MLT1B	9347 TaxName:Eutheria
+MLT1C	1437010 TaxName:Boreoeutheria
+MLT1C2	1437010 TaxName:Boreoeutheria
+MLT1D	9347 TaxName:Eutheria
+MLT1E	9347 TaxName:Eutheria
+MLT1E1	9347 TaxName:Eutheria
+MLT1E1A	9347 TaxName:Eutheria
+MLT1E2	9347 TaxName:Eutheria
+MLT1E3	9347 TaxName:Eutheria
+MLT1F	9347 TaxName:Eutheria
+MLT1F-int	9347 TaxName:Eutheria
+MLT1F1	9347 TaxName:Eutheria
+MLT1F2	9347 TaxName:Eutheria
+MLT1G	9347 TaxName:Eutheria
+MLT1G1	9347 TaxName:Eutheria
+MLT1G3	9347 TaxName:Eutheria
+MLT1H	9347 TaxName:Eutheria
+MLT1H-int	9347 TaxName:Eutheria
+MLT1H1	9347 TaxName:Eutheria
+MLT1H2	9347 TaxName:Eutheria
+MLT1I	9347 TaxName:Eutheria
+MLT1J	9347 TaxName:Eutheria
+MLT1J-int	9347 TaxName:Eutheria
+MLT1J1	9347 TaxName:Eutheria
+MLT1J2	9347 TaxName:Eutheria
+MLT1K	9347 TaxName:Eutheria
+MLT1L	9347 TaxName:Eutheria
+MLT1M	9347 TaxName:Eutheria
+MLT1N2	9347 TaxName:Eutheria
+MLT1O	9347 TaxName:Eutheria
+MLT2A1	9443 TaxName:Primates
+MLT2A2	9443 TaxName:Primates
+MLT2B1	9347 TaxName:Eutheria
+MLT2B2	9347 TaxName:Eutheria
+MLT2B3	9347 TaxName:Eutheria
+MLT2B4	9347 TaxName:Eutheria
+MLT2B5	314146 TaxName:Euarchontoglires
+MLT2C1	9347 TaxName:Eutheria
+MLT2C2	9347 TaxName:Eutheria
+MLT2D	9347 TaxName:Eutheria
+MLT2E	9347 TaxName:Eutheria
+MLT2F	9347 TaxName:Eutheria
+MLTR11A	39107 TaxName:Murinae
+MLTR11B	39107 TaxName:Murinae
+MLTR12	39107 TaxName:Murinae
+MLTR13	39107 TaxName:Murinae
+MLTR14	39107 TaxName:Murinae
+MLTR18A_MM	10090 TaxName:Mus
+MLTR18B_MM	10090 TaxName:Mus
+MLTR18C_MM	10090 TaxName:Mus
+MLTR18D_MM	10090 TaxName:Mus
+MLTR18_MM	10090 TaxName:Mus
+MLTR25A	10090 TaxName:Mus
+MLTR25C	10090 TaxName:Mus
+MLTR31A_MM	10090 TaxName:Mus
+MLTR31C_MM	10090 TaxName:Mus
+MLTR31D_MM	10090 TaxName:Mus
+MLTR31E_MM	10090 TaxName:Mus
+MLTR31FA_MM	10090 TaxName:Mus
+MLTR31F_MM	10090 TaxName:Mus
+MLTR32C_MM	10090 TaxName:Mus
+MLTR73	39107 TaxName:Murinae
+MMAR1	10066 TaxName:Muridae
+MMERGLN-int	10088 TaxName:Mus
+MMERGLN_LTR	10088 TaxName:Mus
+MMERVK10C	10088 TaxName:Mus
+MMERVK10D3_I	10090 TaxName:Mus
+MMERVK10D3_LTR	10090 TaxName:Mus
+MMERVK9C_I	10090 TaxName:Mus
+MMERVK9E_I	10090 TaxName:Mus
+MMETn-int	10088 TaxName:Mus
+MMSAT4	10088 TaxName:Mus
+MMTV-int	10088 TaxName:Mus
+MMVL30-int	10088 TaxName:Mus
+MOSAT-2_DR	7955 TaxName:Danio rerio
+MOSAT_DR	7954 TaxName:Danio
+MRLTR33	39107 TaxName:Murinae
+MSAT-1_DR	7955 TaxName:Danio rerio
+MSAT-2_DR	7955 TaxName:Danio rerio
+MSAT-3_DR	7955 TaxName:Danio rerio
+MSAT-4_DR	7955 TaxName:Danio rerio
+MSAT-5_DR	7955 TaxName:Danio rerio
+MSAT1_CE	6239 TaxName:Caenorhabditis elegans
+MSR1	9443 TaxName:Primates
+MST-int	9443 TaxName:Primates
+MSTA	314293 TaxName:Simiiformes
+MSTA1	9443 TaxName:Primates
+MSTB	314293 TaxName:Simiiformes
+MSTB1	9443 TaxName:Primates
+MSTB2	9443 TaxName:Primates
+MSTC	9443 TaxName:Primates
+MSTD	9443 TaxName:Primates
+MT-int	10088 TaxName:Mus
+MT2A	9989 TaxName:Rodentia
+MT2B	10066 TaxName:Muridae
+MT2B1	10066 TaxName:Muridae
+MT2B2	10066 TaxName:Muridae
+MT2C_Mm	10088 TaxName:Mus
+MT2_Mm	10088 TaxName:Mus
+MTA_Mm	10088 TaxName:Mus
+MTB	10066 TaxName:Muridae
+MTB_Mm	10088 TaxName:Mus
+MTC	10066 TaxName:Muridae
+MTC-int	10066 TaxName:Muridae
+MTD	9989 TaxName:Rodentia
+MTE-int	9989 TaxName:Rodentia
+MTE2a	9989 TaxName:Rodentia
+MTE2b	9989 TaxName:Rodentia
+MTEa	9989 TaxName:Rodentia
+MTEb	9989 TaxName:Rodentia
+MURVY-LTR	10088 TaxName:Mus
+MURVY-int	10088 TaxName:Mus
+MYSERV	10066 TaxName:Muridae
+MYSERV16_I	10066 TaxName:Muridae
+MYSERV6	10066 TaxName:Muridae
+MamGyp-int	32525 TaxName:Theria_Mammalia
+MamGypLTR1a	9347 TaxName:Eutheria
+MamGypLTR1b	9347 TaxName:Eutheria
+MamGypLTR1c	9347 TaxName:Eutheria
+MamGypLTR1d	9347 TaxName:Eutheria
+MamGypLTR2b	9347 TaxName:Eutheria
+MamGypLTR2c	9347 TaxName:Eutheria
+MamGypLTR3	9347 TaxName:Eutheria
+MamGypLTR3a	9347 TaxName:Eutheria
+MamGypLTR4	9347 TaxName:Eutheria
+MamGypsy2-I	32525 TaxName:Theria_Mammalia
+MamGypsy2-LTR	32525 TaxName:Theria_Mammalia
+MamRTE1	40674 TaxName:Mammalia
+MamRTE2	40674 TaxName:Mammalia
+MamRep1151	9347 TaxName:Eutheria
+MamRep137	32525 TaxName:Theria_Mammalia
+MamRep1527	9347 TaxName:Eutheria
+MamRep1879	9347 TaxName:Eutheria
+MamRep1894	9347 TaxName:Eutheria
+MamRep38	9347 TaxName:Eutheria
+MamRep4096	9347 TaxName:Eutheria
+MamRep434	32525 TaxName:Theria_Mammalia
+MamRep488	9347 TaxName:Eutheria
+MamRep564	9347 TaxName:Eutheria
+MamRep605	9347 TaxName:Eutheria
+MamRep605b	32525 TaxName:Theria_Mammalia
+MamSINE1	40674 TaxName:Mammalia
+MamTip1	9347 TaxName:Eutheria
+MamTip1b	9347 TaxName:Eutheria
+MamTip2	32525 TaxName:Theria_Mammalia
+MamTip2b	32525 TaxName:Theria_Mammalia
+MamTip3	9347 TaxName:Eutheria
+MamTip3B	9347 TaxName:Eutheria
+Mam_R4	40674 TaxName:Mammalia
+Mariner-10_DR	7955 TaxName:Danio rerio
+Mariner-11_DR	7955 TaxName:Danio rerio
+Mariner-12_DR	7955 TaxName:Danio rerio
+Mariner-1_DR	7955 TaxName:Danio rerio
+Mariner-2_DR	7955 TaxName:Danio rerio
+Mariner-3_DR	7955 TaxName:Danio rerio
+Mariner-4_DR	7955 TaxName:Danio rerio
+Mariner-5_DR	7955 TaxName:Danio rerio
+Mariner-6_DR	7955 TaxName:Danio rerio
+Mariner-7_DR	7955 TaxName:Danio rerio
+Mariner-8_DR	7955 TaxName:Danio rerio
+Mariner-9_DR	7955 TaxName:Danio rerio
+Mariner-N10_DR	7955 TaxName:Danio rerio
+Mariner-N11_DR	7955 TaxName:Danio rerio
+Mariner-N12_DR	7955 TaxName:Danio rerio
+Mariner-N13_DR	7955 TaxName:Danio rerio
+Mariner-N14_DR	7955 TaxName:Danio rerio
+Mariner-N15_DR	7955 TaxName:Danio rerio
+Mariner-N16_DR	7955 TaxName:Danio rerio
+Mariner-N17_DR	7955 TaxName:Danio rerio
+Mariner-N18_DR	7955 TaxName:Danio rerio
+Mariner-N19_DR	7955 TaxName:Danio rerio
+Mariner-N1_DR	7955 TaxName:Danio rerio
+Mariner-N20_DR	7955 TaxName:Danio rerio
+Mariner-N21_DR	7955 TaxName:Danio rerio
+Mariner-N2_DR	7955 TaxName:Danio rerio
+Mariner-N3_DR	7955 TaxName:Danio rerio
+Mariner-N5B_DR	7955 TaxName:Danio rerio
+Mariner-N5_DR	7955 TaxName:Danio rerio
+Mariner-N6_DR	7955 TaxName:Danio rerio
+Mariner-N7_DR	7955 TaxName:Danio rerio
+Mariner-N8_DR	7955 TaxName:Danio rerio
+Mariner2_CE	6239 TaxName:Caenorhabditis elegans
+Mariner2_DM	7215 TaxName:Drosophila
+Mariner3_CE	6239 TaxName:Caenorhabditis elegans
+Mariner4_CE	6239 TaxName:Caenorhabditis elegans
+Mariner5_CE	6239 TaxName:Caenorhabditis elegans
+Merlin-1_DR	7955 TaxName:Danio rerio
+Merlin1_HS	9443 TaxName:Primates
+Merlin1m_CE	6239 TaxName:Caenorhabditis elegans
+MuDR-1_DR	7955 TaxName:Danio rerio
+MuDR-N1_DR	7955 TaxName:Danio rerio
+MuLV-int	10088 TaxName:Mus
+MuRRS-int	10088 TaxName:Mus
+MuRRS4-int	10088 TaxName:Mus
+MurERV4	10066 TaxName:Muridae
+MurERV4_19	10066 TaxName:Muridae
+MurSAT1	10066 TaxName:Muridae
+MurSatRep1	10066 TaxName:Muridae
+MusHAL1	10088 TaxName:Mus
+MusHAL1_5end	10088 TaxName:Mus
+NDNAX1_CE	6239 TaxName:Caenorhabditis elegans
+NDNAX2_CE	6239 TaxName:Caenorhabditis elegans
+NDNAX3_CE	6239 TaxName:Caenorhabditis elegans
+NINJA_I	7215 TaxName:Drosophila
+NINJA_LTR	7215 TaxName:Drosophila
+NOF_FB	7215 TaxName:Drosophila
+NOMAD_I	7215 TaxName:Drosophila
+NOMAD_LTR	7215 TaxName:Drosophila
+NPAL0A_CE	6239 TaxName:Caenorhabditis elegans
+NPAL5A_CE	6239 TaxName:Caenorhabditis elegans
+NPALTA1_CE	6239 TaxName:Caenorhabditis elegans
+NTC2A	6239 TaxName:Caenorhabditis elegans
+NTS_DM	7215 TaxName:Drosophila
+NeSL-1	6239 TaxName:Caenorhabditis elegans
+Ngaro1_DR	7954 TaxName:Danio
+Nimb-10_DR	7955 TaxName:Danio rerio
+Nimb-11_DR	7955 TaxName:Danio rerio
+Nimb-12_DR	7955 TaxName:Danio rerio
+Nimb-13_DR	7955 TaxName:Danio rerio
+Nimb-14_DR	7955 TaxName:Danio rerio
+Nimb-15_DR	7955 TaxName:Danio rerio
+Nimb-16_DR	7955 TaxName:Danio rerio
+Nimb-17_DRe	7955 TaxName:Danio rerio
+Nimb-1_DR	7955 TaxName:Danio rerio
+Nimb-2_DR	7955 TaxName:Danio rerio
+Nimb-3_DR	7955 TaxName:Danio rerio
+Nimb-4_DR	7955 TaxName:Danio rerio
+Nimb-6_DR	7955 TaxName:Danio rerio
+Nimb-7_DR	7955 TaxName:Danio rerio
+Nimb-8_DR	7955 TaxName:Danio rerio
+Nimb-9_DR	7955 TaxName:Danio rerio
+NonLTR-1B_DR	7955 TaxName:Danio rerio
+NonLTR-1C_DR	7955 TaxName:Danio rerio
+NonLTR-1_DR	7955 TaxName:Danio rerio
+ORR1A0	10088 TaxName:Mus
+ORR1A1	10088 TaxName:Mus
+ORR1A1-int	10088 TaxName:Mus
+ORR1A2	10066 TaxName:Muridae
+ORR1A3	10066 TaxName:Muridae
+ORR1A3-int	10066 TaxName:Muridae
+ORR1A4	10066 TaxName:Muridae
+ORR1B1	10066 TaxName:Muridae
+ORR1B1-int	10066 TaxName:Muridae
+ORR1B2	10066 TaxName:Muridae
+ORR1C1	10066 TaxName:Muridae
+ORR1C2	10066 TaxName:Muridae
+ORR1D-int	9989 TaxName:Rodentia
+ORR1D1	9989 TaxName:Rodentia
+ORR1D2	9989 TaxName:Rodentia
+ORR1E	9989 TaxName:Rodentia
+ORR1F	39107 TaxName:Murinae
+ORR1G	39107 TaxName:Murinae
+ORSL	9347 TaxName:Eutheria
+ORSL-2a	9347 TaxName:Eutheria
+ORSL-2b	9347 TaxName:Eutheria
+OldhAT1	32523 TaxName:Tetrapoda
+P-1N2_DR	7955 TaxName:Danio rerio
+P-1N3_DR	7955 TaxName:Danio rerio
+P-1_DR	7955 TaxName:Danio rerio
+PABL_A	9443 TaxName:Primates
+PABL_A-int	9443 TaxName:Primates
+PABL_B	9443 TaxName:Primates
+PABL_B-int	9443 TaxName:Primates
+PAL3A_CE	6239 TaxName:Caenorhabditis elegans
+PAL5A_CE	6239 TaxName:Caenorhabditis elegans
+PAL8A_CE	6239 TaxName:Caenorhabditis elegans
+PAL8B_CE	6239 TaxName:Caenorhabditis elegans
+PAL8C_1	6239 TaxName:Caenorhabditis elegans
+PAL8C_2	6239 TaxName:Caenorhabditis elegans
+PAL8C_3	6239 TaxName:Caenorhabditis elegans
+PAL8C_4	6239 TaxName:Caenorhabditis elegans
+PAL8C_5	6239 TaxName:Caenorhabditis elegans
+PAL8D_CE	6239 TaxName:Caenorhabditis elegans
+PAL9A_CE	6239 TaxName:Caenorhabditis elegans
+PALNN1_CE	6239 TaxName:Caenorhabditis elegans
+PALTA1_CE	6239 TaxName:Caenorhabditis elegans
+PALTA2_CE	6239 TaxName:Caenorhabditis elegans
+PALTA3_CE	6239 TaxName:Caenorhabditis elegans
+PALTA4_CE	6239 TaxName:Caenorhabditis elegans
+PALTA5_CE	6239 TaxName:Caenorhabditis elegans
+PALTTAA1_CE	6239 TaxName:Caenorhabditis elegans
+PALTTAA2_CE	6239 TaxName:Caenorhabditis elegans
+PALTTAA3_CE	6239 TaxName:Caenorhabditis elegans
+PALTTTAAA1	6239 TaxName:Caenorhabditis elegans
+PALTTTAAA2	6239 TaxName:Caenorhabditis elegans
+PALTTTAAA3	6239 TaxName:Caenorhabditis elegans
+PB1	9989 TaxName:Rodentia
+PB1D10	9989 TaxName:Rodentia
+PB1D11	314147 TaxName:Glires
+PB1D11	9392 TaxName:Scandentia
+PB1D7	9989 TaxName:Rodentia
+PB1D9	9989 TaxName:Rodentia
+PLACW_DM	7227 TaxName:Drosophila
+POGO	7215 TaxName:Drosophila
+POGON1	7215 TaxName:Drosophila
+PRIMA4-int	9443 TaxName:Primates
+PRIMA41-int	9443 TaxName:Primates
+PRIMA4_LTR	9443 TaxName:Primates
+PRIMAX-int	9443 TaxName:Primates
+PROTOP	7215 TaxName:Drosophila
+PROTOP1_DR	7954 TaxName:Danio
+PROTOP_A	7215 TaxName:Drosophila
+PROTOP_B	7215 TaxName:Drosophila
+Penelope-1_DR	7955 TaxName:Danio rerio
+Penelope-2_DR	7955 TaxName:Danio rerio
+Penelope-3B_DR	7955 TaxName:Danio rerio
+Penelope-3_DR	7955 TaxName:Danio rerio
+Penelope-4_DR	7955 TaxName:Danio rerio
+Penelope1_Vert	32523 TaxName:Tetrapoda
+Plat_L3	40674 TaxName:Mammalia
+Polinton-1N1_DR	7955 TaxName:Danio rerio
+Polinton-1_DR	7955 TaxName:Danio rerio
+Polinton-2N1_DR	7955 TaxName:Danio rerio
+PrimLTR79	9443 TaxName:Primates
+QUASIMODO2-I_DM	7227 TaxName:Drosophila
+QUASIMODO2-LTR_DM	7227 TaxName:Drosophila melanogaster
+QUASIMODO_I	7215 TaxName:Drosophila
+QUASIMODO_LTR	7215 TaxName:Drosophila
+R1-2_DM	7215 TaxName:Drosophila
+R1_DM	7215 TaxName:Drosophila
+R2Dr	7955 TaxName:Danio rerio
+R2_DM	7215 TaxName:Drosophila
+RC123	6239 TaxName:Caenorhabditis elegans
+RC14	6239 TaxName:Caenorhabditis elegans
+RC35	6239 TaxName:Caenorhabditis elegans
+RC35S	6239 TaxName:Caenorhabditis elegans
+RCA1	6239 TaxName:Caenorhabditis elegans
+RCC9	6239 TaxName:Caenorhabditis elegans
+RCD1	6239 TaxName:Caenorhabditis elegans
+RCHARR1	10066 TaxName:Muridae
+RCS5	6239 TaxName:Caenorhabditis elegans
+REP522	9443 TaxName:Primates
+REX1-1_DR	7954 TaxName:Danio
+REX1-2_DR	7955 TaxName:Danio rerio
+REX1-3_DR	7955 TaxName:Danio rerio
+REX1-4_DR	7955 TaxName:Danio rerio
+REX1-5_DR	7955 TaxName:Danio rerio
+REX1-7_DR	7955 TaxName:Danio rerio
+REX1-8_DR	7955 TaxName:Danio rerio
+REX1-9_DR	7955 TaxName:Danio rerio
+RLTR1	10088 TaxName:Mus
+RLTR10	10088 TaxName:Mus
+RLTR10-int	10066 TaxName:Muridae
+RLTR10A	10088 TaxName:Mus
+RLTR10B	10088 TaxName:Mus
+RLTR10B2	10088 TaxName:Mus
+RLTR10C	10088 TaxName:Mus
+RLTR10D	10088 TaxName:Mus
+RLTR10D2	39107 TaxName:Murinae
+RLTR10E	10088 TaxName:Mus
+RLTR10F	39107 TaxName:Murinae
+RLTR11A	10066 TaxName:Muridae
+RLTR11A2	10066 TaxName:Muridae
+RLTR11B	10066 TaxName:Muridae
+RLTR11C_MM	10090 TaxName:Mus
+RLTR11D	39107 TaxName:Murinae
+RLTR12A	10066 TaxName:Muridae
+RLTR12B	10066 TaxName:Muridae
+RLTR12B2	10066 TaxName:Muridae
+RLTR12BD_Mm	10088 TaxName:Mus
+RLTR12C	10066 TaxName:Muridae
+RLTR12D	10066 TaxName:Muridae
+RLTR12E	10066 TaxName:Muridae
+RLTR12F	10066 TaxName:Muridae
+RLTR12G	10066 TaxName:Muridae
+RLTR12H	10066 TaxName:Muridae
+RLTR13A	10088 TaxName:Mus
+RLTR13A1	10090 TaxName:Mus
+RLTR13A2	10088 TaxName:Mus
+RLTR13A3	10088 TaxName:Mus
+RLTR13B1	10088 TaxName:Mus
+RLTR13B2	10088 TaxName:Mus
+RLTR13B3	10088 TaxName:Mus
+RLTR13B4	10088 TaxName:Mus
+RLTR13C1	10088 TaxName:Mus
+RLTR13C2	10088 TaxName:Mus
+RLTR13C3	10090 TaxName:Mus
+RLTR13D	39107 TaxName:Murinae
+RLTR13D1	10088 TaxName:Mus
+RLTR13D2	10088 TaxName:Mus
+RLTR13D3	10088 TaxName:Mus
+RLTR13D3A	10090 TaxName:Mus
+RLTR13D3A1	10090 TaxName:Mus
+RLTR13D4	10088 TaxName:Mus
+RLTR13D5	10088 TaxName:Mus
+RLTR13D6	10088 TaxName:Mus
+RLTR13E	10090 TaxName:Mus
+RLTR13F	10090 TaxName:Mus
+RLTR13G	10090 TaxName:Mus
+RLTR14	10066 TaxName:Muridae
+RLTR14-int	10066 TaxName:Muridae
+RLTR14_RN	39107 TaxName:Murinae
+RLTR15	10066 TaxName:Muridae
+RLTR16	10066 TaxName:Muridae
+RLTR16B_MM	10090 TaxName:Mus
+RLTR16C_MM	10090 TaxName:Mus
+RLTR17	10066 TaxName:Muridae
+RLTR17B_Mm	10090 TaxName:Mus
+RLTR17C_Mm	10090 TaxName:Mus
+RLTR17D_Mm	10090 TaxName:Mus
+RLTR18	10066 TaxName:Muridae
+RLTR18-int	10066 TaxName:Muridae
+RLTR18B	10066 TaxName:Muridae
+RLTR19	10066 TaxName:Muridae
+RLTR19-int	10066 TaxName:Muridae
+RLTR19A	10066 TaxName:Muridae
+RLTR19A2	10090 TaxName:Mus
+RLTR19B	10066 TaxName:Muridae
+RLTR19C	10066 TaxName:Muridae
+RLTR19D	10090 TaxName:Mus
+RLTR1A2_MM	10090 TaxName:Mus
+RLTR1B	10088 TaxName:Mus
+RLTR1B-int	10088 TaxName:Mus
+RLTR1C	10088 TaxName:Mus
+RLTR1D	10088 TaxName:Mus
+RLTR1D2_MM	10090 TaxName:Mus
+RLTR1E_MM	10090 TaxName:Mus
+RLTR1F_Mm	10090 TaxName:Mus
+RLTR20A	10066 TaxName:Muridae
+RLTR20A1	10066 TaxName:Muridae
+RLTR20A2	10066 TaxName:Muridae
+RLTR20A2B_MM	10090 TaxName:Mus
+RLTR20A3_MM	10090 TaxName:Mus
+RLTR20A4	39107 TaxName:Murinae
+RLTR20B1	10066 TaxName:Muridae
+RLTR20B2	10066 TaxName:Muridae
+RLTR20B3	10066 TaxName:Muridae
+RLTR20B3A_MM	10090 TaxName:Mus
+RLTR20B4_MM	10090 TaxName:Mus
+RLTR20B5_MM	10090 TaxName:Mus
+RLTR20C	10066 TaxName:Muridae
+RLTR20C1_MM	10090 TaxName:Mus
+RLTR20C2_MM	10090 TaxName:Mus
+RLTR20D	10066 TaxName:Muridae
+RLTR21	10066 TaxName:Muridae
+RLTR22_Mur	10066 TaxName:Muridae
+RLTR22_Mus	10088 TaxName:Mus
+RLTR23	10066 TaxName:Muridae
+RLTR24	10066 TaxName:Muridae
+RLTR24B_MM	10090 TaxName:Mus
+RLTR25A	10066 TaxName:Muridae
+RLTR25B	10066 TaxName:Muridae
+RLTR26	10066 TaxName:Muridae
+RLTR26B_MM	10090 TaxName:Mus
+RLTR26C_MM	10090 TaxName:Mus
+RLTR26D_MM	10090 TaxName:Mus
+RLTR26_Mus	10088 TaxName:Mus
+RLTR27	10088 TaxName:Mus
+RLTR28	10066 TaxName:Muridae
+RLTR28B	10066 TaxName:Muridae
+RLTR30	10066 TaxName:Muridae
+RLTR30B_MM	10090 TaxName:Mus
+RLTR30C_MM	10090 TaxName:Mus
+RLTR30D2_MM	10090 TaxName:Mus
+RLTR30D_MM	10090 TaxName:Mus
+RLTR30D_RN	39107 TaxName:Murinae
+RLTR30E_MM	10090 TaxName:Mus
+RLTR31A_Mm	10088 TaxName:Mus
+RLTR31B2	39107 TaxName:Murinae
+RLTR31B_Mm	10088 TaxName:Mus
+RLTR31C_MM	10090 TaxName:Mus
+RLTR31D_MM	10090 TaxName:Mus musculus
+RLTR31M	39107 TaxName:Murinae
+RLTR31_Mm	10088 TaxName:Mus
+RLTR31_Mur	10066 TaxName:Muridae
+RLTR33	10066 TaxName:Muridae
+RLTR34B_MM	10090 TaxName:Mus
+RLTR34C_MM	10090 TaxName:Mus
+RLTR34D_MM	10090 TaxName:Mus
+RLTR35B_MM	10090 TaxName:Mus
+RLTR3_Mm	10088 TaxName:Mus
+RLTR40	10066 TaxName:Muridae
+RLTR41	10088 TaxName:Mus
+RLTR41A2	10090 TaxName:Mus
+RLTR41B	10090 TaxName:Mus
+RLTR41C	10090 TaxName:Mus
+RLTR42	10066 TaxName:Muridae
+RLTR42-int	10066 TaxName:Muridae
+RLTR43A	10066 TaxName:Muridae
+RLTR43B	10066 TaxName:Muridae
+RLTR43C	10090 TaxName:Mus
+RLTR44-int	10088 TaxName:Mus
+RLTR44A	10088 TaxName:Mus
+RLTR44B	10088 TaxName:Mus
+RLTR44C	10088 TaxName:Mus
+RLTR44D	10088 TaxName:Mus
+RLTR44E	10088 TaxName:Mus
+RLTR45	10088 TaxName:Mus
+RLTR45-int	10088 TaxName:Mus
+RLTR46	10066 TaxName:Muridae
+RLTR46A	10090 TaxName:Mus
+RLTR46A2	10090 TaxName:Mus
+RLTR46B	10090 TaxName:Mus
+RLTR47	10090 TaxName:Mus
+RLTR47_MM	10088 TaxName:Mus
+RLTR48A	10090 TaxName:Mus
+RLTR48B	10090 TaxName:Mus
+RLTR48C	10090 TaxName:Mus
+RLTR49	10090 TaxName:Mus
+RLTR4_MM-int	10088 TaxName:Mus
+RLTR4_Mm	10088 TaxName:Mus
+RLTR50A	10090 TaxName:Mus
+RLTR50B	10090 TaxName:Mus
+RLTR51A_Mm	10090 TaxName:Mus
+RLTR51B_Mm	10090 TaxName:Mus
+RLTR53B_Mm	10090 TaxName:Mus
+RLTR53_Mm	10090 TaxName:Mus
+RLTR5_Mm	10088 TaxName:Mus
+RLTR6-int	10088 TaxName:Mus
+RLTR6B_Mm	10090 TaxName:Mus
+RLTR6C_Mm	10090 TaxName:Mus
+RLTR6_Mm	10088 TaxName:Mus
+RLTR8	10088 TaxName:Mus
+RLTR9A	10088 TaxName:Mus
+RLTR9A2	10088 TaxName:Mus
+RLTR9A3	10090 TaxName:Mus
+RLTR9A3A	10090 TaxName:Mus
+RLTR9A3B	10090 TaxName:Mus
+RLTR9A4	10090 TaxName:Mus
+RLTR9B	10088 TaxName:Mus
+RLTR9B2	10088 TaxName:Mus
+RLTR9C	10088 TaxName:Mus
+RLTR9D	10088 TaxName:Mus
+RLTR9D2	10090 TaxName:Mus
+RLTR9E	10088 TaxName:Mus
+RLTR9F	10088 TaxName:Mus
+RLTRETN_Mm	10088 TaxName:Mus
+RMER10A	10066 TaxName:Muridae
+RMER10B	10066 TaxName:Muridae
+RMER12	10066 TaxName:Muridae
+RMER12B	10066 TaxName:Muridae
+RMER12C	10066 TaxName:Muridae
+RMER13A	10066 TaxName:Muridae
+RMER13A1	10090 TaxName:Mus
+RMER13A2	10090 TaxName:Mus
+RMER13B	10066 TaxName:Muridae
+RMER15	10066 TaxName:Muridae
+RMER15-int	10066 TaxName:Muridae
+RMER16	10066 TaxName:Muridae
+RMER16-int	10066 TaxName:Muridae
+RMER16A2	10066 TaxName:Muridae
+RMER16A3	10066 TaxName:Muridae
+RMER16B	10066 TaxName:Muridae
+RMER16B2	10066 TaxName:Muridae
+RMER16B3	10066 TaxName:Muridae
+RMER16C	10066 TaxName:Muridae
+RMER16_Mm	10066 TaxName:Muridae
+RMER17A	10088 TaxName:Mus
+RMER17A-int	10088 TaxName:Mus
+RMER17A2	10088 TaxName:Mus
+RMER17B	10066 TaxName:Muridae
+RMER17B2	10090 TaxName:Mus
+RMER17C	10066 TaxName:Muridae
+RMER17C-int	10066 TaxName:Muridae
+RMER17C2	10066 TaxName:Muridae
+RMER17D	10066 TaxName:Muridae
+RMER17D2	10066 TaxName:Muridae
+RMER19A	10066 TaxName:Muridae
+RMER19B	10066 TaxName:Muridae
+RMER19B2	10066 TaxName:Muridae
+RMER19C	10066 TaxName:Muridae
+RMER1A	10066 TaxName:Muridae
+RMER1B	10066 TaxName:Muridae
+RMER1C	10066 TaxName:Muridae
+RMER2	10066 TaxName:Muridae
+RMER20A	10066 TaxName:Muridae
+RMER20B	10066 TaxName:Muridae
+RMER20C_Mm	10066 TaxName:Muridae
+RMER21A	10066 TaxName:Muridae
+RMER21B	10066 TaxName:Muridae
+RMER30	10066 TaxName:Muridae
+RMER3D-int	10066 TaxName:Muridae
+RMER3D1	10066 TaxName:Muridae
+RMER3D2	10066 TaxName:Muridae
+RMER3D3	10066 TaxName:Muridae
+RMER3D4	10066 TaxName:Muridae
+RMER4A	10066 TaxName:Muridae
+RMER4B	10066 TaxName:Muridae
+RMER5	9989 TaxName:Rodentia
+RMER6-int	10066 TaxName:Muridae
+RMER6A	10066 TaxName:Muridae
+RMER6B	10066 TaxName:Muridae
+RMER6BA	39107 TaxName:Murinae
+RMER6C	10066 TaxName:Muridae
+RMER6D	10066 TaxName:Muridae
+RNERVK23	10066 TaxName:Muridae
+RNLTR23	10066 TaxName:Muridae
+ROOA_I	7215 TaxName:Drosophila
+ROOA_LTR	7215 TaxName:Drosophila
+ROO_I	7215 TaxName:Drosophila
+ROO_LTR	7215 TaxName:Drosophila
+ROVER-I_DM	7227 TaxName:Drosophila melanogaster
+ROVER-LTR_DM	7227 TaxName:Drosophila melanogaster
+RSINE1	10066 TaxName:Muridae
+RSP	7215 TaxName:Drosophila
+RTE-1_DR	7955 TaxName:Danio rerio
+RTE1	6239 TaxName:Caenorhabditis elegans
+RTEX-1_DR	7955 TaxName:Danio rerio
+RTEX-2_DR	7955 TaxName:Danio rerio
+RTEX-3_DR	7955 TaxName:Danio rerio
+RTEX-4_DR	7955 TaxName:Danio rerio
+RTEX-5_DR	7955 TaxName:Danio rerio
+Rex1-15_DRe	7955 TaxName:Danio rerio
+Rex1-19_DRe	7955 TaxName:Danio rerio
+Rex1-20_DRe	7955 TaxName:Danio rerio
+Rex1-21_DRe	7955 TaxName:Danio rerio
+Rex1-23_DRe	7955 TaxName:Danio rerio
+Rex1-26_DRe	7955 TaxName:Danio rerio
+Rex1-28_DRe	7955 TaxName:Danio rerio
+Rex1-29_DRe	7955 TaxName:Danio rerio
+Rex1-30_DRe	7955 TaxName:Danio rerio
+Rex1-31_DRe	7955 TaxName:Danio rerio
+Rex1-38_DRe	7955 TaxName:Danio rerio
+Rex1-40_DRe	7955 TaxName:Danio rerio
+Rex1-43_DRe	7955 TaxName:Danio rerio
+Rex1-50_DR	7955 TaxName:Danio rerio
+Rex1-52_DR	7955 TaxName:Danio rerio
+Rex1-53_DR	7955 TaxName:Danio rerio
+Rex1-54_DR	7955 TaxName:Danio rerio
+Rex1-55_DR	7955 TaxName:Danio rerio
+Rex1-6_DR	7955 TaxName:Danio rerio
+Ricksha	9443 TaxName:Primates
+Ricksha_0	9443 TaxName:Primates
+Ricksha_a	9443 TaxName:Primates
+Ricksha_b	9443 TaxName:Primates
+Ricksha_c	9443 TaxName:Primates
+RodERV21	9989 TaxName:Rodentia
+S2_DM	7215 TaxName:Drosophila
+SAR	9443 TaxName:Primates
+SAR2_DM	7227 TaxName:Drosophila
+SAR_DM	7215 TaxName:Drosophila
+SAT-10_DR	7955 TaxName:Danio rerio
+SAT-11_DR	7955 TaxName:Danio rerio
+SAT-12_DR	7955 TaxName:Danio rerio
+SAT-13_DR	7955 TaxName:Danio rerio
+SAT-14_DR	7955 TaxName:Danio rerio
+SAT-15_DR	7955 TaxName:Danio rerio
+SAT-16_DR	7955 TaxName:Danio rerio
+SAT-17_DR	7955 TaxName:Danio rerio
+SAT-18_DR	7955 TaxName:Danio rerio
+SAT-19_DR	7955 TaxName:Danio rerio
+SAT-1_DR	7955 TaxName:Danio rerio
+SAT-20_DR	7955 TaxName:Danio rerio
+SAT-21_DR	7955 TaxName:Danio rerio
+SAT-22_DR	7955 TaxName:Danio rerio
+SAT-23_DR	7955 TaxName:Danio rerio
+SAT-24_DR	7955 TaxName:Danio rerio
+SAT-25_DR	7955 TaxName:Danio rerio
+SAT-2_DR	7955 TaxName:Danio rerio
+SAT-3_DR	7955 TaxName:Danio rerio
+SAT-4_DR	7955 TaxName:Danio rerio
+SAT-7_DR	7955 TaxName:Danio rerio
+SAT-8_DR	7955 TaxName:Danio rerio
+SAT-9_DR	7955 TaxName:Danio rerio
+SATR1	9443 TaxName:Primates
+SATR2	9443 TaxName:Primates
+SINE1_CE	6239 TaxName:Caenorhabditis elegans
+SINE2-1B_DR	7955 TaxName:Danio rerio
+SINE2-1_DR	7955 TaxName:Danio rerio
+SINE2-2_DR	7955 TaxName:Danio rerio
+SINE2-3_DR	7955 TaxName:Danio rerio
+SINE2-4_DR	7955 TaxName:Danio rerio
+SINE2-5_DR	7955 TaxName:Danio rerio
+SINE3-1	7954 TaxName:Danio
+SINE3-1a	7954 TaxName:Danio
+SINE_DR1	7954 TaxName:Danio
+SINE_TE	32443 TaxName:Teleostei
+SRV_MM-int	10088 TaxName:Mus
+SST1	9443 TaxName:Primates
+SSU-rRNA_Cel	33208 TaxName:Metazoa
+SSU-rRNA_Dme	33317 TaxName:Protostomia
+SSU-rRNA_Hsa	33208 TaxName:Metazoa
+STALKER4_I	7227 TaxName:Drosophila
+STALKER4_LTR	7227 TaxName:Drosophila
+SUSHIIDR1	7954 TaxName:Danio
+SUSHIIDR1_LTR	7954 TaxName:Danio
+SVA_A	314295 TaxName:Hominoidea
+SVA_B	9604 TaxName:Hominidae
+SVA_C	9604 TaxName:Hominidae
+SVA_D	9604 TaxName:Hominidae
+SVA_E	9606 TaxName:Homo_sapiens
+SVA_F	9606 TaxName:Homo_sapiens
+SYNREP_MM	10088 TaxName:Mus
+S_DM	7215 TaxName:Drosophila
+Sat-5_DR	7955 TaxName:Danio rerio
+Stalker2_I	7215 TaxName:Drosophila
+Stalker2_LTR	7215 TaxName:Drosophila
+Stalker3_LTR	7215 TaxName:Drosophila
+TABOR_I	7215 TaxName:Drosophila
+TABOR_LTR	7215 TaxName:Drosophila
+TAHRE	7227 TaxName:Drosophila
+TAR1	9443 TaxName:Primates
+TART-A	7215 TaxName:Drosophila
+TART_B1	7215 TaxName:Drosophila
+TC1-2_DM	7215 TaxName:Drosophila
+TC1DR1	7954 TaxName:Danio
+TC1DR2	7954 TaxName:Danio
+TC1DR3	7954 TaxName:Danio
+TC1DR3B	7955 TaxName:Danio rerio
+TC1_DM	7215 TaxName:Drosophila
+TC2	6239 TaxName:Caenorhabditis elegans
+TC4	6239 TaxName:Caenorhabditis elegans
+TC5	6239 TaxName:Caenorhabditis elegans
+TC5A	6239 TaxName:Caenorhabditis elegans
+TC5B	6239 TaxName:Caenorhabditis elegans
+TDR1	7954 TaxName:Danio
+TDR12	7954 TaxName:Danio
+TDR13	7954 TaxName:Danio
+TDR13B	7955 TaxName:Danio rerio
+TDR13B2	7955 TaxName:Danio rerio
+TDR13C	7955 TaxName:Danio rerio
+TDR15	7954 TaxName:Danio
+TDR16	7954 TaxName:Danio
+TDR17	7954 TaxName:Danio
+TDR17B	7955 TaxName:Danio rerio
+TDR18	7954 TaxName:Danio
+TDR19	7954 TaxName:Danio
+TDR2	7954 TaxName:Danio
+TDR20	7954 TaxName:Danio
+TDR21	7954 TaxName:Danio
+TDR22	7954 TaxName:Danio
+TDR22B	7955 TaxName:Danio rerio
+TDR23	7954 TaxName:Danio
+TDR24	7954 TaxName:Danio
+TDR25	7954 TaxName:Danio
+TDR3	7954 TaxName:Danio
+TDR3B	7955 TaxName:Danio rerio
+TDR3C	7955 TaxName:Danio rerio
+TDR4	7954 TaxName:Danio
+TDR5	7954 TaxName:Danio
+TDR6	7954 TaxName:Danio
+TDR7	7954 TaxName:Danio
+TDR8	7954 TaxName:Danio
+TDR8B	7955 TaxName:Danio rerio
+TDR8C	7955 TaxName:Danio rerio
+TDR8D	7955 TaxName:Danio rerio
+TDR9	7954 TaxName:Danio
+TE-2-1_DR	7955 TaxName:Danio rerio
+TE-U_1_DR	7955 TaxName:Danio rerio
+TE-U_2_DR	7955 TaxName:Danio rerio
+TE-X-10_DR	7955 TaxName:Danio rerio
+TE-X-11_DR	7955 TaxName:Danio rerio
+TE-X-12_DR	7955 TaxName:Danio rerio
+TE-X-13_DR	7955 TaxName:Danio rerio
+TE-X-14_DR	7955 TaxName:Danio rerio
+TE-X-15_DR	7955 TaxName:Danio rerio
+TE-X-1B_DR	7955 TaxName:Danio rerio
+TE-X-1_DR	7955 TaxName:Danio rerio
+TE-X-2B_DR	7955 TaxName:Danio rerio
+TE-X-2_DR	7955 TaxName:Danio rerio
+TE-X-3_DR	7955 TaxName:Danio rerio
+TE-X-4_DR	7955 TaxName:Danio rerio
+TE-X-6_DR	7955 TaxName:Danio rerio
+TE-X-7_DR	7955 TaxName:Danio rerio
+TE-X-8_DR	7955 TaxName:Danio rerio
+THE1-int	314293 TaxName:Simiiformes
+THE1A	314293 TaxName:Simiiformes
+THE1B	314293 TaxName:Simiiformes
+THE1C	314293 TaxName:Simiiformes
+THE1D	314293 TaxName:Simiiformes
+THE1D-int	9526 TaxName:Catarrhini
+TIR21T5A_CE	6239 TaxName:Caenorhabditis elegans
+TIR23T5A_CE	6239 TaxName:Caenorhabditis elegans
+TIR43YW1_CE	6239 TaxName:Caenorhabditis elegans
+TIR54TA1_CE	6239 TaxName:Caenorhabditis elegans
+TIR9TA1A_CE	6239 TaxName:Caenorhabditis elegans
+TIR9TA1B_CE	6239 TaxName:Caenorhabditis elegans
+TIR9TA1C_CE	6239 TaxName:Caenorhabditis elegans
+TIR9TA1_CE	6239 TaxName:Caenorhabditis elegans
+TIRANT_I	7215 TaxName:Drosophila
+TIRANT_LTR	7215 TaxName:Drosophila
+TLD2	7215 TaxName:Drosophila
+TOM_I	7215 TaxName:Drosophila
+TR5	6239 TaxName:Caenorhabditis elegans
+TRANSIB1	7215 TaxName:Drosophila
+TRANSIB2	7215 TaxName:Drosophila
+TRANSIB3	7215 TaxName:Drosophila
+TRANSIB4	7215 TaxName:Drosophila
+TRANSPAC_I	7215 TaxName:Drosophila
+TRANSPAC_LTR	7215 TaxName:Drosophila
+TZF28	7954 TaxName:Danio
+TZF28B	7955 TaxName:Danio rerio
+TZF28C	7955 TaxName:Danio rerio
+Tc1	6239 TaxName:Caenorhabditis elegans
+Tc1-1_DR	7953 TaxName:Cyprinidae
+Tc1-4_DR	7954 TaxName:Danio
+Tc1-5_DR	7955 TaxName:Danio rerio
+Tc1-6_DR	7955 TaxName:Danio rerio
+Tc1-7_DR	7955 TaxName:Danio rerio
+Tc1-8B_DR	7955 TaxName:Danio rerio
+Tc1-8_DR	7955 TaxName:Danio rerio
+Tc1A	6239 TaxName:Caenorhabditis elegans
+Tc1N1_DR	7954 TaxName:Danio
+Tc3	6239 TaxName:Caenorhabditis elegans
+Tc6	6239 TaxName:Caenorhabditis elegans
+Tigger1	311790 TaxName:Afrotheria
+Tigger1	33554 TaxName:Carnivora
+Tigger1	91561 TaxName:Cetartiodactyla
+Tigger1	9263 TaxName:Metatheria
+Tigger1	9348 TaxName:Xenarthra
+Tigger1	9443 TaxName:Primates
+Tigger1	9989 TaxName:Rodentia
+Tigger10	32525 TaxName:Theria_Mammalia
+Tigger11a	9347 TaxName:Eutheria
+Tigger12	9347 TaxName:Eutheria
+Tigger12A	9347 TaxName:Eutheria
+Tigger12c	9347 TaxName:Eutheria
+Tigger13a	9347 TaxName:Eutheria
+Tigger14a	32525 TaxName:Theria_Mammalia
+Tigger15a	32525 TaxName:Theria_Mammalia
+Tigger16a	32525 TaxName:Theria_Mammalia
+Tigger16b	32525 TaxName:Theria_Mammalia
+Tigger17	9263 TaxName:Metatheria
+Tigger17	9347 TaxName:Eutheria
+Tigger17a	9347 TaxName:Eutheria
+Tigger17b	9347 TaxName:Eutheria
+Tigger17c	9347 TaxName:Eutheria
+Tigger17d	9347 TaxName:Eutheria
+Tigger18a	9347 TaxName:Eutheria
+Tigger19a	32525 TaxName:Theria_Mammalia
+Tigger19b	32525 TaxName:Theria_Mammalia
+Tigger2	33554 TaxName:Carnivora
+Tigger2	91561 TaxName:Cetartiodactyla
+Tigger2	9443 TaxName:Primates
+Tigger20a	9347 TaxName:Eutheria
+Tigger21a	9347 TaxName:Eutheria
+Tigger22N1	9347 TaxName:Eutheria
+Tigger23a	32525 TaxName:Theria_Mammalia
+Tigger2a	9443 TaxName:Primates
+Tigger2b	9989 TaxName:Rodentia
+Tigger2b_Pri	9443 TaxName:Primates
+Tigger3	9443 TaxName:Primates
+Tigger3a	9443 TaxName:Primates
+Tigger3b	9443 TaxName:Primates
+Tigger3c	9443 TaxName:Primates
+Tigger3d	9443 TaxName:Primates
+Tigger4	9443 TaxName:Primates
+Tigger4a	9443 TaxName:Primates
+Tigger4b	9443 TaxName:Primates
+Tigger5	9392 TaxName:Scandentia
+Tigger5	9443 TaxName:Primates
+Tigger5a_Glire	314147 TaxName:Glires
+Tigger5b	9443 TaxName:Primates
+Tigger5b_Glire	314147 TaxName:Glires
+Tigger6	9347 TaxName:Eutheria
+Tigger6a	9347 TaxName:Eutheria
+Tigger6b	9347 TaxName:Eutheria
+Tigger7	9443 TaxName:Primates
+Tigger8	9347 TaxName:Eutheria
+Tigger9a	9347 TaxName:Eutheria
+Tigger9b	9347 TaxName:Eutheria
+Togen-1_DR	7955 TaxName:Danio rerio
+Transib-N1_DM	7227 TaxName:Drosophila
+Transib5	7227 TaxName:Drosophila
+Turmoil1	6239 TaxName:Caenorhabditis elegans
+Turmoil2	6239 TaxName:Caenorhabditis elegans
+Tx1-10_DR	7955 TaxName:Danio rerio
+Tx1-11_DR	7955 TaxName:Danio rerio
+Tx1-12_DR	7955 TaxName:Danio rerio
+Tx1-13_DR	7955 TaxName:Danio rerio
+Tx1-14_DR	7955 TaxName:Danio rerio
+Tx1-15_DR	7955 TaxName:Danio rerio
+Tx1-16_DR	7955 TaxName:Danio rerio
+Tx1-17_DR	7955 TaxName:Danio rerio
+Tx1-18_DR	7955 TaxName:Danio rerio
+Tx1-19_DR	7955 TaxName:Danio rerio
+Tx1-1_DR	7955 TaxName:Danio rerio
+Tx1-20_DR	7955 TaxName:Danio rerio
+Tx1-21_DR	7955 TaxName:Danio rerio
+Tx1-22_DR	7955 TaxName:Danio rerio
+Tx1-23_DR	7955 TaxName:Danio rerio
+Tx1-24_DR	7955 TaxName:Danio rerio
+Tx1-25_DR	7955 TaxName:Danio rerio
+Tx1-26_DR	7955 TaxName:Danio rerio
+Tx1-27_DR	7955 TaxName:Danio rerio
+Tx1-28_DR	7955 TaxName:Danio rerio
+Tx1-29_DR	7955 TaxName:Danio rerio
+Tx1-2_DR	7955 TaxName:Danio rerio
+Tx1-30_DR	7955 TaxName:Danio rerio
+Tx1-31_DR	7955 TaxName:Danio rerio
+Tx1-32_DR	7955 TaxName:Danio rerio
+Tx1-33_DR	7955 TaxName:Danio rerio
+Tx1-34_DR	7955 TaxName:Danio rerio
+Tx1-35_DR	7955 TaxName:Danio rerio
+Tx1-36_DR	7955 TaxName:Danio rerio
+Tx1-37_DR	7955 TaxName:Danio rerio
+Tx1-38_DR	7955 TaxName:Danio rerio
+Tx1-39_DR	7955 TaxName:Danio rerio
+Tx1-3_DR	7955 TaxName:Danio rerio
+Tx1-40_DR	7955 TaxName:Danio rerio
+Tx1-41_DR	7955 TaxName:Danio rerio
+Tx1-42_DR	7955 TaxName:Danio rerio
+Tx1-43_DR	7955 TaxName:Danio rerio
+Tx1-44_DR	7955 TaxName:Danio rerio
+Tx1-45_DR	7955 TaxName:Danio rerio
+Tx1-46_DR	7955 TaxName:Danio rerio
+Tx1-47_DR	7955 TaxName:Danio rerio
+Tx1-48_DR	7955 TaxName:Danio rerio
+Tx1-49_DR	7955 TaxName:Danio rerio
+Tx1-4_DR	7955 TaxName:Danio rerio
+Tx1-50_DR	7955 TaxName:Danio rerio
+Tx1-5_DR	7955 TaxName:Danio rerio
+Tx1-6_DR	7955 TaxName:Danio rerio
+Tx1-7_DR	7955 TaxName:Danio rerio
+Tx1-8_DR	7955 TaxName:Danio rerio
+Tx1-9_DR	7955 TaxName:Danio rerio
+U1	7742 TaxName:Vertebrata_Metazoa
+U13	7742 TaxName:Vertebrata_Metazoa
+U14	7742 TaxName:Vertebrata_Metazoa
+U17	7742 TaxName:Vertebrata_Metazoa
+U2	7742 TaxName:Vertebrata_Metazoa
+U3	7742 TaxName:Vertebrata_Metazoa
+U4	7742 TaxName:Vertebrata_Metazoa
+U5	7742 TaxName:Vertebrata_Metazoa
+U6	7742 TaxName:Vertebrata_Metazoa
+U7	7742 TaxName:Vertebrata_Metazoa
+U8	7742 TaxName:Vertebrata_Metazoa
+UCON1	32523 TaxName:Tetrapoda
+UCON100	32524 TaxName:Amniota
+UCON101	32525 TaxName:Theria_Mammalia
+UCON103	40674 TaxName:Mammalia
+UCON105	40674 TaxName:Mammalia
+UCON11	32523 TaxName:Tetrapoda
+UCON12	32524 TaxName:Amniota
+UCON12A	32524 TaxName:Amniota
+UCON14	32523 TaxName:Tetrapoda
+UCON15	32524 TaxName:Amniota
+UCON16	32524 TaxName:Amniota
+UCON17	32524 TaxName:Amniota
+UCON18	32523 TaxName:Tetrapoda
+UCON19	32524 TaxName:Amniota
+UCON2	32524 TaxName:Amniota
+UCON20	32524 TaxName:Amniota
+UCON21	32524 TaxName:Amniota
+UCON22	32524 TaxName:Amniota
+UCON23	32524 TaxName:Amniota
+UCON24	32524 TaxName:Amniota
+UCON25	32524 TaxName:Amniota
+UCON26	32524 TaxName:Amniota
+UCON28a	32524 TaxName:Amniota
+UCON28b	32524 TaxName:Amniota
+UCON28c	32524 TaxName:Amniota
+UCON29	32524 TaxName:Amniota
+UCON31	32523 TaxName:Tetrapoda
+UCON33	40674 TaxName:Mammalia
+UCON34	40674 TaxName:Mammalia
+UCON35	40674 TaxName:Mammalia
+UCON37	40674 TaxName:Mammalia
+UCON38	40674 TaxName:Mammalia
+UCON39	40674 TaxName:Mammalia
+UCON4	32524 TaxName:Amniota
+UCON40	32525 TaxName:Theria_Mammalia
+UCON41	32525 TaxName:Theria_Mammalia
+UCON44	40674 TaxName:Mammalia
+UCON47	40674 TaxName:Mammalia
+UCON48	9347 TaxName:Eutheria
+UCON5	32524 TaxName:Amniota
+UCON51	32524 TaxName:Amniota
+UCON55	40674 TaxName:Mammalia
+UCON56	32524 TaxName:Amniota
+UCON57	32524 TaxName:Amniota
+UCON58	32525 TaxName:Theria_Mammalia
+UCON59	40674 TaxName:Mammalia
+UCON6	32524 TaxName:Amniota
+UCON60	40674 TaxName:Mammalia
+UCON61	32524 TaxName:Amniota
+UCON62	32524 TaxName:Amniota
+UCON63	32524 TaxName:Amniota
+UCON64	40674 TaxName:Mammalia
+UCON65	32524 TaxName:Amniota
+UCON66	32524 TaxName:Amniota
+UCON67	32524 TaxName:Amniota
+UCON68	32524 TaxName:Amniota
+UCON69	32524 TaxName:Amniota
+UCON7	32523 TaxName:Tetrapoda
+UCON70	32524 TaxName:Amniota
+UCON71	32524 TaxName:Amniota
+UCON73	40674 TaxName:Mammalia
+UCON75	32524 TaxName:Amniota
+UCON76	40674 TaxName:Mammalia
+UCON78	32524 TaxName:Amniota
+UCON8	32523 TaxName:Tetrapoda
+UCON80	32524 TaxName:Amniota
+UCON80_AMi	32524 TaxName:Amniota
+UCON81	32525 TaxName:Theria_Mammalia
+UCON83	40674 TaxName:Mammalia
+UCON84	32524 TaxName:Amniota
+UCON85	40674 TaxName:Mammalia
+UCON86	32524 TaxName:Amniota
+UCON87	32525 TaxName:Theria_Mammalia
+UCON87B	32525 TaxName:Theria
+UCON88	40674 TaxName:Mammalia
+UCON89	32524 TaxName:Amniota
+UCON9	32524 TaxName:Amniota
+UCON92	32524 TaxName:Amniota
+UCON93	40674 TaxName:Mammalia
+UCON94	40674 TaxName:Mammalia
+UCON96	32524 TaxName:Amniota
+UCON97	32524 TaxName:Amniota
+UCON99	32524 TaxName:Amniota
+UCON9B	32524 TaxName:Amniota
+URR1A	10066 TaxName:Muridae
+URR1B	10066 TaxName:Muridae
+Vingi-1_CE	6239 TaxName:Caenorhabditis elegans
+Vingi-2_CE	6239 TaxName:Caenorhabditis elegans
+X10b_DNA	32525 TaxName:Theria_Mammalia
+X11_DNA	32525 TaxName:Theria_Mammalia
+X12_DNA	40674 TaxName:Mammalia
+X12_LINE	40674 TaxName:Mammalia
+X13_LINE	40674 TaxName:Mammalia
+X13_LINE	8457 TaxName:Sauropsida
+X15_LINE	40674 TaxName:Mammalia
+X17_LINE	40674 TaxName:Mammalia
+X1_DNA	9347 TaxName:Eutheria
+X1_LINE	32524 TaxName:Amniota
+X1_LR	40674 TaxName:Mammalia
+X20_LINE	40674 TaxName:Mammalia
+X21_LINE	40674 TaxName:Mammalia
+X22_DNA	40674 TaxName:Mammalia
+X23_DNA	40674 TaxName:Mammalia
+X24_DNA	32525 TaxName:Theria_Mammalia
+X24_LINE	40674 TaxName:Mammalia
+X26_DNA	40674 TaxName:Mammalia
+X2_LINE	32524 TaxName:Amniota
+X2a_DNA	40674 TaxName:Mammalia
+X2b_DNA	40674 TaxName:Mammalia
+X30_DNA	32525 TaxName:Theria_Mammalia
+X32_DNA	32525 TaxName:Theria_Mammalia
+X33a_DNA	40674 TaxName:Mammalia
+X34_DNA	40674 TaxName:Mammalia
+X4a_DNA	32525 TaxName:Theria_Mammalia
+X4b_DNA	32525 TaxName:Theria_Mammalia
+X5B_LINE	117571 TaxName:Euteleostomi
+X5a_DNA	32525 TaxName:Theria_Mammalia
+X6A_LINE	40674 TaxName:Mammalia
+X6B_LINE	40674 TaxName:Mammalia
+X6a_DNA	40674 TaxName:Mammalia
+X6b_DNA	32525 TaxName:Theria_Mammalia
+X7A_LINE	32524 TaxName:Amniota
+X7A_LINE	32525 TaxName:Theria_Mammalia
+X7B_LINE	32524 TaxName:Amniota
+X7B_LINE	32525 TaxName:Theria_Mammalia
+X7C_LINE	32524 TaxName:Amniota
+X7C_LINE	32525 TaxName:Theria_Mammalia
+X7D_LINE	32524 TaxName:Amniota
+X7D_LINE	32525 TaxName:Theria_Mammalia
+X8_LINE	32524 TaxName:Amniota
+X9_LINE	32524 TaxName:Amniota
+X9a_DNA	40674 TaxName:Mammalia
+X9b_DNA	40674 TaxName:Mammalia
+XDMR	7215 TaxName:Drosophila
+XDMR_DM	7215 TaxName:Drosophila
+YREP_Mm	10088 TaxName:Mus
+ZAM_I	7215 TaxName:Drosophila
+ZAM_LTR	7215 TaxName:Drosophila
+ZFERV-2-LTR_DR	7955 TaxName:Danio rerio
+ZFERV-2N1-I_DR	7955 TaxName:Danio rerio
+ZFERV-2N2-I_DR	7955 TaxName:Danio rerio
+ZFERV_I	7955 TaxName:Danio rerio
+ZFERV_LTR	7955 TaxName:Danio rerio
+ZP3AR	10066 TaxName:Muridae
+Zaphod	9347 TaxName:Eutheria
+Zaphod2	9347 TaxName:Eutheria
+Zaphod3	9347 TaxName:Eutheria
+Zaphod4a	9347 TaxName:Eutheria
+Zaphod5a	9347 TaxName:Eutheria
+Zaphod5b	9347 TaxName:Eutheria
+Zisupton-1_DR	7955 TaxName:Danio rerio
+Zisupton-2_DR	7955 TaxName:Danio rerio
+Zisupton-4_DR	7955 TaxName:Danio rerio
+Zisupton-5_DR	7955 TaxName:Danio rerio
+hAT-10_DR	7955 TaxName:Danio rerio
+hAT-11_DR	7955 TaxName:Danio rerio
+hAT-12_DR	7955 TaxName:Danio rerio
+hAT-13_DR	7955 TaxName:Danio rerio
+hAT-14_DR	7955 TaxName:Danio rerio
+hAT-15_DR	7955 TaxName:Danio rerio
+hAT-16_DR	7955 TaxName:Danio rerio
+hAT-17_DR	7955 TaxName:Danio rerio
+hAT-19_DR	7955 TaxName:Danio rerio
+hAT-1_Mam	32525 TaxName:Theria_Mammalia
+hAT-1_Mam	9255 TaxName:Monotremata
+hAT-20_DR	7955 TaxName:Danio rerio
+hAT-21_DR	7955 TaxName:Danio rerio
+hAT-22_DR	7955 TaxName:Danio rerio
+hAT-23_DR	7955 TaxName:Danio rerio
+hAT-24N1_DR	7955 TaxName:Danio rerio
+hAT-24_DR	7955 TaxName:Danio rerio
+hAT-25N1_DR	7955 TaxName:Danio rerio
+hAT-25_DR	7955 TaxName:Danio rerio
+hAT-26_DR	7955 TaxName:Danio rerio
+hAT-27N1_DR	7955 TaxName:Danio rerio
+hAT-27_DR	7955 TaxName:Danio rerio
+hAT-28N1_DR	7955 TaxName:Danio rerio
+hAT-28_DR	7955 TaxName:Danio rerio
+hAT-29_DR	7955 TaxName:Danio rerio
+hAT-2_DR	7955 TaxName:Danio rerio
+hAT-2n1_DR	7955 TaxName:Danio rerio
+hAT-30_DR	7955 TaxName:Danio rerio
+hAT-31_DR	7955 TaxName:Danio rerio
+hAT-32N1_DR	7955 TaxName:Danio rerio
+hAT-32_DR	7955 TaxName:Danio rerio
+hAT-4_DR	7955 TaxName:Danio rerio
+hAT-4b_Ther	32525 TaxName:Theria_Mammalia
+hAT-5_DR	7955 TaxName:Danio rerio
+hAT-5_Mam	40674 TaxName:Mammalia
+hAT-6_DR	7955 TaxName:Danio rerio
+hAT-7_DR	7955 TaxName:Danio rerio
+hAT-8_DR	7955 TaxName:Danio rerio
+hAT-9_DR	7955 TaxName:Danio rerio
+hAT-N100B_DR	7955 TaxName:Danio rerio
+hAT-N100_DR	7955 TaxName:Danio rerio
+hAT-N101_DR	7955 TaxName:Danio rerio
+hAT-N102_DR	7955 TaxName:Danio rerio
+hAT-N103_DR	7955 TaxName:Danio rerio
+hAT-N104_DR	7955 TaxName:Danio rerio
+hAT-N105_DR	7955 TaxName:Danio rerio
+hAT-N106_DR	7955 TaxName:Danio rerio
+hAT-N107_DR	7955 TaxName:Danio rerio
+hAT-N108_DR	7955 TaxName:Danio rerio
+hAT-N109_DR	7955 TaxName:Danio rerio
+hAT-N110_DR	7955 TaxName:Danio rerio
+hAT-N111_DR	7955 TaxName:Danio rerio
+hAT-N112_DR	7955 TaxName:Danio rerio
+hAT-N113_DR	7955 TaxName:Danio rerio
+hAT-N114_DR	7955 TaxName:Danio rerio
+hAT-N115_DR	7955 TaxName:Danio rerio
+hAT-N116_DR	7955 TaxName:Danio rerio
+hAT-N117_DR	7955 TaxName:Danio rerio
+hAT-N118_DR	7955 TaxName:Danio rerio
+hAT-N119_DR	7955 TaxName:Danio rerio
+hAT-N120_DR	7955 TaxName:Danio rerio
+hAT-N121_DR	7955 TaxName:Danio rerio
+hAT-N122_DR	7955 TaxName:Danio rerio
+hAT-N123_DR	7955 TaxName:Danio rerio
+hAT-N124_DR	7955 TaxName:Danio rerio
+hAT-N125_DR	7955 TaxName:Danio rerio
+hAT-N126B_DR	7955 TaxName:Danio rerio
+hAT-N126C_DR	7955 TaxName:Danio rerio
+hAT-N126_DR	7955 TaxName:Danio rerio
+hAT-N127_DR	7955 TaxName:Danio rerio
+hAT-N128_DR	7955 TaxName:Danio rerio
+hAT-N129_DR	7955 TaxName:Danio rerio
+hAT-N130_DR	7955 TaxName:Danio rerio
+hAT-N131_DR	7955 TaxName:Danio rerio
+hAT-N132_DR	7955 TaxName:Danio rerio
+hAT-N133_DR	7955 TaxName:Danio rerio
+hAT-N134_DR	7955 TaxName:Danio rerio
+hAT-N135_DR	7955 TaxName:Danio rerio
+hAT-N136_DR	7955 TaxName:Danio rerio
+hAT-N137_DR	7955 TaxName:Danio rerio
+hAT-N138_DR	7955 TaxName:Danio rerio
+hAT-N139_DR	7955 TaxName:Danio rerio
+hAT-N140_DR	7955 TaxName:Danio rerio
+hAT-N141_DR	7955 TaxName:Danio rerio
+hAT-N142_DR	7955 TaxName:Danio rerio
+hAT-N143_DR	7955 TaxName:Danio rerio
+hAT-N145_DR	7955 TaxName:Danio rerio
+hAT-N146_DR	7955 TaxName:Danio rerio
+hAT-N147_DR	7955 TaxName:Danio rerio
+hAT-N148_DR	7955 TaxName:Danio rerio
+hAT-N149_DR	7955 TaxName:Danio rerio
+hAT-N150_DR	7955 TaxName:Danio rerio
+hAT-N151_DR	7955 TaxName:Danio rerio
+hAT-N152_DR	7955 TaxName:Danio rerio
+hAT-N18_DR	7955 TaxName:Danio rerio
+hAT-N19_DR	7955 TaxName:Danio rerio
+hAT-N1_Mam	9347 TaxName:Eutheria
+hAT-N1a_Mam	9347 TaxName:Eutheria
+hAT-N20_DR	7955 TaxName:Danio rerio
+hAT-N21B_DR	7955 TaxName:Danio rerio
+hAT-N21_DR	7955 TaxName:Danio rerio
+hAT-N22_DR	7955 TaxName:Danio rerio
+hAT-N23_DR	7955 TaxName:Danio rerio
+hAT-N24_DR	7955 TaxName:Danio rerio
+hAT-N25B_DR	7955 TaxName:Danio rerio
+hAT-N25_DR	7955 TaxName:Danio rerio
+hAT-N26_DR	7955 TaxName:Danio rerio
+hAT-N27_DR	7955 TaxName:Danio rerio
+hAT-N28_DR	7955 TaxName:Danio rerio
+hAT-N29_DR	7955 TaxName:Danio rerio
+hAT-N30_DR	7955 TaxName:Danio rerio
+hAT-N31_DR	7955 TaxName:Danio rerio
+hAT-N32B_DR	7955 TaxName:Danio rerio
+hAT-N32C_DR	7955 TaxName:Danio rerio
+hAT-N32D_DR	7955 TaxName:Danio rerio
+hAT-N32E_DR	7955 TaxName:Danio rerio
+hAT-N32_DR	7955 TaxName:Danio rerio
+hAT-N34_DR	7955 TaxName:Danio rerio
+hAT-N35B_DR	7955 TaxName:Danio rerio
+hAT-N35C_DR	7955 TaxName:Danio rerio
+hAT-N35_DR	7955 TaxName:Danio rerio
+hAT-N36B_DR	7955 TaxName:Danio rerio
+hAT-N36C_DR	7955 TaxName:Danio rerio
+hAT-N36_DR	7955 TaxName:Danio rerio
+hAT-N37_DR	7955 TaxName:Danio rerio
+hAT-N38_DR	7955 TaxName:Danio rerio
+hAT-N39_DR	7955 TaxName:Danio rerio
+hAT-N40_DR	7955 TaxName:Danio rerio
+hAT-N41B_DR	7955 TaxName:Danio rerio
+hAT-N41_DR	7955 TaxName:Danio rerio
+hAT-N42_DR	7955 TaxName:Danio rerio
+hAT-N44_DR	7955 TaxName:Danio rerio
+hAT-N45B_DR	7955 TaxName:Danio rerio
+hAT-N45_DR	7955 TaxName:Danio rerio
+hAT-N46_DR	7955 TaxName:Danio rerio
+hAT-N47B_DR	7955 TaxName:Danio rerio
+hAT-N47_DR	7955 TaxName:Danio rerio
+hAT-N48_DR	7955 TaxName:Danio rerio
+hAT-N49_DR	7955 TaxName:Danio rerio
+hAT-N50B_DR	7955 TaxName:Danio rerio
+hAT-N50_DR	7955 TaxName:Danio rerio
+hAT-N51_DR	7955 TaxName:Danio rerio
+hAT-N52B_DR	7955 TaxName:Danio rerio
+hAT-N52_DR	7955 TaxName:Danio rerio
+hAT-N53B_DR	7955 TaxName:Danio rerio
+hAT-N53_DR	7955 TaxName:Danio rerio
+hAT-N54B_DR	7955 TaxName:Danio rerio
+hAT-N54_DR	7955 TaxName:Danio rerio
+hAT-N55_DR	7955 TaxName:Danio rerio
+hAT-N56_DR	7955 TaxName:Danio rerio
+hAT-N57_DR	7955 TaxName:Danio rerio
+hAT-N58B_DR	7955 TaxName:Danio rerio
+hAT-N58_DR	7955 TaxName:Danio rerio
+hAT-N59B_DR	7955 TaxName:Danio rerio
+hAT-N59_DR	7955 TaxName:Danio rerio
+hAT-N60_DR	7955 TaxName:Danio
+hAT-N61_DR	7955 TaxName:Danio
+hAT-N62_DR	7955 TaxName:Danio
+hAT-N63_DR	7955 TaxName:Danio
+hAT-N64_DR	7955 TaxName:Danio rerio
+hAT-N65_DR	7955 TaxName:Danio rerio
+hAT-N66B_DR	7955 TaxName:Danio rerio
+hAT-N66_DR	7955 TaxName:Danio rerio
+hAT-N67_DR	7955 TaxName:Danio rerio
+hAT-N68_DR	7955 TaxName:Danio rerio
+hAT-N69_DR	7955 TaxName:Danio rerio
+hAT-N70_DR	7955 TaxName:Danio rerio
+hAT-N71_DR	7955 TaxName:Danio rerio
+hAT-N72_DR	7955 TaxName:Danio rerio
+hAT-N73_DR	7955 TaxName:Danio rerio
+hAT-N74_DR	7955 TaxName:Danio rerio
+hAT-N75_DR	7955 TaxName:Danio rerio
+hAT-N76_DR	7955 TaxName:Danio rerio
+hAT-N77_DR	7955 TaxName:Danio rerio
+hAT-N78_DR	7955 TaxName:Danio rerio
+hAT-N79_DR	7955 TaxName:Danio rerio
+hAT-N80_DR	7955 TaxName:Danio rerio
+hAT-N81_DR	7955 TaxName:Danio rerio
+hAT-N82_DR	7955 TaxName:Danio rerio
+hAT-N83_DR	7955 TaxName:Danio rerio
+hAT-N85_DR	7955 TaxName:Danio rerio
+hAT-N86_DR	7955 TaxName:Danio rerio
+hAT-N87_DR	7955 TaxName:Danio rerio
+hAT-N88_DR	7955 TaxName:Danio rerio
+hAT-N89_DR	7955 TaxName:Danio rerio
+hAT-N90_DR	7955 TaxName:Danio rerio
+hAT-N91_DR	7955 TaxName:Danio rerio
+hAT-N92_DR	7955 TaxName:Danio rerio
+hAT-N93_DR	7955 TaxName:Danio rerio
+hAT-N94_DR	7955 TaxName:Danio rerio
+hAT-N95_DR	7955 TaxName:Danio rerio
+hAT-N96_DR	7955 TaxName:Danio rerio
+hAT-N97_DR	7955 TaxName:Danio rerio
+hAT-N98_DR	7955 TaxName:Danio rerio
+hAT-N99_DR	7955 TaxName:Danio rerio
+hAT5-N1_DR	7955 TaxName:Danio rerio
+hAT5-N2_DR	7955 TaxName:Danio rerio
+hATN-28_DRe	7955 TaxName:Danio rerio
+hATN13C_DR	7955 TaxName:Danio rerio
+hATN4B_DR	7955 TaxName:Danio rerio
+hATN78B_DR	7955 TaxName:Danio rerio
+hATN96B_DR	7955 TaxName:Danio rerio
+piggyBac-1_DR	7955 TaxName:Danio rerio
+piggyBac-N10_DR	7955 TaxName:Danio rerio
+piggyBac-N11_DR	7955 TaxName:Danio rerio
+piggyBac-N12_DR	7955 TaxName:Danio rerio
+piggyBac-N13_DR	7955 TaxName:Danio rerio
+piggyBac-N1_DR	7955 TaxName:Danio rerio
+piggyBac-N2_DR	7955 TaxName:Danio rerio
+piggyBac-N3_DR	7955 TaxName:Danio rerio
+piggyBac-N4_DR	7955 TaxName:Danio rerio
+piggyBac-N5B_DR	7955 TaxName:Danio rerio
+piggyBac-N5_DR	7955 TaxName:Danio rerio
+piggyBac-N6_DR	7955 TaxName:Danio rerio
+piggyBac-N7_DR	7955 TaxName:Danio rerio
+piggyBac-N8_DR	7955 TaxName:Danio rerio
+piggyBac-N9_DR	7955 TaxName:Danio rerio
+tRNA-1_DRe	7955 TaxName:Danio rerio
+tRNA-2_DRe	7955 TaxName:Danio rerio
+tRNA-3_DRe	7955 TaxName:Danio rerio
+tRNA-Ala-GCA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Ala-GCG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Ala-GCY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Ala-GCY_v	7742 TaxName:Vertebrata_Metazoa
+tRNA-Arg-AGA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Arg-AGG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Arg-CGA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Arg-CGY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Asn-AAC	7742 TaxName:Vertebrata_Metazoa
+tRNA-Asp-GAY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Cys-TGY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Gln-CAA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Gln-CAA_v	7742 TaxName:Vertebrata_Metazoa
+tRNA-Gln-CAG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Glu-GAA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Glu-GAG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Glu-GAG_v	7742 TaxName:Vertebrata_Metazoa
+tRNA-Gly-GGA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Gly-GGG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Gly-GGY	7742 TaxName:Vertebrata_Metazoa
+tRNA-His-CAY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Ile-ATA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Ile-ATC	7742 TaxName:Vertebrata_Metazoa
+tRNA-Ile-ATT	7742 TaxName:Vertebrata_Metazoa
+tRNA-Leu-CTA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Leu-CTG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Leu-CTY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Leu-TTA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Leu-TTG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Lys-AAA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Lys-AAG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Met	7742 TaxName:Vertebrata_Metazoa
+tRNA-Met-i	7742 TaxName:Vertebrata_Metazoa
+tRNA-Met_v	7742 TaxName:Vertebrata_Metazoa
+tRNA-Phe-TTY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Pro-CCA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Pro-CCG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Pro-CCY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Ser-AGY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Ser-TCG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Ser-TCY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Thr-ACA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Thr-ACG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Thr-ACY	7742 TaxName:Vertebrata_Metazoa
+tRNA-Trp-TGG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Tyr-TAC	7742 TaxName:Vertebrata_Metazoa
+tRNA-Tyr-TAT	7742 TaxName:Vertebrata_Metazoa
+tRNA-Val-GTA	7742 TaxName:Vertebrata_Metazoa
+tRNA-Val-GTG	7742 TaxName:Vertebrata_Metazoa
+tRNA-Val-GTY	7742 TaxName:Vertebrata_Metazoa
